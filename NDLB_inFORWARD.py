@@ -33,7 +33,7 @@ from obspy.core import UTCDateTime
 ############################# Main Program #############################
 ########################################################################
 
-def NDLB_inAXISEM(**kwargs):
+def NDLB_inFORWARD(**kwargs):
     
     global input
     
@@ -43,8 +43,13 @@ def NDLB_inAXISEM(**kwargs):
     # ------------------Read INPUT file (Parameters)--------------------
     read_input_command(parser, **kwargs)
     
-    # ------------------STATIONS----------------------------------------
-    STATIONS()
+    # ------------------AXISEM------------------------------------------
+    if input['AXISEM'] != 'N': 
+        AXISEM()
+
+    # ------------------YSPEC-------------------------------------------
+    if input['YSPEC'] != 'N': 
+        YSPEC()
 
 ########################################################################
 ###################### Functions are defined here ######################
@@ -76,8 +81,12 @@ def command_parse():
     parser.add_option("--identity", action="store", dest="identity",
                         help=helpmsg)
     
-    helpmsg = "create STATIONS file for AXISEM"
-    parser.add_option("--STATIONS", action="store_true", dest="STATIONS",
+    helpmsg = "create STATIONS and colatlon files for AXISEM."
+    parser.add_option("--AXISEM", action="store_true", dest="AXISEM",
+                        help=helpmsg)
+    
+    helpmsg = "create input file (yspec.in) for YSPEC."
+    parser.add_option("--YSPEC", action="store_true", dest="YSPEC",
                         help=helpmsg)
     
     # parse command line options
@@ -114,12 +123,14 @@ def read_input_command(parser):
     
     input['address'] = options.address
     input['identity'] = options.identity
-    if options.STATIONS: 
-        input['STATIONS'] = 'Y'
+    if options.AXISEM: 
+        input['AXISEM'] = 'Y'
+    if options.YSPEC: 
+        input['YSPEC'] = 'Y'
 
-###################### find_event ######################################
+###################### AXISEM ##########################################
 
-def STATIONS():
+def AXISEM():
     
     """
     Create STATIONS file as an input for AXISEM
@@ -150,7 +161,41 @@ def STATIONS():
                             '0.0000000E+00' + \
                             ' '*(15 - len('0.0000000E+00')) + \
                             '0.0000000E+00' + '\n')
-            
+ 
+###################### YSPEC ############################################
+
+def YSPEC():
+    
+    """
+    Create input file (yspec.in) for YSPEC
+    """
+    
+    global input
+    
+    events, address_events = quake_info(input['address'], 'info')
+    
+    for i in range(0, len(events)):
+        sta_ev = read_station_event(address_events[i])
+        
+        for j in range(0, len(sta_ev[0])):
+            sta_ev[0][j][8] = sta_ev[0][j][0] + '_' + sta_ev[0][j][1]
+        sta_ev_req = list(unique_items(sta_ev[0]))
+        
+        for j in range(0, len(sta_ev_req)):
+            STATIONS_file = open(os.path.join(address_events[i],\
+                                'info', 'STATIONS'), 'a+') 
+            STATIONS_file.writelines(sta_ev_req[j][1] + \
+                            ' '*(5 - len('%s' % sta_ev_req[j][0])) + '%s' \
+                            % sta_ev_req[j][0] + \
+                            ' '*(9 - len('%.2f' % float(sta_ev_req[j][4]))) + '%.2f' \
+                            % float(sta_ev_req[j][4]) + \
+                            ' '*(9 - len('%.2f' % float(sta_ev_req[j][5]))) + '%.2f' \
+                            % float(sta_ev_req[j][5]) + \
+                            ' '*(15 - len('0.0000000E+00')) + \
+                            '0.0000000E+00' + \
+                            ' '*(15 - len('0.0000000E+00')) + \
+                            '0.0000000E+00' + '\n')
+              
 ###################### unique_items ####################################
 
 def unique_items(L):
@@ -585,7 +630,7 @@ def locate(root = '.', target = 'info'):
 if __name__ == "__main__":
     
     t1_pro = time.time()
-    status = NDLB_inAXISEM()
+    status = NDLB_inFORWARD()
     
     t_pro = time.time() - t1_pro
     print "Total time: %f seconds" % (t_pro)
