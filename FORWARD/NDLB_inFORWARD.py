@@ -23,11 +23,14 @@
 from __future__ import with_statement
 import os
 import sys
+import shutil
+import glob
 import time
 import fnmatch
 from optparse import OptionParser
 
-from obspy.core import UTCDateTime
+from obspy.core import read, UTCDateTime
+from obspy.taup.taup import getTravelTimes, locations2degrees
 
 ########################################################################
 ############################# Main Program #############################
@@ -45,11 +48,17 @@ def NDLB_inFORWARD(**kwargs):
     
     # ------------------AXISEM------------------------------------------
     if input['AXISEM'] != 'N': 
-        AXISEM()
+        if input['phase'] == '!N!': 
+            AXISEM()
+        else:
+            AXISEM_Phase()
 
     # ------------------YSPEC-------------------------------------------
     if input['YSPEC'] != 'N': 
-        YSPEC()
+        if input['phase'] == '!N!': 
+            YSPEC()
+        else:
+            YSPEC_Phase()
 
 ########################################################################
 ###################### Functions are defined here ######################
@@ -73,6 +82,17 @@ def command_parse():
     # given with dest="var"
     # * you need to provide every possible option here.
     
+    avail_ph = \
+        "P ,  P'P'ab ,  P'P'bc ,  P'P'df ,  PKKPab ,  PKKPbc ,  PKKPdf , PKKSab ," + '\n' + \
+        "PKKSbc ,  PKKSdf ,  PKPab ,  PKPbc ,  PKPdf ,  PKPdiff ,  PKSab ,  PKSbc ," + '\n' + \
+        "PKSdf ,  PKiKP ,  PP ,  PS ,  PcP ,  PcS ,  Pdiff ,  Pn ,  PnPn ,  PnS ," + '\n' + \
+        "S ,  S'S'ac ,  S'S'df ,  SKKPab ,  SKKPbc ,  SKKPdf ,  SKKSac ,  SKKSdf ," + '\n' + \
+        "SKPab ,  SKPbc ,  SKPdf ,  SKSac ,  SKSdf ,  SKiKP ,  SP ,  SPg ,  SPn ," + '\n' + \
+        "SS ,  ScP ,  ScS ,  Sdiff ,  Sn ,  SnSn ,  pP ,  pPKPab ,  pPKPbc ," + '\n' + \
+        "pPKPdf ,  pPKPdiff ,  pPKiKP ,  pPdiff ,  pPn ,  pS ,  pSKSac ,  pSKSdf ," + '\n' + \
+        "pSdiff ,  sP ,  sPKPab ,  sPKPbc ,  sPKPdf ,  sPKPdiff ,  sPKiKP ,  sPb ," + '\n' + \
+        "sPdiff ,  sPg ,  sPn ,  sS ,  sSKSac ,  sSKSdf ,  sSdiff ,  sSn" + '\n'
+    
     helpmsg = "The address of the event folder."
     parser.add_option("--address", action="store",
                       dest="address", help=helpmsg)
@@ -87,6 +107,17 @@ def command_parse():
     
     helpmsg = "create input file (yspec.in) for YSPEC."
     parser.add_option("--YSPEC", action="store_true", dest="YSPEC",
+                        help=helpmsg)
+    
+    helpmsg = "The background model to compute arrival times. " + \
+                         "(iasp91 or ak135)"
+    parser.add_option("--back_model", action="store", dest="model",
+                        help=helpmsg)
+    
+    helpmsg = 'The phase(s) that you are looking for.' \
+                        + ' format: Phase1-Phase2-...' + '\n' + \
+                        'Available phases are as follow:' + '\n' + avail_ph
+    parser.add_option("--phase", action="store", dest="phase",
                         help=helpmsg)
     
     # parse command line options
@@ -107,6 +138,7 @@ def read_input_command(parser):
     
     input = {   'address': 'psdata',
                 'identity': '*.*.*.*',
+                'model': 'iasp91',
             }
     
     # feed input dictionary of defaults into parser object
@@ -132,6 +164,12 @@ def read_input_command(parser):
         input['YSPEC'] = 'Y'
     else:
         input['YSPEC'] = 'N'
+    
+    input['model'] = options.model
+    if options.phase: 
+        input['phase'] = options.phase.split('-')
+    else:
+        input['phase'] = '!N!'
 
 ###################### AXISEM ##########################################
 
@@ -148,9 +186,78 @@ def AXISEM():
     for i in range(0, len(events)):
         sta_ev = read_station_event(address_events[i])
         
-        for j in range(0, len(sta_ev[0])):
-            sta_ev[0][j][8] = sta_ev[0][j][0] + '_' + sta_ev[0][j][1]
-        sta_ev_req = list(unique_items(sta_ev[0]))
+        for j in range(0, len(sta_ev[i])):
+            sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1]
+        sta_ev_req = list(unique_items(sta_ev[i]))
+        
+        if os.path.isfile(os.path.join(address_events[i],\
+                            'info', 'receivers.dat')):
+            os.remove(os.path.join(address_events[i],\
+                            'info', 'receivers.dat'))
+        
+        if os.path.isfile(os.path.join(address_events[i],\
+                            'info', 'STATIONS')):
+            os.remove(os.path.join(address_events[i],\
+                            'info', 'STATIONS'))
+        
+        receivers_file = open(os.path.join(address_events[i],\
+                            'info', 'receivers.dat'), 'a+') 
+        
+        receivers_file.writelines(str(len(sta_ev_req)) + '\n')
+        for j in range(0, len(sta_ev_req)):
+            STATIONS_file = open(os.path.join(address_events[i],\
+                                'info', 'STATIONS'), 'a+') 
+            receivers_file = open(os.path.join(address_events[i],\
+                                'info', 'receivers.dat'), 'a+') 
+            STATIONS_file.writelines(sta_ev_req[j][1] + \
+                            ' '*(5 - len('%s' % sta_ev_req[j][0])) + '%s' \
+                            % sta_ev_req[j][0] + \
+                            ' '*(9 - len('%.2f' % float(sta_ev_req[j][4]))) + '%.2f' \
+                            % float(sta_ev_req[j][4]) + \
+                            ' '*(9 - len('%.2f' % float(sta_ev_req[j][5]))) + '%.2f' \
+                            % float(sta_ev_req[j][5]) + \
+                            ' '*(15 - len('0.0000000E+00')) + \
+                            '0.0000000E+00' + \
+                            ' '*(15 - len('0.0000000E+00')) + \
+                            '0.0000000E+00' + '\n')
+            receivers_file.writelines( \
+                            str(round(90.0 - float(sta_ev_req[j][4]), 1)) + ' ' + \
+                            str(float(sta_ev_req[j][5])) + \
+                            '\n')
+
+###################### AXISEM_Phase ####################################
+
+def AXISEM_Phase():
+    
+    """
+    Create STATIONS file as an input for AXISEM
+    """
+    
+    global input
+    
+    events, address_events = quake_info(input['address'], 'info')
+    
+    for i in range(0, len(events)):
+        
+        
+        
+        sta_ev_select = []
+        sta_ev = read_station_event(address_events[i])
+        
+        for j in range(0, len(sta_ev[i])):
+            dist = locations2degrees(lat1 = float(sta_ev[i][j][9]), \
+                long1 = float(sta_ev[i][j][10]), lat2 = float(sta_ev[i][j][4]), \
+                long2 = float(sta_ev[i][j][5]))
+            tt = getTravelTimes(delta=dist, depth=float(sta_ev[i][j][11]), \
+                                model=input['model'])
+                                
+            sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1]
+            
+            for m in range(0, len(tt)):
+                if tt[m]['phase_name'] in input['phase']:
+                    sta_ev_select.append(sta_ev[i][j])
+                    
+        sta_ev_req = list(unique_items(sta_ev_select))
         
         if os.path.isfile(os.path.join(address_events[i],\
                             'info', 'receivers.dat')):
@@ -202,43 +309,220 @@ def YSPEC():
     for i in range(0, len(events)):
         sta_ev = read_station_event(address_events[i])
         
-        for j in range(0, len(sta_ev[0])):
-            sta_ev[0][j][8] = sta_ev[0][j][0] + '_' + sta_ev[0][j][1]
-        sta_ev_req = list(unique_items(sta_ev[0]))
+        for j in range(0, len(sta_ev[i])):
+            sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1]
+        sta_ev_req = list(unique_items(sta_ev[i]))
         
         if os.path.isfile(os.path.join(address_events[i],\
                             'info', 'yspec.in')):
             os.remove(os.path.join(address_events[i],\
                             'info', 'yspec.in'))
         
-        #yspecin_file = open(os.path.join(address_events[i],\
-        #                    'info', 'yspec.in'), 'a+') 
-        import ipdb; ipdb.set_trace()
+        shutil.copy2('./yspec.in', os.path.join(address_events[i],\
+                            'info', 'yspec.in'))
+        
+        if os.path.isfile(os.path.join(address_events[i],\
+                            'info', 'sta_yspec')):
+            os.remove(os.path.join(address_events[i],\
+                            'info', 'sta_yspec'))
+        sta_yspec_open = open(os.path.join(address_events[i],\
+                            'info', 'sta_yspec'), 'a+') 
+        
+        for j in range(0, len(sta_ev_req)):
+            sta_yspec_open.writelines(sta_ev_req[j][0] + ',' + \
+                    sta_ev_req[j][1] + ',' + sta_ev_req[j][2] + ',' + \
+                    sta_ev_req[j][3] + ',' + sta_ev_req[j][4] + ',' + \
+                    sta_ev_req[j][5] + ',' + sta_ev_req[j][6] + ',' + \
+                    sta_ev_req[j][7] + ',' + sta_ev_req[j][8] + ',' + \
+                    sta_ev_req[j][9] + ',' + sta_ev_req[j][10] + ',' + \
+                    sta_ev_req[j][11] + ',' + sta_ev_req[j][12] + ',\n')
+        sta_yspec_open.close()
+        
+        receivers = []
+        receivers.append('\n')
+        for j in range(0, len(sta_ev_req)):
+            receivers.append( '   ' + \
+                            str(round(float(sta_ev_req[j][4]), 2)) + '    ' + \
+                            str(round(float(sta_ev_req[j][5]), 2)) + \
+                            '\n')
+
+        yspecin_open = open(os.path.join(address_events[i],\
+                            'info', 'yspec.in'), 'a+') 
+        
+        yspecin_file = yspecin_open.readlines()
+        
+        search = '# source depth (km)'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + \
+                                str(round(float(sta_ev_req[0][11]), 2)) + '\n'
+                break
+        
+        search = '# source latitude (deg)'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + \
+                                str(round(float(sta_ev_req[0][9]), 2)) + '\n'
+                break
+                
+        search = '# source longitude (deg)'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + \
+                                str(round(float(sta_ev_req[0][10]), 2)) + '\n'
+                break
+        
+        search = '# number of receivers'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + str(len(receivers)-1) + '\n'
+                break
+        
+        search = '# receiver latitudes and longitudes'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1:] = receivers
+                break
+        
+        yspecin_open.close()
+        os.remove(os.path.join(address_events[i], 'info', 'yspec.in'))
+        yspecin_open = open(os.path.join(address_events[i],\
+                            'info', 'yspec.in'), 'a+')
+        for j in range(0, len(yspecin_file)):
+            yspecin_open.write(yspecin_file[j])
+        yspecin_open.close()
+        
+        print '\n***************************************'
+        print 'Following Parameters have been changed:\n'
+        print 'source depth'
+        print 'source latitude'
+        print 'source longitude'
+        print 'number of receivers'
+        print 'receiver latitude and longitude\n'
+        print 'Please change the rest yourself!'
+        print '***************************************'
+
+###################### YSPEC_Phase #####################################
+
+def YSPEC_Phase():
+    
+    """
+    Create input file (yspec.in) for YSPEC based on the selected Phase
+    """
+    
+    global input
+    
+    events, address_events = quake_info(input['address'], 'info')
+    
+    for i in range(0, len(events)):
+        sta_ev_select = []
+        sta_ev = read_station_event(address_events[i])
+        
+        for j in range(0, len(sta_ev[i])):
+            dist = locations2degrees(lat1 = float(sta_ev[i][j][9]), \
+                long1 = float(sta_ev[i][j][10]), lat2 = float(sta_ev[i][j][4]), \
+                long2 = float(sta_ev[i][j][5]))
+            tt = getTravelTimes(delta=dist, depth=float(sta_ev[i][j][11]), \
+                                model=input['model'])
+                                
+            sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1]
+            
+            for m in range(0, len(tt)):
+                if tt[m]['phase_name'] in input['phase']:
+                    sta_ev_select.append(sta_ev[i][j])
+                    
+        #import ipdb; ipdb.set_trace()
+        sta_ev_req = list(unique_items(sta_ev_select))
+        
+        
+        if os.path.isfile(os.path.join(address_events[i],\
+                            'info', 'yspec.in')):
+            os.remove(os.path.join(address_events[i],\
+                            'info', 'yspec.in'))
         
         shutil.copy2('./yspec.in', os.path.join(address_events[i],\
                             'info', 'yspec.in'))
-
-        receivers_file.writelines(str(len(sta_ev_req)) + '\n')
+        
+        if os.path.isfile(os.path.join(address_events[i],\
+                            'info', 'sta_yspec')):
+            os.remove(os.path.join(address_events[i],\
+                            'info', 'sta_yspec'))
+        sta_yspec_open = open(os.path.join(address_events[i],\
+                            'info', 'sta_yspec'), 'a+') 
+        
         for j in range(0, len(sta_ev_req)):
-            STATIONS_file = open(os.path.join(address_events[i],\
-                                'info', 'STATIONS'), 'a+') 
-            receivers_file = open(os.path.join(address_events[i],\
-                                'info', 'receivers.dat'), 'a+') 
-            STATIONS_file.writelines(sta_ev_req[j][1] + \
-                            ' '*(5 - len('%s' % sta_ev_req[j][0])) + '%s' \
-                            % sta_ev_req[j][0] + \
-                            ' '*(9 - len('%.2f' % float(sta_ev_req[j][4]))) + '%.2f' \
-                            % float(sta_ev_req[j][4]) + \
-                            ' '*(9 - len('%.2f' % float(sta_ev_req[j][5]))) + '%.2f' \
-                            % float(sta_ev_req[j][5]) + \
-                            ' '*(15 - len('0.0000000E+00')) + \
-                            '0.0000000E+00' + \
-                            ' '*(15 - len('0.0000000E+00')) + \
-                            '0.0000000E+00' + '\n')
-            receivers_file.writelines( \
-                            str(round(90.0 - float(sta_ev_req[j][4]), 1)) + ' ' + \
-                            str(float(sta_ev_req[j][5])) + \
+            sta_yspec_open.writelines(sta_ev_req[j][0] + ',' + \
+                    sta_ev_req[j][1] + ',' + sta_ev_req[j][2] + ',' + \
+                    sta_ev_req[j][3] + ',' + sta_ev_req[j][4] + ',' + \
+                    sta_ev_req[j][5] + ',' + sta_ev_req[j][6] + ',' + \
+                    sta_ev_req[j][7] + ',' + sta_ev_req[j][8] + ',' + \
+                    sta_ev_req[j][9] + ',' + sta_ev_req[j][10] + ',' + \
+                    sta_ev_req[j][11] + ',' + sta_ev_req[j][12] + ',\n')
+        sta_yspec_open.close()
+        
+        receivers = []
+        receivers.append('\n')
+        for j in range(0, len(sta_ev_req)):
+            receivers.append( '   ' + \
+                            str(round(float(sta_ev_req[j][4]), 2)) + '    ' + \
+                            str(round(float(sta_ev_req[j][5]), 2)) + \
                             '\n')
+
+        yspecin_open = open(os.path.join(address_events[i],\
+                            'info', 'yspec.in'), 'a+') 
+        
+        yspecin_file = yspecin_open.readlines()
+        
+        search = '# source depth (km)'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + \
+                                str(round(float(sta_ev_req[0][11]), 2)) + '\n'
+                break
+        
+        search = '# source latitude (deg)'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + \
+                                str(round(float(sta_ev_req[0][9]), 2)) + '\n'
+                break
+                
+        search = '# source longitude (deg)'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + \
+                                str(round(float(sta_ev_req[0][10]), 2)) + '\n'
+                break
+        
+        search = '# number of receivers'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1] = '  ' + str(len(receivers)-1) + '\n'
+                break
+        
+        search = '# receiver latitudes and longitudes'
+        for j in range(0, len(yspecin_file)):
+            if yspecin_file[j].find(search) != -1:
+                yspecin_file[j+1:] = receivers
+                break
+        
+        yspecin_open.close()
+        os.remove(os.path.join(address_events[i], 'info', 'yspec.in'))
+        yspecin_open = open(os.path.join(address_events[i],\
+                            'info', 'yspec.in'), 'a+')
+        for j in range(0, len(yspecin_file)):
+            yspecin_open.write(yspecin_file[j])
+        yspecin_open.close()
+        
+        print '\n***************************************'
+        print 'Following Parameters have been changed:\n'
+        print 'source depth'
+        print 'source latitude'
+        print 'source longitude'
+        print 'number of receivers'
+        print 'receiver latitude and longitude\n'
+        print 'Please change the rest yourself!'
+        print '***************************************'
 
 ###################### unique_items ####################################
 
