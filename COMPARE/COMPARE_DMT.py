@@ -27,6 +27,7 @@ from optparse import OptionParser
 
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 
 from obspy.core import read, UTCDateTime, util
 from obspy.iris import Client
@@ -505,25 +506,25 @@ def single_comparison():
                 plt.subplot2grid((3,4), (0,0), colspan=4, rowspan=2)
                 #plt.subplot(211)
             
-            plt.plot(time_tr1, tr1_data, color = 'blue', label = label_tr1)
-            plt.plot(time_tr2, tr2_data, color = 'red', label = label_tr2)
+            plt.plot(time_tr1, tr1_data, color = 'blue', label = label_tr1, lw=3)
+            plt.plot(time_tr2, tr2_data, color = 'red', label = label_tr2, lw=3)
             #plt.plot(time_tr3, tr3_data, color = 'black', ls = '--', label = label_tr3)
 
-            plt.xlabel('Time (sec)', fontsize = 'large', weight = 'bold')
+            plt.xlabel('Time (sec)', fontsize = 'xx-large', weight = 'bold')
             
             if input['corr_unit'] == 'dis':
-                ylabel_str = 'Relative Dis'
+                ylabel_str = 'Relative Displacement'
             elif input['corr_unit'] == 'vel':
                 ylabel_str = 'Relative Vel'
             elif input['corr_unit'] == 'acc':
                 ylabel_str = 'Relative Acc'
             
-            plt.ylabel(ylabel_str, fontsize = 'large', weight = 'bold')
+            plt.ylabel(ylabel_str, fontsize = 'xx-large', weight = 'bold')
             
-            plt.xticks(fontsize = 'large')
-            plt.yticks(fontsize = 'large')
+            plt.xticks(fontsize = 'xx-large', weight = 'bold')
+            plt.yticks(fontsize = 'xx-large', weight = 'bold')
             
-            plt.legend()
+            plt.legend(loc=1,prop={'size':20})
             
             #-------------------Cross Correlation
             # 5 seconds as total length of samples to shift for cross correlation.
@@ -541,26 +542,39 @@ def single_comparison():
             plt.title('Single Comparison' + '\n' + str(t_shift) + \
                         ' sec , coeff: ' + str(round(coeff, 5)) + \
                         '\n' + id_name, \
-                        fontsize = 'large', weight = 'bold')
+                        fontsize = 'xx-large', weight = 'bold')
             
             if input['resp_paz'] == 'Y':
                 # -----------------------
                 #plt.subplot(223)
                 plt.subplot2grid((3,4), (2,0), colspan=2)
-                
+                '''
                 plt.plot(np.log10(f), np.log10(abs(resp)/(sensitivity*sensitivity)), \
-                                            color = 'blue', label = 'RESP')
+                                            color = 'blue', label = 'RESP', lw=3)
                 plt.plot(np.log10(f), np.log10(abs(h)/sensitivity), \
-                                            color = 'red', label = 'PAZ')
+                                            color = 'red', label = 'PAZ', lw=3)
+                '''
+                plt.loglog(f, abs(resp)/(sensitivity*sensitivity), \
+                                            color = 'blue', label = 'RESP', lw=3)
+                plt.loglog(f, abs(h)/sensitivity, \
+                                            color = 'red', label = 'PAZ', lw=3)
                 
                 #for j in [0.008, 0.012, 0.025, 0.5, 1, 2, 3, 4]:
-                for j in [0.5]:
+                for j in [0]:
                     plt.axvline(np.log10(j), linestyle = '--')
 
-                plt.xlabel('Frequency [Hz] -- power of 10')
-                plt.ylabel('Amplitude -- power of 10')
-
-                plt.legend(loc=2)
+                #plt.xlabel('Frequency [Hz]\n(power of 10)', fontsize = 'xx-large', weight = 'bold')
+                #plt.ylabel('Amplitude\n      (power of 10)', fontsize = 'xx-large', weight = 'bold')
+                
+                plt.xlabel('Frequency [Hz]', fontsize = 'xx-large', weight = 'bold')
+                plt.ylabel('Amplitude', fontsize = 'xx-large', weight = 'bold')
+                
+                plt.xticks(fontsize = 'xx-large', weight = 'bold')
+                
+                
+                #plt.yticks = MaxNLocator(nbins=4)
+                plt.yticks(fontsize = 'xx-large', weight = 'bold')
+                plt.legend(loc=2,prop={'size':20})
                 
                 # -----------------------
                 #plt.subplot(224)
@@ -569,21 +583,28 @@ def single_comparison():
                 #take negative of imaginary part
                 phase_paz = np.unwrap(np.arctan2(h.imag, h.real))
                 phase_resp = np.unwrap(np.arctan2(resp.imag, resp.real))
-                plt.plot(np.log10(f), phase_resp, color = 'blue', label = 'RESP')
-                plt.plot(np.log10(f), phase_paz, color = 'red', label = 'PAZ')
+                #plt.plot(np.log10(f), phase_resp, color = 'blue', label = 'RESP', lw=3)
+                #plt.plot(np.log10(f), phase_paz, color = 'red', label = 'PAZ', lw=3)
+                
+                plt.semilogx(f, phase_resp, color = 'blue', label = 'RESP', lw=3)
+                plt.semilogx(f, phase_paz, color = 'red', label = 'PAZ', lw=3)
                 
                 #for j in [0.008, 0.012, 0.025, 0.5, 1, 2, 3, 4]:
-                for j in [0.5]:
+                for j in [0.0]:
                     plt.axvline(np.log10(j), linestyle = '--')
 
-                plt.xlabel('Frequency [Hz] -- power of 10')
-                plt.ylabel('Phase [radian]')
-
-                plt.legend()
-
+                #plt.xlabel('Frequency [Hz]\n(power of 10)', fontsize = 'xx-large', weight = 'bold')
+                plt.xlabel('Frequency [Hz]', fontsize = 'xx-large', weight = 'bold')
+                plt.ylabel('Phase [radian]', fontsize = 'xx-large', weight = 'bold')
+                
+                plt.xticks(fontsize = 'xx-large', weight = 'bold')
+                plt.yticks(fontsize = 'xx-large', weight = 'bold')
+            
+                plt.legend(loc=3,prop={'size':20})
+                
                 # title, centered above both subplots
                 # make more room in between subplots for the ylabel of right plot
-                plt.subplots_adjust(wspace=0.3)
+                plt.subplots_adjust(wspace=0.4, hspace=0.3)
                 """
                 # -----------------------
                 plt.subplot(325)
@@ -595,8 +616,8 @@ def single_comparison():
                 for j in [0.008, 0.012, 0.025, 0.5, 1, 2, 3, 4]:
                     plt.axvline(np.log10(j), linestyle = '--')
 
-                plt.xlabel('Frequency [Hz] -- power of 10')
-                plt.ylabel('Amplitude -- power of 10')
+                plt.xlabel('Frequency [Hz] (power of 10)')
+                plt.ylabel('Amplitude (power of 10)')
 
                 plt.legend()
                 
@@ -611,8 +632,8 @@ def single_comparison():
                 for j in [0.008, 0.012, 0.025, 0.5, 1, 2, 3, 4]:
                     plt.axvline(np.log10(j), linestyle = '--')
 
-                plt.xlabel('Frequency [Hz] -- power of 10')
-                plt.ylabel('Phase [radian] -- power of 10')
+                plt.xlabel('Frequency [Hz] (power of 10)')
+                plt.ylabel('Phase [radian] (power of 10)')
 
                 plt.legend()
 
@@ -838,7 +859,7 @@ def cc_core(ls_first, ls_second, identity_all, max_ts, print_sta):
 
 ###################### read_cc #########################################
 
-def read_cc(max_coeff = 0.99, width = 0.01, max_ts = 5.):
+def read_cc(max_coeff = 0.99, width = 0.001, max_ts = 5.):
     
     """
     This function reads the cc.txt file and create some plots
@@ -890,16 +911,16 @@ def read_cc(max_coeff = 0.99, width = 0.01, max_ts = 5.):
         plt.bar(left = bins[i]-(width), width = width, \
                 height = digit_count[str(i)], color = 'blue', edgecolor = 'blue')
     
-    plt.xlabel('Time Shift (sec)', fontsize = 'large', weight = 'bold')
-    plt.ylabel('Number of Waveforms', fontsize = 'large', weight = 'bold')
-    plt.xticks(fontsize = 'large')
-    plt.yticks(fontsize = 'large')
+    plt.xlabel('Time Shift (sec)', fontsize = 'xx-large', weight = 'bold')
+    plt.ylabel('Number of Waveforms', fontsize = 'xx-large', weight = 'bold')
+    plt.xticks(fontsize = 'xx-large', weight = 'bold')
+    plt.yticks(fontsize = 'xx-large', weight = 'bold')
     
     plt.title(str(num_stas) + '/' + len_ls_first +  \
                 '  with |cc_coeff| > ' + \
                 str(max_coeff) + '\n' + '|time shift| < ' + \
                 str(width) + ':   ' + str(zero_count), \
-                fontsize = 'large', weight = 'bold')
+                fontsize = 'xx-large', weight = 'bold')
     
     print 'Number of stations with good phase shift'
     print num_cc_tt

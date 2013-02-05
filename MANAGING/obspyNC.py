@@ -469,7 +469,7 @@ def ncCreate_core(tr, resp_read):
     
     stationID = tr.stats.network + '.' + tr.stats.station + '.' + \
                         tr.stats.location + '.' + tr.stats.channel
-        
+    
     stgrp = rootgrp.createGroup(stationID)
     
     stgrp.identity = stationID
@@ -479,10 +479,10 @@ def ncCreate_core(tr, resp_read):
     stgrp.stel = tr.stats.sac.stel
     
     stgrp.respfile = resp_read
-    
     for i in tr.stats.sac.keys():
-        if np.isnan(tr.stats.sac[i]) == True:
-            tr.stats.sac[i] = -12345.0
+        if type(tr.stats.sac[i]) != np.str_ and type(tr.stats.sac[i]) != str:
+            if np.isnan(tr.stats.sac[i]) == True:
+                tr.stats.sac[i] = -12345.0
     
     stgrp.headerV = str(tr.stats.values())
     stgrp.headerK = str(tr.stats.keys())

@@ -188,6 +188,7 @@ def AXISEM():
         
         for j in range(0, len(sta_ev[i])):
             sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1]
+            #sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1] + '_' + sta_ev[i][j][2]
         sta_ev_req = list(unique_items(sta_ev[i]))
         
         if os.path.isfile(os.path.join(address_events[i],\
@@ -311,6 +312,7 @@ def YSPEC():
         
         for j in range(0, len(sta_ev[i])):
             sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1]
+            #sta_ev[i][j][8] = sta_ev[i][j][0] + '_' + sta_ev[i][j][1] + '_' + sta_ev[i][j][2]
         sta_ev_req = list(unique_items(sta_ev[i]))
         
         if os.path.isfile(os.path.join(address_events[i],\
