@@ -1,0 +1,6605 @@
+2012-01-01_2013-03-14_4.0_9.9
+-------------------------------------
+Information about the requested Events:
+
+Number of Events: 732
+min datetime: 2012-01-01T00:00:00.000000Z
+max datetime: 2013-03-14T15:26:49.158073Z
+min magnitude: 4.0
+max magnitude: 9.9
+min latitude: None
+max latitude: None
+min longitude: None
+max longitude: None
+min depth: 10.0
+max depth: -6000.0
+-------------------------------------
+
+Event No: 0
+Event-ID: 20120101_0000012
+Date Time: 2012-01-01T05:27:56.000000Z
+Magnitude: 7.0
+Depth: -364.8
+Latitude: 31.479
+Longitude: 138.124
+Flynn-Region: IZU ISLANDS, JAPAN REGION
+-------------------------------------
+Event No: 1
+Event-ID: 20120101_0000043
+Date Time: 2012-01-01T16:45:04.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: -43.499
+Longitude: 173.01
+Flynn-Region: OFF E. COAST OF S. ISLAND, N.Z.
+-------------------------------------
+Event No: 2
+Event-ID: 20120101_0000050
+Date Time: 2012-01-01T18:09:03.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 4.583
+Longitude: 96.378
+Flynn-Region: NORTHERN SUMATRA, INDONESIA
+-------------------------------------
+Event No: 3
+Event-ID: 20120102_0000038
+Date Time: 2012-01-02T09:39:57.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: 16.408
+Longitude: -46.598
+Flynn-Region: NORTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 4
+Event-ID: 20120104_0000045
+Date Time: 2012-01-04T16:25:37.000000Z
+Magnitude: 4.2
+Depth: -20.0
+Latitude: 59.104
+Longitude: -138.104
+Flynn-Region: SOUTHEASTERN ALASKA
+-------------------------------------
+Event No: 5
+Event-ID: 20120104_0000054
+Date Time: 2012-01-04T19:53:36.000000Z
+Magnitude: 5.0
+Depth: -40.0
+Latitude: -10.525
+Longitude: 166.306
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 6
+Event-ID: 20120105_0000022
+Date Time: 2012-01-05T09:35:28.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 18.357
+Longitude: -70.405
+Flynn-Region: DOMINICAN REPUBLIC
+-------------------------------------
+Event No: 7
+Event-ID: 20120106_0000066
+Date Time: 2012-01-06T18:54:51.000000Z
+Magnitude: 5.5
+Depth: -100.0
+Latitude: -6.224
+Longitude: -107.209
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 8
+Event-ID: 20120107_0000014
+Date Time: 2012-01-07T07:31:43.000000Z
+Magnitude: 5.3
+Depth: -111.7
+Latitude: 1.814
+Longitude: 127.533
+Flynn-Region: HALMAHERA, INDONESIA
+-------------------------------------
+Event No: 9
+Event-ID: 20120107_0000045
+Date Time: 2012-01-07T18:38:08.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -28.598
+Longitude: -176.919
+Flynn-Region: KERMADEC ISLANDS REGION
+-------------------------------------
+Event No: 10
+Event-ID: 20120109_0000010
+Date Time: 2012-01-09T04:07:16.000000Z
+Magnitude: 6.6
+Depth: -30.1
+Latitude: -10.54
+Longitude: 165.197
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 11
+Event-ID: 20120110_0000050
+Date Time: 2012-01-10T18:36:59.000000Z
+Magnitude: 7.2
+Depth: -10.0
+Latitude: 2.491
+Longitude: 93.233
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 12
+Event-ID: 20120112_0000012
+Date Time: 2012-01-12T03:20:47.000000Z
+Magnitude: 5.7
+Depth: -2.1
+Latitude: 37.039
+Longitude: 141.054
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 13
+Event-ID: 20120112_0000046
+Date Time: 2012-01-12T14:11:07.000000Z
+Magnitude: 5.3
+Depth: -2.0
+Latitude: -52.165
+Longitude: 28.263
+Flynn-Region: SOUTH OF AFRICA
+-------------------------------------
+Event No: 14
+Event-ID: 20120113_0000056
+Date Time: 2012-01-13T16:02:28.000000Z
+Magnitude: 5.6
+Depth: -50.0
+Latitude: -60.568
+Longitude: -27.128
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 15
+Event-ID: 20120114_0000043
+Date Time: 2012-01-14T16:36:23.000000Z
+Magnitude: 5.7
+Depth: -30.0
+Latitude: 19.247
+Longitude: 121.183
+Flynn-Region: BABUYAN ISL REGION, PHILIPPINES
+-------------------------------------
+Event No: 16
+Event-ID: 20120115_0000027
+Date Time: 2012-01-15T13:40:17.000000Z
+Magnitude: 6.6
+Depth: -2.0
+Latitude: -60.773
+Longitude: -55.908
+Flynn-Region: SOUTH SHETLAND ISLANDS
+-------------------------------------
+Event No: 17
+Event-ID: 20120115_0000028
+Date Time: 2012-01-15T14:21:31.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -60.885
+Longitude: -56.015
+Flynn-Region: SOUTH SHETLAND ISLANDS
+-------------------------------------
+Event No: 18
+Event-ID: 20120116_0000003
+Date Time: 2012-01-16T03:59:45.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -60.651
+Longitude: -55.987
+Flynn-Region: SOUTH SHETLAND ISLANDS
+-------------------------------------
+Event No: 19
+Event-ID: 20120117_0000040
+Date Time: 2012-01-17T12:55:36.000000Z
+Magnitude: 5.7
+Depth: -30.5
+Latitude: 11.192
+Longitude: 125.917
+Flynn-Region: SAMAR, PHILIPPINES
+-------------------------------------
+Event No: 20
+Event-ID: 20120117_0000053
+Date Time: 2012-01-17T15:27:48.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -4.016
+Longitude: -104.148
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 21
+Event-ID: 20120117_0000077
+Date Time: 2012-01-17T23:21:31.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -31.616
+Longitude: -71.618
+Flynn-Region: OFFSHORE COQUIMBO, CHILE
+-------------------------------------
+Event No: 22
+Event-ID: 20120118_0000037
+Date Time: 2012-01-18T12:50:19.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -0.808
+Longitude: 126.845
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 23
+Event-ID: 20120119_0000018
+Date Time: 2012-01-19T05:58:43.000000Z
+Magnitude: 5.8
+Depth: -38.5
+Latitude: -10.975
+Longitude: 165.579
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 24
+Event-ID: 20120119_0000021
+Date Time: 2012-01-19T06:48:47.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -46.675
+Longitude: 165.717
+Flynn-Region: OFF W. COAST OF S. ISLAND, N.Z.
+-------------------------------------
+Event No: 25
+Event-ID: 20120119_0000045
+Date Time: 2012-01-19T12:35:51.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 36.369
+Longitude: 58.949
+Flynn-Region: NORTHEASTERN IRAN
+-------------------------------------
+Event No: 26
+Event-ID: 20120120_0000073
+Date Time: 2012-01-20T20:32:52.000000Z
+Magnitude: 5.7
+Depth: -119.7
+Latitude: -8.493
+Longitude: 119.798
+Flynn-Region: FLORES REGION, INDONESIA
+-------------------------------------
+Event No: 27
+Event-ID: 20120121_0000073
+Date Time: 2012-01-21T18:47:15.000000Z
+Magnitude: 6.3
+Depth: -68.2
+Latitude: 14.974
+Longitude: -93.083
+Flynn-Region: OFFSHORE CHIAPAS, MEXICO
+-------------------------------------
+Event No: 28
+Event-ID: 20120121_0000084
+Date Time: 2012-01-21T22:48:22.000000Z
+Magnitude: 4.1
+Depth: -10.0
+Latitude: 34.729
+Longitude: 26.713
+Flynn-Region: CRETE, GREECE
+-------------------------------------
+Event No: 29
+Event-ID: 20120122_0000017
+Date Time: 2012-01-22T05:53:44.000000Z
+Magnitude: 6.0
+Depth: -33.0
+Latitude: -56.709
+Longitude: -25.046
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 30
+Event-ID: 20120122_0000019
+Date Time: 2012-01-22T06:00:08.000000Z
+Magnitude: 5.5
+Depth: -30.0
+Latitude: -56.76
+Longitude: -24.971
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 31
+Event-ID: 20120122_0000078
+Date Time: 2012-01-22T21:03:37.000000Z
+Magnitude: 5.1
+Depth: -15.0
+Latitude: 3.643
+Longitude: 36.043
+Flynn-Region: LAKE RUDOLF REGION, KENYA
+-------------------------------------
+Event No: 32
+Event-ID: 20120123_0000067
+Date Time: 2012-01-23T16:04:51.000000Z
+Magnitude: 6.2
+Depth: -10.0
+Latitude: -36.346
+Longitude: -73.268
+Flynn-Region: OFFSHORE BIO-BIO, CHILE
+-------------------------------------
+Event No: 33
+Event-ID: 20120123_0000085
+Date Time: 2012-01-23T20:50:13.000000Z
+Magnitude: 5.1
+Depth: -2.0
+Latitude: 19.567
+Longitude: -70.05
+Flynn-Region: DOMINICAN REPUBLIC
+-------------------------------------
+Event No: 34
+Event-ID: 20120124_0000004
+Date Time: 2012-01-24T00:52:05.000000Z
+Magnitude: 6.4
+Depth: -584.5
+Latitude: -24.989
+Longitude: 178.563
+Flynn-Region: SOUTH OF FIJI ISLANDS
+-------------------------------------
+Event No: 35
+Event-ID: 20120124_0000064
+Date Time: 2012-01-24T16:31:07.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -56.253
+Longitude: -27.52
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 36
+Event-ID: 20120124_0000070
+Date Time: 2012-01-24T16:48:22.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: -41.318
+Longitude: -86.063
+Flynn-Region: WEST CHILE RISE
+-------------------------------------
+Event No: 37
+Event-ID: 20120125_0000040
+Date Time: 2012-01-25T08:06:37.000000Z
+Magnitude: 4.9
+Depth: -33.0
+Latitude: 44.85
+Longitude: 10.54
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 38
+Event-ID: 20120126_0000013
+Date Time: 2012-01-26T04:24:59.000000Z
+Magnitude: 5.3
+Depth: -14.0
+Latitude: 36.07
+Longitude: 25.07
+Flynn-Region: DODECANESE ISLANDS, GREECE
+-------------------------------------
+Event No: 39
+Event-ID: 20120127_0000012
+Date Time: 2012-01-27T01:33:23.000000Z
+Magnitude: 5.4
+Depth: -5.0
+Latitude: 36.04
+Longitude: 25.06
+Flynn-Region: DODECANESE ISLANDS, GREECE
+-------------------------------------
+Event No: 40
+Event-ID: 20120127_0000101
+Date Time: 2012-01-27T14:53:14.000000Z
+Magnitude: 5.0
+Depth: -60.0
+Latitude: 44.48
+Longitude: 10.03
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 41
+Event-ID: 20120128_0000003
+Date Time: 2012-01-28T00:17:12.000000Z
+Magnitude: 5.3
+Depth: -40.3
+Latitude: 13.501
+Longitude: 124.629
+Flynn-Region: CATANDUANES, PHILIPPINES
+-------------------------------------
+Event No: 42
+Event-ID: 20120128_0000004
+Date Time: 2012-01-28T00:22:17.000000Z
+Magnitude: 5.6
+Depth: -40.9
+Latitude: 40.211
+Longitude: 142.26
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 43
+Event-ID: 20120128_0000023
+Date Time: 2012-01-28T04:43:42.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -36.638
+Longitude: -110.641
+Flynn-Region: SOUTHERN EAST PACIFIC RISE
+-------------------------------------
+Event No: 44
+Event-ID: 20120128_0000103
+Date Time: 2012-01-28T17:42:55.000000Z
+Magnitude: 5.8
+Depth: -40.0
+Latitude: -29.221
+Longitude: -177.316
+Flynn-Region: KERMADEC ISLANDS, NEW ZEALAND
+-------------------------------------
+Event No: 45
+Event-ID: 20120129_0000053
+Date Time: 2012-01-29T09:55:06.000000Z
+Magnitude: 4.7
+Depth: -10.0
+Latitude: 36.01
+Longitude: 25.078
+Flynn-Region: DODECANESE ISLANDS, GREECE
+-------------------------------------
+Event No: 46
+Event-ID: 20120129_0000121
+Date Time: 2012-01-29T21:43:25.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 16.64
+Longitude: -46.513
+Flynn-Region: NORTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 47
+Event-ID: 20120130_0000022
+Date Time: 2012-01-30T05:11:01.000000Z
+Magnitude: 6.3
+Depth: -38.5
+Latitude: -14.153
+Longitude: -75.727
+Flynn-Region: NEAR COAST OF CENTRAL PERU
+-------------------------------------
+Event No: 48
+Event-ID: 20120201_0000021
+Date Time: 2012-02-01T07:14:28.000000Z
+Magnitude: 5.4
+Depth: -75.3
+Latitude: -3.768
+Longitude: 102.089
+Flynn-Region: SOUTHERN SUMATRA, INDONESIA
+-------------------------------------
+Event No: 49
+Event-ID: 20120201_0000074
+Date Time: 2012-02-01T21:43:45.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -31.49
+Longitude: -111.809
+Flynn-Region: EASTER ISLAND REGION
+-------------------------------------
+Event No: 50
+Event-ID: 20120202_0000026
+Date Time: 2012-02-02T06:46:30.000000Z
+Magnitude: 5.6
+Depth: -50.0
+Latitude: -6.56
+Longitude: 149.819
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 51
+Event-ID: 20120202_0000053
+Date Time: 2012-02-02T13:34:39.000000Z
+Magnitude: 7.1
+Depth: -10.0
+Latitude: -17.705
+Longitude: 167.194
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 52
+Event-ID: 20120203_0000009
+Date Time: 2012-02-03T04:33:06.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -17.451
+Longitude: 167.301
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 53
+Event-ID: 20120203_0000019
+Date Time: 2012-02-03T06:01:41.000000Z
+Magnitude: 5.6
+Depth: -30.0
+Latitude: -17.389
+Longitude: 167.441
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 54
+Event-ID: 20120204_0000024
+Date Time: 2012-02-04T07:40:13.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -20.519
+Longitude: -174.005
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 55
+Event-ID: 20120204_0000048
+Date Time: 2012-02-04T13:09:23.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 12.036
+Longitude: 125.809
+Flynn-Region: SAMAR, PHILIPPINES
+-------------------------------------
+Event No: 56
+Event-ID: 20120204_0000076
+Date Time: 2012-02-04T20:05:31.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 48.878
+Longitude: -127.863
+Flynn-Region: VANCOUVER ISLAND, CANADA REGION
+-------------------------------------
+Event No: 57
+Event-ID: 20120204_0000096
+Date Time: 2012-02-04T20:08:57.000000Z
+Magnitude: 4.8
+Depth: -13.9
+Latitude: 48.919
+Longitude: -127.618
+Flynn-Region: VANCOUVER ISLAND, CANADA REGION
+-------------------------------------
+Event No: 58
+Event-ID: 20120205_0000002
+Date Time: 2012-02-05T00:15:41.000000Z
+Magnitude: 6.1
+Depth: -162.4
+Latitude: -18.928
+Longitude: 168.942
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 59
+Event-ID: 20120205_0000064
+Date Time: 2012-02-05T16:40:40.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: -17.938
+Longitude: 167.222
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 60
+Event-ID: 20120206_0000015
+Date Time: 2012-02-06T03:49:17.000000Z
+Magnitude: 6.7
+Depth: -40.0
+Latitude: 10.061
+Longitude: 123.266
+Flynn-Region: NEGROS- CEBU REG, PHILIPPINES
+-------------------------------------
+Event No: 61
+Event-ID: 20120206_0000017
+Date Time: 2012-02-06T04:20:03.000000Z
+Magnitude: 5.7
+Depth: -30.0
+Latitude: 10.188
+Longitude: 123.197
+Flynn-Region: NEGROS- CEBU REG, PHILIPPINES
+-------------------------------------
+Event No: 62
+Event-ID: 20120206_0000036
+Date Time: 2012-02-06T10:10:26.000000Z
+Magnitude: 6.1
+Depth: -50.1
+Latitude: 9.934
+Longitude: 123.111
+Flynn-Region: NEGROS- CEBU REG, PHILIPPINES
+-------------------------------------
+Event No: 63
+Event-ID: 20120206_0000043
+Date Time: 2012-02-06T11:33:40.000000Z
+Magnitude: 5.9
+Depth: -30.0
+Latitude: 9.901
+Longitude: 123.11
+Flynn-Region: NEGROS- CEBU REG, PHILIPPINES
+-------------------------------------
+Event No: 64
+Event-ID: 20120207_0000080
+Date Time: 2012-02-07T23:37:05.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 76.975
+Longitude: 7.591
+Flynn-Region: SVALBARD REGION
+-------------------------------------
+Event No: 65
+Event-ID: 20120208_0000048
+Date Time: 2012-02-08T10:54:43.000000Z
+Magnitude: 5.5
+Depth: -69.2
+Latitude: 0.681
+Longitude: -79.276
+Flynn-Region: NEAR COAST OF ECUADOR
+-------------------------------------
+Event No: 66
+Event-ID: 20120208_0000052
+Date Time: 2012-02-08T12:01:37.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 37.907
+Longitude: 138.027
+Flynn-Region: NEAR WEST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 67
+Event-ID: 20120209_0000028
+Date Time: 2012-02-09T08:49:25.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -56.382
+Longitude: -25.825
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 68
+Event-ID: 20120209_0000040
+Date Time: 2012-02-09T11:21:07.000000Z
+Magnitude: 5.4
+Depth: -2.0
+Latitude: -40.992
+Longitude: 44.547
+Flynn-Region: SOUTHWEST INDIAN RIDGE
+-------------------------------------
+Event No: 69
+Event-ID: 20120209_0000058
+Date Time: 2012-02-09T18:52:47.000000Z
+Magnitude: 5.8
+Depth: -2.0
+Latitude: -58.316
+Longitude: 157.878
+Flynn-Region: MACQUARIE ISLAND REGION
+-------------------------------------
+Event No: 70
+Event-ID: 20120210_0000005
+Date Time: 2012-02-10T01:47:33.000000Z
+Magnitude: 6.0
+Depth: -569.9
+Latitude: -17.943
+Longitude: -178.516
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 71
+Event-ID: 20120210_0000019
+Date Time: 2012-02-10T05:34:05.000000Z
+Magnitude: 5.7
+Depth: -15.0
+Latitude: -0.328
+Longitude: 132.763
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 72
+Event-ID: 20120211_0000006
+Date Time: 2012-02-11T02:58:19.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -37.289
+Longitude: -73.399
+Flynn-Region: BIO-BIO, CHILE
+-------------------------------------
+Event No: 73
+Event-ID: 20120211_0000024
+Date Time: 2012-02-11T07:06:52.000000Z
+Magnitude: 5.6
+Depth: -46.2
+Latitude: -0.926
+Longitude: 126.942
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 74
+Event-ID: 20120212_0000054
+Date Time: 2012-02-12T18:09:23.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -6.965
+Longitude: -13.215
+Flynn-Region: ASCENSION ISLAND REGION
+-------------------------------------
+Event No: 75
+Event-ID: 20120213_0000020
+Date Time: 2012-02-13T04:47:12.000000Z
+Magnitude: 4.4
+Depth: -0.4
+Latitude: 38.79
+Longitude: -122.745
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 76
+Event-ID: 20120213_0000049
+Date Time: 2012-02-13T10:55:12.000000Z
+Magnitude: 5.8
+Depth: -30.2
+Latitude: 9.228
+Longitude: -84.105
+Flynn-Region: COSTA RICA
+-------------------------------------
+Event No: 77
+Event-ID: 20120213_0000099
+Date Time: 2012-02-13T21:07:02.000000Z
+Magnitude: 5.7
+Depth: -29.1
+Latitude: 41.137
+Longitude: -123.875
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 78
+Event-ID: 20120214_0000038
+Date Time: 2012-02-14T06:21:58.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: 36.269
+Longitude: 141.4
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 79
+Event-ID: 20120214_0000049
+Date Time: 2012-02-14T08:19:57.000000Z
+Magnitude: 6.4
+Depth: -60.3
+Latitude: -10.388
+Longitude: 161.116
+Flynn-Region: SOLOMON ISLANDS
+-------------------------------------
+Event No: 80
+Event-ID: 20120214_0000070
+Date Time: 2012-02-14T13:21:44.000000Z
+Magnitude: 4.3
+Depth: -2.0
+Latitude: 37.701
+Longitude: 20.742
+Flynn-Region: IONIAN SEA
+-------------------------------------
+Event No: 81
+Event-ID: 20120215_0000008
+Date Time: 2012-02-15T03:31:20.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: 43.602
+Longitude: -127.508
+Flynn-Region: OFF COAST OF OREGON
+-------------------------------------
+Event No: 82
+Event-ID: 20120216_0000002
+Date Time: 2012-02-16T02:20:28.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -17.772
+Longitude: 65.562
+Flynn-Region: MAURITIUS - REUNION REGION
+-------------------------------------
+Event No: 83
+Event-ID: 20120218_0000004
+Date Time: 2012-02-18T01:34:20.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 15.559
+Longitude: -95.393
+Flynn-Region: OFFSHORE OAXACA, MEXICO
+-------------------------------------
+Event No: 84
+Event-ID: 20120220_0000003
+Date Time: 2012-02-20T00:35:53.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: -9.047
+Longitude: -109.537
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 85
+Event-ID: 20120220_0000064
+Date Time: 2012-02-20T19:09:43.000000Z
+Magnitude: 5.7
+Depth: -60.0
+Latitude: 14.462
+Longitude: -92.776
+Flynn-Region: OFFSHORE CHIAPAS, MEXICO
+-------------------------------------
+Event No: 86
+Event-ID: 20120222_0000024
+Date Time: 2012-02-22T10:45:21.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -5.187
+Longitude: 133.592
+Flynn-Region: KEPULAUAN KAI, INDONESIA
+-------------------------------------
+Event No: 87
+Event-ID: 20120222_0000029
+Date Time: 2012-02-22T12:02:42.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 4.947
+Longitude: 94.309
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 88
+Event-ID: 20120226_0000006
+Date Time: 2012-02-26T02:34:57.000000Z
+Magnitude: 5.9
+Depth: -3.2
+Latitude: 22.699
+Longitude: 120.841
+Flynn-Region: TAIWAN
+-------------------------------------
+Event No: 89
+Event-ID: 20120226_0000010
+Date Time: 2012-02-26T02:46:28.000000Z
+Magnitude: 5.5
+Depth: -60.0
+Latitude: -24.718
+Longitude: -177.417
+Flynn-Region: SOUTH OF FIJI ISLANDS
+-------------------------------------
+Event No: 90
+Event-ID: 20120226_0000015
+Date Time: 2012-02-26T05:21:29.000000Z
+Magnitude: 6.0
+Depth: -46.1
+Latitude: -24.515
+Longitude: -177.267
+Flynn-Region: SOUTH OF FIJI ISLANDS
+-------------------------------------
+Event No: 91
+Event-ID: 20120226_0000019
+Date Time: 2012-02-26T06:17:19.000000Z
+Magnitude: 6.6
+Depth: -10.0
+Latitude: 51.717
+Longitude: 95.987
+Flynn-Region: SOUTHWESTERN SIBERIA, RUSSIA
+-------------------------------------
+Event No: 92
+Event-ID: 20120227_0000048
+Date Time: 2012-02-27T18:48:54.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 31.449
+Longitude: 56.84
+Flynn-Region: CENTRAL IRAN
+-------------------------------------
+Event No: 93
+Event-ID: 20120227_0000049
+Date Time: 2012-02-27T19:31:47.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 25.596
+Longitude: 127.137
+Flynn-Region: RYUKYU ISLANDS, JAPAN
+-------------------------------------
+Event No: 94
+Event-ID: 20120229_0000050
+Date Time: 2012-02-29T14:32:45.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 35.308
+Longitude: 141.1
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 95
+Event-ID: 20120229_0000054
+Date Time: 2012-02-29T16:03:56.000000Z
+Magnitude: 5.4
+Depth: -40.0
+Latitude: -17.62
+Longitude: 168.102
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 96
+Event-ID: 20120229_0000070
+Date Time: 2012-02-29T22:32:34.000000Z
+Magnitude: 5.4
+Depth: -60.0
+Latitude: 36.486
+Longitude: 140.456
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 97
+Event-ID: 20120302_0000027
+Date Time: 2012-03-02T10:11:41.000000Z
+Magnitude: 5.2
+Depth: -15.0
+Latitude: 35.295
+Longitude: 141.021
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 98
+Event-ID: 20120303_0000037
+Date Time: 2012-03-03T12:19:54.000000Z
+Magnitude: 6.6
+Depth: -10.0
+Latitude: -22.145
+Longitude: 170.35
+Flynn-Region: SOUTHEAST OF LOYALTY ISLANDS
+-------------------------------------
+Event No: 99
+Event-ID: 20120304_0000021
+Date Time: 2012-03-04T09:44:17.000000Z
+Magnitude: 5.5
+Depth: -20.0
+Latitude: 2.733
+Longitude: -84.364
+Flynn-Region: OFF COAST OF CENTRAL AMERICA
+-------------------------------------
+Event No: 100
+Event-ID: 20120304_0000034
+Date Time: 2012-03-04T12:49:02.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -21.472
+Longitude: 169.83
+Flynn-Region: SOUTHEAST OF LOYALTY ISLANDS
+-------------------------------------
+Event No: 101
+Event-ID: 20120305_0000002
+Date Time: 2012-03-05T02:45:25.000000Z
+Magnitude: 4.2
+Depth: -20.0
+Latitude: 36.495
+Longitude: 0.74
+Flynn-Region: NORTHERN ALGERIA
+-------------------------------------
+Event No: 102
+Event-ID: 20120305_0000018
+Date Time: 2012-03-05T07:46:08.000000Z
+Magnitude: 6.1
+Depth: -539.9
+Latitude: -28.216
+Longitude: -63.289
+Flynn-Region: SANTIAGO DEL ESTERO, ARGENTINA
+-------------------------------------
+Event No: 103
+Event-ID: 20120307_0000032
+Date Time: 2012-03-07T12:00:45.000000Z
+Magnitude: 5.7
+Depth: -47.6
+Latitude: -2.788
+Longitude: 138.958
+Flynn-Region: PAPUA, INDONESIA
+-------------------------------------
+Event No: 104
+Event-ID: 20120307_0000034
+Date Time: 2012-03-07T12:02:51.000000Z
+Magnitude: 5.4
+Depth: -60.0
+Latitude: -57.92
+Longitude: -25.188
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 105
+Event-ID: 20120308_0000080
+Date Time: 2012-03-08T22:50:08.000000Z
+Magnitude: 5.8
+Depth: -40.0
+Latitude: 39.435
+Longitude: 81.392
+Flynn-Region: SOUTHERN XINJIANG, CHINA
+-------------------------------------
+Event No: 106
+Event-ID: 20120309_0000013
+Date Time: 2012-03-09T07:09:53.000000Z
+Magnitude: 6.7
+Depth: -29.4
+Latitude: -19.102
+Longitude: 169.714
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 107
+Event-ID: 20120311_0000064
+Date Time: 2012-03-11T18:11:14.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 3.578
+Longitude: 65.453
+Flynn-Region: CARLSBERG RIDGE
+-------------------------------------
+Event No: 108
+Event-ID: 20120311_0000079
+Date Time: 2012-03-11T22:30:26.000000Z
+Magnitude: 5.3
+Depth: -1.5
+Latitude: -41.024
+Longitude: -16.724
+Flynn-Region: SOUTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 109
+Event-ID: 20120312_0000016
+Date Time: 2012-03-12T06:06:47.000000Z
+Magnitude: 5.6
+Depth: -60.0
+Latitude: 36.84
+Longitude: 73.235
+Flynn-Region: NORTHWESTERN KASHMIR
+-------------------------------------
+Event No: 110
+Event-ID: 20120312_0000037
+Date Time: 2012-03-12T12:32:48.000000Z
+Magnitude: 5.6
+Depth: -125.7
+Latitude: 45.289
+Longitude: 147.639
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 111
+Event-ID: 20120313_0000064
+Date Time: 2012-03-13T23:06:45.000000Z
+Magnitude: 5.5
+Depth: -59.7
+Latitude: 15.04
+Longitude: -92.935
+Flynn-Region: OFFSHORE CHIAPAS, MEXICO
+-------------------------------------
+Event No: 112
+Event-ID: 20120314_0000027
+Date Time: 2012-03-14T09:08:35.000000Z
+Magnitude: 6.9
+Depth: -10.0
+Latitude: 40.95
+Longitude: 144.913
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 113
+Event-ID: 20120314_0000035
+Date Time: 2012-03-14T10:49:24.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 40.831
+Longitude: 144.806
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 114
+Event-ID: 20120314_0000042
+Date Time: 2012-03-14T12:05:04.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 35.71
+Longitude: 140.74
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 115
+Event-ID: 20120314_0000065
+Date Time: 2012-03-14T19:07:43.000000Z
+Magnitude: 4.7
+Depth: -10.0
+Latitude: -45.191
+Longitude: 166.811
+Flynn-Region: OFF W. COAST OF S. ISLAND, N.Z.
+-------------------------------------
+Event No: 116
+Event-ID: 20120314_0000068
+Date Time: 2012-03-14T21:13:11.000000Z
+Magnitude: 6.2
+Depth: -45.7
+Latitude: -5.597
+Longitude: 151.066
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 117
+Event-ID: 20120315_0000063
+Date Time: 2012-03-15T19:20:17.000000Z
+Magnitude: 5.4
+Depth: -96.3
+Latitude: 35.86
+Longitude: 139.188
+Flynn-Region: NEAR S. COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 118
+Event-ID: 20120316_0000023
+Date Time: 2012-03-16T07:58:03.000000Z
+Magnitude: 5.8
+Depth: -23.1
+Latitude: 10.107
+Longitude: 125.674
+Flynn-Region: LEYTE, PHILIPPINES
+-------------------------------------
+Event No: 119
+Event-ID: 20120317_0000036
+Date Time: 2012-03-17T17:00:57.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 3.884
+Longitude: 63.386
+Flynn-Region: CARLSBERG RIDGE
+-------------------------------------
+Event No: 120
+Event-ID: 20120317_0000046
+Date Time: 2012-03-17T19:50:22.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -34.695
+Longitude: -107.547
+Flynn-Region: SOUTHERN EAST PACIFIC RISE
+-------------------------------------
+Event No: 121
+Event-ID: 20120319_0000081
+Date Time: 2012-03-19T23:46:35.000000Z
+Magnitude: 5.7
+Depth: -15.0
+Latitude: -14.559
+Longitude: -175.603
+Flynn-Region: SAMOA ISLANDS REGION
+-------------------------------------
+Event No: 122
+Event-ID: 20120320_0000065
+Date Time: 2012-03-20T17:56:19.000000Z
+Magnitude: 6.1
+Depth: -71.7
+Latitude: -3.806
+Longitude: 140.272
+Flynn-Region: PAPUA, INDONESIA
+-------------------------------------
+Event No: 123
+Event-ID: 20120320_0000066
+Date Time: 2012-03-20T18:02:49.000000Z
+Magnitude: 7.4
+Depth: -19.3
+Latitude: 16.69
+Longitude: -98.236
+Flynn-Region: GUERRERO, MEXICO
+-------------------------------------
+Event No: 124
+Event-ID: 20120321_0000016
+Date Time: 2012-03-21T06:41:58.000000Z
+Magnitude: 4.2
+Depth: -20.0
+Latitude: 35.831
+Longitude: -0.644
+Flynn-Region: NORTHERN ALGERIA
+-------------------------------------
+Event No: 125
+Event-ID: 20120321_0000063
+Date Time: 2012-03-21T22:15:07.000000Z
+Magnitude: 6.6
+Depth: -121.6
+Latitude: -6.245
+Longitude: 145.976
+Flynn-Region: NEW GUINEA, PAPUA NEW GUINEA
+-------------------------------------
+Event No: 126
+Event-ID: 20120323_0000058
+Date Time: 2012-03-23T19:34:37.000000Z
+Magnitude: 4.0
+Depth: -10.0
+Latitude: 33.806
+Longitude: 25.313
+Flynn-Region: EASTERN MEDITERRANEAN SEA
+-------------------------------------
+Event No: 127
+Event-ID: 20120324_0000069
+Date Time: 2012-03-24T22:18:38.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -54.391
+Longitude: -136.164
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 128
+Event-ID: 20120325_0000002
+Date Time: 2012-03-25T01:05:34.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -54.556
+Longitude: -135.855
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 129
+Event-ID: 20120325_0000016
+Date Time: 2012-03-25T04:46:54.000000Z
+Magnitude: 4.7
+Depth: -1.0
+Latitude: 39.46
+Longitude: 20.53
+Flynn-Region: GREECE
+-------------------------------------
+Event No: 130
+Event-ID: 20120325_0000084
+Date Time: 2012-03-25T22:37:01.000000Z
+Magnitude: 7.1
+Depth: -0.7
+Latitude: -35.175
+Longitude: -72.065
+Flynn-Region: MAULE, CHILE
+-------------------------------------
+Event No: 131
+Event-ID: 20120326_0000053
+Date Time: 2012-03-26T16:58:11.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -30.075
+Longitude: 60.704
+Flynn-Region: SOUTHWEST INDIAN RIDGE
+-------------------------------------
+Event No: 132
+Event-ID: 20120326_0000058
+Date Time: 2012-03-26T17:48:44.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 10.127
+Longitude: -104.136
+Flynn-Region: NORTHERN EAST PACIFIC RISE
+-------------------------------------
+Event No: 133
+Event-ID: 20120326_0000056
+Date Time: 2012-03-26T18:12:54.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 10.131
+Longitude: -104.088
+Flynn-Region: NORTHERN EAST PACIFIC RISE
+-------------------------------------
+Event No: 134
+Event-ID: 20120327_0000020
+Date Time: 2012-03-27T11:00:43.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 39.901
+Longitude: 142.08
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 135
+Event-ID: 20120328_0000051
+Date Time: 2012-03-28T08:25:50.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -57.112
+Longitude: -140.578
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 136
+Event-ID: 20120329_0000001
+Date Time: 2012-03-29T00:36:40.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: -40.876
+Longitude: 44.635
+Flynn-Region: SOUTHWEST INDIAN RIDGE
+-------------------------------------
+Event No: 137
+Event-ID: 20120330_0000038
+Date Time: 2012-03-30T18:16:14.000000Z
+Magnitude: 5.4
+Depth: -40.0
+Latitude: 14.567
+Longitude: -92.987
+Flynn-Region: OFFSHORE CHIAPAS, MEXICO
+-------------------------------------
+Event No: 138
+Event-ID: 20120401_0000037
+Date Time: 2012-04-01T14:04:26.000000Z
+Magnitude: 5.8
+Depth: -60.0
+Latitude: 37.217
+Longitude: 140.993
+Flynn-Region: EASTERN HONSHU, JAPAN
+-------------------------------------
+Event No: 139
+Event-ID: 20120402_0000030
+Date Time: 2012-04-02T17:36:43.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 16.503
+Longitude: -98.346
+Flynn-Region: GUERRERO, MEXICO
+-------------------------------------
+Event No: 140
+Event-ID: 20120403_0000032
+Date Time: 2012-04-03T10:42:36.000000Z
+Magnitude: 5.2
+Depth: -117.2
+Latitude: -4.389
+Longitude: 153.529
+Flynn-Region: NEW IRELAND REGION, P.N.G.
+-------------------------------------
+Event No: 141
+Event-ID: 20120406_0000032
+Date Time: 2012-04-06T16:15:57.000000Z
+Magnitude: 6.1
+Depth: -100.0
+Latitude: -4.496
+Longitude: 153.523
+Flynn-Region: NEW IRELAND REGION, P.N.G.
+-------------------------------------
+Event No: 142
+Event-ID: 20120410_0000010
+Date Time: 2012-04-10T05:09:09.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -1.36
+Longitude: -14.05
+Flynn-Region: NORTH OF ASCENSION ISLAND
+-------------------------------------
+Event No: 143
+Event-ID: 20120411_0000037
+Date Time: 2012-04-11T08:38:35.000000Z
+Magnitude: 8.6
+Depth: -10.0
+Latitude: 2.366
+Longitude: 93.171
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 144
+Event-ID: 20120411_0000047
+Date Time: 2012-04-11T10:43:09.000000Z
+Magnitude: 8.0
+Depth: -10.0
+Latitude: 0.814
+Longitude: 92.452
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 145
+Event-ID: 20120411_0000118
+Date Time: 2012-04-11T22:41:48.000000Z
+Magnitude: 6.0
+Depth: -20.0
+Latitude: 43.621
+Longitude: -127.554
+Flynn-Region: OFF COAST OF OREGON
+-------------------------------------
+Event No: 146
+Event-ID: 20120411_0000119
+Date Time: 2012-04-11T22:55:11.000000Z
+Magnitude: 6.7
+Depth: -20.0
+Latitude: 18.288
+Longitude: -102.74
+Flynn-Region: MICHOACAN, MEXICO
+-------------------------------------
+Event No: 147
+Event-ID: 20120411_0000124
+Date Time: 2012-04-11T23:56:33.000000Z
+Magnitude: 5.8
+Depth: -2.0
+Latitude: 1.925
+Longitude: 89.669
+Flynn-Region: NORTH INDIAN OCEAN
+-------------------------------------
+Event No: 148
+Event-ID: 20120412_0000020
+Date Time: 2012-04-12T07:06:01.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 28.866
+Longitude: -113.046
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 149
+Event-ID: 20120412_0000021
+Date Time: 2012-04-12T07:15:48.000000Z
+Magnitude: 7.0
+Depth: -10.0
+Latitude: 28.704
+Longitude: -113.119
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 150
+Event-ID: 20120412_0000060
+Date Time: 2012-04-12T14:50:51.000000Z
+Magnitude: 5.5
+Depth: -14.5
+Latitude: 37.549
+Longitude: 141.488
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 151
+Event-ID: 20120412_0000078
+Date Time: 2012-04-12T20:21:54.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 3.794
+Longitude: 92.755
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 152
+Event-ID: 20120413_0000038
+Date Time: 2012-04-13T10:10:01.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: 37.016
+Longitude: 141.19
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 153
+Event-ID: 20120413_0000039
+Date Time: 2012-04-13T10:10:05.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 16.366
+Longitude: -98.095
+Flynn-Region: OAXACA, MEXICO
+-------------------------------------
+Event No: 154
+Event-ID: 20120414_0000043
+Date Time: 2012-04-14T10:56:18.000000Z
+Magnitude: 6.2
+Depth: -10.0
+Latitude: -57.627
+Longitude: -65.326
+Flynn-Region: DRAKE PASSAGE
+-------------------------------------
+Event No: 155
+Event-ID: 20120414_0000065
+Date Time: 2012-04-14T19:26:44.000000Z
+Magnitude: 5.8
+Depth: -60.0
+Latitude: -6.85
+Longitude: 105.422
+Flynn-Region: SUNDA STRAIT, INDONESIA
+-------------------------------------
+Event No: 156
+Event-ID: 20120414_0000077
+Date Time: 2012-04-14T22:05:25.000000Z
+Magnitude: 6.3
+Depth: -2.9
+Latitude: -18.954
+Longitude: 168.803
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 157
+Event-ID: 20120415_0000015
+Date Time: 2012-04-15T05:57:38.000000Z
+Magnitude: 6.2
+Depth: -10.0
+Latitude: 2.624
+Longitude: 90.29
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 158
+Event-ID: 20120416_0000004
+Date Time: 2012-04-16T02:17:53.000000Z
+Magnitude: 5.7
+Depth: -30.0
+Latitude: -2.577
+Longitude: 121.879
+Flynn-Region: SULAWESI, INDONESIA
+-------------------------------------
+Event No: 159
+Event-ID: 20120416_0000007
+Date Time: 2012-04-16T03:27:41.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 24.001
+Longitude: -108.803
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 160
+Event-ID: 20120416_0000045
+Date Time: 2012-04-16T11:23:44.000000Z
+Magnitude: 5.5
+Depth: -35.3
+Latitude: 36.776
+Longitude: 21.647
+Flynn-Region: SOUTHERN GREECE
+-------------------------------------
+Event No: 161
+Event-ID: 20120416_0000053
+Date Time: 2012-04-16T12:02:15.000000Z
+Magnitude: 4.5
+Depth: -30.0
+Latitude: 36.531
+Longitude: 21.55
+Flynn-Region: SOUTHERN GREECE
+-------------------------------------
+Event No: 162
+Event-ID: 20120416_0000096
+Date Time: 2012-04-16T15:06:55.000000Z
+Magnitude: 4.6
+Depth: -55.9
+Latitude: 36.679
+Longitude: 21.738
+Flynn-Region: SOUTHERN GREECE
+-------------------------------------
+Event No: 163
+Event-ID: 20120417_0000016
+Date Time: 2012-04-17T03:50:15.000000Z
+Magnitude: 6.7
+Depth: -30.0
+Latitude: -32.611
+Longitude: -71.475
+Flynn-Region: OFFSHORE VALPARAISO, CHILE
+-------------------------------------
+Event No: 164
+Event-ID: 20120417_0000028
+Date Time: 2012-04-17T07:13:50.000000Z
+Magnitude: 6.8
+Depth: -210.8
+Latitude: -5.48
+Longitude: 147.118
+Flynn-Region: EASTERN NEW GUINEA REG., P.N.G.
+-------------------------------------
+Event No: 165
+Event-ID: 20120417_0000072
+Date Time: 2012-04-17T19:03:55.000000Z
+Magnitude: 6.2
+Depth: -2.0
+Latitude: -59.127
+Longitude: -16.61
+Flynn-Region: EAST OF SOUTH SANDWICH ISLANDS
+-------------------------------------
+Event No: 166
+Event-ID: 20120418_0000028
+Date Time: 2012-04-18T05:37:55.000000Z
+Magnitude: 5.4
+Depth: -487.8
+Latitude: 28.754
+Longitude: 138.849
+Flynn-Region: BONIN ISLANDS, JAPAN REGION
+-------------------------------------
+Event No: 167
+Event-ID: 20120418_0000047
+Date Time: 2012-04-18T09:47:24.000000Z
+Magnitude: 4.2
+Depth: -2.0
+Latitude: 36.465
+Longitude: -2.713
+Flynn-Region: STRAIT OF GIBRALTAR
+-------------------------------------
+Event No: 168
+Event-ID: 20120420_0000080
+Date Time: 2012-04-20T22:19:45.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 3.276
+Longitude: 93.814
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 169
+Event-ID: 20120420_0000081
+Date Time: 2012-04-20T22:29:01.000000Z
+Magnitude: 5.8
+Depth: -30.0
+Latitude: 3.316
+Longitude: 93.882
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 170
+Event-ID: 20120420_0000086
+Date Time: 2012-04-20T23:14:33.000000Z
+Magnitude: 5.8
+Depth: -40.0
+Latitude: 2.223
+Longitude: 93.386
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 171
+Event-ID: 20120421_0000004
+Date Time: 2012-04-21T01:16:52.000000Z
+Magnitude: 6.6
+Depth: -10.0
+Latitude: -1.608
+Longitude: 134.34
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 172
+Event-ID: 20120421_0000006
+Date Time: 2012-04-21T01:19:28.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -35.133
+Longitude: -16.153
+Flynn-Region: SOUTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 173
+Event-ID: 20120421_0000008
+Date Time: 2012-04-21T01:25:13.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -1.559
+Longitude: 134.239
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 174
+Event-ID: 20120423_0000066
+Date Time: 2012-04-23T14:54:53.000000Z
+Magnitude: 5.2
+Depth: -116.6
+Latitude: -7.37
+Longitude: 129.329
+Flynn-Region: KEPULAUAN BABAR, INDONESIA
+-------------------------------------
+Event No: 175
+Event-ID: 20120423_0000080
+Date Time: 2012-04-23T17:36:21.000000Z
+Magnitude: 6.0
+Depth: -113.0
+Latitude: -28.47
+Longitude: -177.304
+Flynn-Region: KERMADEC ISLANDS REGION
+-------------------------------------
+Event No: 176
+Event-ID: 20120423_0000094
+Date Time: 2012-04-23T21:21:46.000000Z
+Magnitude: 5.7
+Depth: -60.0
+Latitude: 0.39
+Longitude: 125.429
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 177
+Event-ID: 20120423_0000099
+Date Time: 2012-04-23T22:40:24.000000Z
+Magnitude: 5.6
+Depth: -45.9
+Latitude: 48.373
+Longitude: 154.817
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 178
+Event-ID: 20120424_0000042
+Date Time: 2012-04-24T09:50:59.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 5.567
+Longitude: 61.439
+Flynn-Region: CARLSBERG RIDGE
+-------------------------------------
+Event No: 179
+Event-ID: 20120425_0000007
+Date Time: 2012-04-25T03:18:18.000000Z
+Magnitude: 4.7
+Depth: -10.0
+Latitude: 36.508
+Longitude: 1.554
+Flynn-Region: NORTHERN ALGERIA
+-------------------------------------
+Event No: 180
+Event-ID: 20120425_0000027
+Date Time: 2012-04-25T07:42:24.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 9.003
+Longitude: 93.967
+Flynn-Region: NICOBAR ISLANDS, INDIA REGION
+-------------------------------------
+Event No: 181
+Event-ID: 20120426_0000041
+Date Time: 2012-04-26T19:21:43.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 2.71
+Longitude: 94.497
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 182
+Event-ID: 20120427_0000054
+Date Time: 2012-04-27T08:38:37.000000Z
+Magnitude: 4.1
+Depth: -5.6
+Latitude: 40.382
+Longitude: -124.97
+Flynn-Region: OFFSHORE NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 183
+Event-ID: 20120428_0000028
+Date Time: 2012-04-28T10:08:04.000000Z
+Magnitude: 6.6
+Depth: -100.0
+Latitude: -18.587
+Longitude: -174.671
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 184
+Event-ID: 20120428_0000054
+Date Time: 2012-04-28T19:21:06.000000Z
+Magnitude: 5.7
+Depth: -60.0
+Latitude: -5.305
+Longitude: 152.131
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 185
+Event-ID: 20120429_0000024
+Date Time: 2012-04-29T06:51:59.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: -36.306
+Longitude: -98.962
+Flynn-Region: SOUTHEAST OF EASTER ISLAND
+-------------------------------------
+Event No: 186
+Event-ID: 20120429_0000028
+Date Time: 2012-04-29T08:09:04.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 2.788
+Longitude: 94.539
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 187
+Event-ID: 20120429_0000039
+Date Time: 2012-04-29T10:28:51.000000Z
+Magnitude: 5.8
+Depth: -40.0
+Latitude: 35.672
+Longitude: 140.375
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 188
+Event-ID: 20120429_0000043
+Date Time: 2012-04-29T11:29:51.000000Z
+Magnitude: 4.9
+Depth: -2.0
+Latitude: 83.989
+Longitude: -1.066
+Flynn-Region: NORTH OF SVALBARD
+-------------------------------------
+Event No: 189
+Event-ID: 20120429_0000053
+Date Time: 2012-04-29T15:02:19.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 39.851
+Longitude: 142.221
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 190
+Event-ID: 20120430_0000021
+Date Time: 2012-04-30T07:39:45.000000Z
+Magnitude: 5.6
+Depth: -32.7
+Latitude: -29.864
+Longitude: -71.52
+Flynn-Region: OFFSHORE COQUIMBO, CHILE
+-------------------------------------
+Event No: 191
+Event-ID: 20120430_0000023
+Date Time: 2012-04-30T08:00:10.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 1.759
+Longitude: 89.659
+Flynn-Region: NORTH INDIAN OCEAN
+-------------------------------------
+Event No: 192
+Event-ID: 20120430_0000044
+Date Time: 2012-04-30T13:07:00.000000Z
+Magnitude: 5.3
+Depth: -40.0
+Latitude: 14.435
+Longitude: 93.354
+Flynn-Region: ANDAMAN ISLANDS, INDIA REGION
+-------------------------------------
+Event No: 193
+Event-ID: 20120430_0000066
+Date Time: 2012-04-30T18:11:46.000000Z
+Magnitude: 5.6
+Depth: -379.4
+Latitude: -5.767
+Longitude: 128.524
+Flynn-Region: BANDA SEA
+-------------------------------------
+Event No: 194
+Event-ID: 20120501_0000040
+Date Time: 2012-05-01T15:44:39.000000Z
+Magnitude: 5.5
+Depth: -20.0
+Latitude: 21.935
+Longitude: -108.401
+Flynn-Region: OFF COAST OF BAJA CALIFORNIA SUR
+-------------------------------------
+Event No: 195
+Event-ID: 20120501_0000048
+Date Time: 2012-05-01T16:38:01.000000Z
+Magnitude: 5.7
+Depth: -80.0
+Latitude: 18.572
+Longitude: -100.904
+Flynn-Region: MICHOACAN, MEXICO
+-------------------------------------
+Event No: 196
+Event-ID: 20120501_0000069
+Date Time: 2012-05-01T22:43:40.000000Z
+Magnitude: 6.0
+Depth: -60.0
+Latitude: 14.505
+Longitude: -92.901
+Flynn-Region: OFFSHORE CHIAPAS, MEXICO
+-------------------------------------
+Event No: 197
+Event-ID: 20120502_0000071
+Date Time: 2012-05-02T12:17:59.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -54.604
+Longitude: 143.913
+Flynn-Region: WEST OF MACQUARIE ISLAND
+-------------------------------------
+Event No: 198
+Event-ID: 20120502_0000097
+Date Time: 2012-05-02T17:06:07.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -35.737
+Longitude: -102.763
+Flynn-Region: SOUTHEAST OF EASTER ISLAND
+-------------------------------------
+Event No: 199
+Event-ID: 20120503_0000062
+Date Time: 2012-05-03T15:20:26.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 39.13
+Longitude: 29.1
+Flynn-Region: WESTERN TURKEY
+-------------------------------------
+Event No: 200
+Event-ID: 20120503_0000102
+Date Time: 2012-05-03T18:08:03.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 17.356
+Longitude: -85.092
+Flynn-Region: NORTH OF HONDURAS
+-------------------------------------
+Event No: 201
+Event-ID: 20120505_0000037
+Date Time: 2012-05-05T09:23:23.000000Z
+Magnitude: 4.3
+Depth: -2.8
+Latitude: 38.796
+Longitude: -122.759
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 202
+Event-ID: 20120507_0000015
+Date Time: 2012-05-07T04:40:27.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 41.5
+Longitude: 46.67
+Flynn-Region: AZERBAIJAN
+-------------------------------------
+Event No: 203
+Event-ID: 20120507_0000053
+Date Time: 2012-05-07T14:15:14.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 41.624
+Longitude: 46.759
+Flynn-Region: AZERBAIJAN
+-------------------------------------
+Event No: 204
+Event-ID: 20120509_0000034
+Date Time: 2012-05-09T14:49:50.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -1.086
+Longitude: -13.561
+Flynn-Region: NORTH OF ASCENSION ISLAND
+-------------------------------------
+Event No: 205
+Event-ID: 20120510_0000006
+Date Time: 2012-05-10T02:13:56.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -28.657
+Longitude: -112.91
+Flynn-Region: EASTER ISLAND REGION
+-------------------------------------
+Event No: 206
+Event-ID: 20120512_0000047
+Date Time: 2012-05-12T23:28:42.000000Z
+Magnitude: 5.7
+Depth: -4.0
+Latitude: 38.657
+Longitude: 70.425
+Flynn-Region: TAJIKISTAN
+-------------------------------------
+Event No: 207
+Event-ID: 20120513_0000013
+Date Time: 2012-05-13T04:42:47.000000Z
+Magnitude: 5.4
+Depth: -2.0
+Latitude: -58.459
+Longitude: 157.903
+Flynn-Region: MACQUARIE ISLAND REGION
+-------------------------------------
+Event No: 208
+Event-ID: 20120514_0000024
+Date Time: 2012-05-14T10:00:40.000000Z
+Magnitude: 6.2
+Depth: -104.3
+Latitude: -17.7
+Longitude: -69.662
+Flynn-Region: TARAPACA, CHILE
+-------------------------------------
+Event No: 209
+Event-ID: 20120516_0000004
+Date Time: 2012-05-16T00:59:34.000000Z
+Magnitude: 5.8
+Depth: -153.7
+Latitude: -5.541
+Longitude: 149.732
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 210
+Event-ID: 20120516_0000029
+Date Time: 2012-05-16T15:02:51.000000Z
+Magnitude: 4.7
+Depth: -66.6
+Latitude: 61.216
+Longitude: -150.124
+Flynn-Region: SOUTHERN ALASKA
+-------------------------------------
+Event No: 211
+Event-ID: 20120517_0000028
+Date Time: 2012-05-17T08:12:00.000000Z
+Magnitude: 4.8
+Depth: -2.0
+Latitude: 31.926
+Longitude: -94.369
+Flynn-Region: EASTERN TEXAS
+-------------------------------------
+Event No: 212
+Event-ID: 20120518_0000008
+Date Time: 2012-05-18T02:00:38.000000Z
+Magnitude: 6.4
+Depth: -10.0
+Latitude: -44.812
+Longitude: -80.353
+Flynn-Region: OFF COAST OF AISEN, CHILE
+-------------------------------------
+Event No: 213
+Event-ID: 20120518_0000011
+Date Time: 2012-05-18T04:26:45.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: 7.7
+Longitude: -81.072
+Flynn-Region: PANAMA
+-------------------------------------
+Event No: 214
+Event-ID: 20120519_0000024
+Date Time: 2012-05-19T08:35:08.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -25.738
+Longitude: -70.66
+Flynn-Region: ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 215
+Event-ID: 20120519_0000040
+Date Time: 2012-05-19T19:05:20.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: 39.757
+Longitude: 143.185
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 216
+Event-ID: 20120520_0000039
+Date Time: 2012-05-20T07:19:55.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 39.558
+Longitude: 143.247
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 217
+Event-ID: 20120520_0000094
+Date Time: 2012-05-20T07:20:42.000000Z
+Magnitude: 6.3
+Depth: -40.0
+Latitude: 39.848
+Longitude: 143.097
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 218
+Event-ID: 20120520_0000067
+Date Time: 2012-05-20T13:18:03.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 44.831
+Longitude: 11.443
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 219
+Event-ID: 20120520_0000074
+Date Time: 2012-05-20T17:37:14.000000Z
+Magnitude: 4.6
+Depth: -10.0
+Latitude: 44.868
+Longitude: 11.306
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 220
+Event-ID: 20120522_0000014
+Date Time: 2012-05-22T01:30:51.000000Z
+Magnitude: 4.7
+Depth: -10.0
+Latitude: 42.64
+Longitude: 23.05
+Flynn-Region: BULGARIA
+-------------------------------------
+Event No: 221
+Event-ID: 20120523_0000074
+Date Time: 2012-05-23T15:02:27.000000Z
+Magnitude: 6.0
+Depth: -60.0
+Latitude: 41.426
+Longitude: 142.013
+Flynn-Region: HOKKAIDO, JAPAN REGION
+-------------------------------------
+Event No: 222
+Event-ID: 20120524_0000081
+Date Time: 2012-05-24T19:18:54.000000Z
+Magnitude: 5.4
+Depth: -150.9
+Latitude: -36.885
+Longitude: -70.492
+Flynn-Region: NEUQUEN, ARGENTINA
+-------------------------------------
+Event No: 223
+Event-ID: 20120524_0000093
+Date Time: 2012-05-24T22:47:45.000000Z
+Magnitude: 6.2
+Depth: -4.3
+Latitude: 73.044
+Longitude: 5.765
+Flynn-Region: GREENLAND SEA
+-------------------------------------
+Event No: 224
+Event-ID: 20120525_0000008
+Date Time: 2012-05-25T02:44:48.000000Z
+Magnitude: 5.0
+Depth: -2.0
+Latitude: -43.513
+Longitude: 172.977
+Flynn-Region: SOUTH ISLAND OF NEW ZEALAND
+-------------------------------------
+Event No: 225
+Event-ID: 20120525_0000012
+Date Time: 2012-05-25T04:01:34.000000Z
+Magnitude: 5.1
+Depth: -2.0
+Latitude: 72.956
+Longitude: 5.607
+Flynn-Region: NORWEGIAN SEA
+-------------------------------------
+Event No: 226
+Event-ID: 20120526_0000090
+Date Time: 2012-05-26T21:48:08.000000Z
+Magnitude: 6.0
+Depth: -471.3
+Latitude: 26.963
+Longitude: 140.088
+Flynn-Region: BONIN ISLANDS, JAPAN REGION
+-------------------------------------
+Event No: 227
+Event-ID: 20120528_0000017
+Date Time: 2012-05-28T05:07:24.000000Z
+Magnitude: 6.7
+Depth: -592.7
+Latitude: -28.031
+Longitude: -63.167
+Flynn-Region: SANTIAGO DEL ESTERO, ARGENTINA
+-------------------------------------
+Event No: 228
+Event-ID: 20120528_0000056
+Date Time: 2012-05-28T11:50:56.000000Z
+Magnitude: 5.1
+Depth: -601.5
+Latitude: -28.108
+Longitude: -63.151
+Flynn-Region: SANTIAGO DEL ESTERO, ARGENTINA
+-------------------------------------
+Event No: 229
+Event-ID: 20120528_0000099
+Date Time: 2012-05-28T21:47:10.000000Z
+Magnitude: 5.9
+Depth: -220.8
+Latitude: -19.937
+Longitude: -175.914
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 230
+Event-ID: 20120529_0000012
+Date Time: 2012-05-29T02:40:53.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 54.372
+Longitude: 168.953
+Flynn-Region: KOMANDORSKIYE OSTROVA REGION
+-------------------------------------
+Event No: 231
+Event-ID: 20120529_0000013
+Date Time: 2012-05-29T03:33:26.000000Z
+Magnitude: 5.9
+Depth: -610.5
+Latitude: -22.099
+Longitude: -179.621
+Flynn-Region: SOUTH OF FIJI ISLANDS
+-------------------------------------
+Event No: 232
+Event-ID: 20120529_0000036
+Date Time: 2012-05-29T08:25:51.000000Z
+Magnitude: 4.7
+Depth: -5.0
+Latitude: 44.911
+Longitude: 10.955
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 233
+Event-ID: 20120529_0000048
+Date Time: 2012-05-29T10:55:56.000000Z
+Magnitude: 5.5
+Depth: -1.5
+Latitude: 44.895
+Longitude: 10.994
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 234
+Event-ID: 20120530_0000175
+Date Time: 2012-05-30T21:20:56.000000Z
+Magnitude: 5.4
+Depth: -20.0
+Latitude: 43.427
+Longitude: 78.801
+Flynn-Region: EASTERN KAZAKHSTAN
+-------------------------------------
+Event No: 235
+Event-ID: 20120531_0000132
+Date Time: 2012-05-31T23:00:59.000000Z
+Magnitude: 5.5
+Depth: -17.2
+Latitude: -0.78
+Longitude: 133.261
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 236
+Event-ID: 20120601_0000035
+Date Time: 2012-06-01T05:07:01.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -77.039
+Longitude: -149.016
+Flynn-Region: ANTARCTICA
+-------------------------------------
+Event No: 237
+Event-ID: 20120601_0000041
+Date Time: 2012-06-01T06:56:18.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -0.68
+Longitude: 133.342
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 238
+Event-ID: 20120602_0000029
+Date Time: 2012-06-02T07:52:53.000000Z
+Magnitude: 6.0
+Depth: -512.6
+Latitude: -22.023
+Longitude: -63.551
+Flynn-Region: SALTA, ARGENTINA
+-------------------------------------
+Event No: 239
+Event-ID: 20120603_0000088
+Date Time: 2012-06-03T19:20:44.000000Z
+Magnitude: 4.9
+Depth: -10.0
+Latitude: 44.953
+Longitude: 11.003
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 240
+Event-ID: 20120604_0000006
+Date Time: 2012-06-04T00:45:15.000000Z
+Magnitude: 6.2
+Depth: -1.3
+Latitude: 5.361
+Longitude: -82.698
+Flynn-Region: SOUTH OF PANAMA
+-------------------------------------
+Event No: 241
+Event-ID: 20120604_0000019
+Date Time: 2012-06-04T03:15:24.000000Z
+Magnitude: 6.2
+Depth: -2.0
+Latitude: 5.585
+Longitude: -82.583
+Flynn-Region: SOUTH OF PANAMA
+-------------------------------------
+Event No: 242
+Event-ID: 20120604_0000067
+Date Time: 2012-06-04T11:18:16.000000Z
+Magnitude: 5.8
+Depth: -80.0
+Latitude: -7.694
+Longitude: 106.395
+Flynn-Region: JAVA, INDONESIA
+-------------------------------------
+Event No: 243
+Event-ID: 20120604_0000143
+Date Time: 2012-06-04T14:18:55.000000Z
+Magnitude: 5.8
+Depth: -30.0
+Latitude: -15.262
+Longitude: -177.835
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 244
+Event-ID: 20120605_0000005
+Date Time: 2012-06-05T01:58:56.000000Z
+Magnitude: 4.2
+Depth: -2.0
+Latitude: 37.194
+Longitude: 20.215
+Flynn-Region: IONIAN SEA
+-------------------------------------
+Event No: 245
+Event-ID: 20120605_0000083
+Date Time: 2012-06-05T19:31:33.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: 35.081
+Longitude: 141.199
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 246
+Event-ID: 20120606_0000005
+Date Time: 2012-06-06T01:08:35.000000Z
+Magnitude: 5.6
+Depth: -20.0
+Latitude: 22.398
+Longitude: 121.42
+Flynn-Region: TAIWAN REGION
+-------------------------------------
+Event No: 247
+Event-ID: 20120607_0000017
+Date Time: 2012-06-07T04:05:05.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -36.024
+Longitude: -70.868
+Flynn-Region: MAULE, CHILE
+-------------------------------------
+Event No: 248
+Event-ID: 20120607_0000039
+Date Time: 2012-06-07T09:01:54.000000Z
+Magnitude: 5.8
+Depth: -300.0
+Latitude: -20.144
+Longitude: -176.349
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 249
+Event-ID: 20120607_0000065
+Date Time: 2012-06-07T16:03:20.000000Z
+Magnitude: 6.1
+Depth: -113.6
+Latitude: -15.884
+Longitude: -72.55
+Flynn-Region: SOUTHERN PERU
+-------------------------------------
+Event No: 250
+Event-ID: 20120607_0000082
+Date Time: 2012-06-07T20:54:26.000000Z
+Magnitude: 5.1
+Depth: -14.0
+Latitude: 40.85
+Longitude: 27.92
+Flynn-Region: WESTERN TURKEY
+-------------------------------------
+Event No: 251
+Event-ID: 20120609_0000005
+Date Time: 2012-06-09T02:04:57.000000Z
+Magnitude: 4.3
+Depth: -5.0
+Latitude: 46.137
+Longitude: 12.531
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 252
+Event-ID: 20120609_0000073
+Date Time: 2012-06-09T14:23:21.000000Z
+Magnitude: 5.5
+Depth: -60.0
+Latitude: 48.896
+Longitude: 154.966
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 253
+Event-ID: 20120609_0000100
+Date Time: 2012-06-09T21:00:18.000000Z
+Magnitude: 5.9
+Depth: -73.8
+Latitude: 24.561
+Longitude: 122.295
+Flynn-Region: TAIWAN REGION
+-------------------------------------
+Event No: 254
+Event-ID: 20120610_0000062
+Date Time: 2012-06-10T12:44:16.000000Z
+Magnitude: 5.9
+Depth: -30.0
+Latitude: 36.36
+Longitude: 28.935
+Flynn-Region: DODECANESE ISLANDS, GREECE
+-------------------------------------
+Event No: 255
+Event-ID: 20120612_0000013
+Date Time: 2012-06-12T05:59:38.000000Z
+Magnitude: 5.3
+Depth: -166.1
+Latitude: -5.777
+Longitude: 105.452
+Flynn-Region: SUNDA STRAIT, INDONESIA
+-------------------------------------
+Event No: 256
+Event-ID: 20120614_0000108
+Date Time: 2012-06-14T20:17:26.000000Z
+Magnitude: 5.5
+Depth: -75.6
+Latitude: 1.324
+Longitude: 126.82
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 257
+Event-ID: 20120615_0000007
+Date Time: 2012-06-15T01:14:11.000000Z
+Magnitude: 5.6
+Depth: -80.0
+Latitude: 5.717
+Longitude: 126.518
+Flynn-Region: MINDANAO, PHILIPPINES
+-------------------------------------
+Event No: 258
+Event-ID: 20120615_0000043
+Date Time: 2012-06-15T08:43:29.000000Z
+Magnitude: 5.3
+Depth: -15.0
+Latitude: -3.396
+Longitude: 146.616
+Flynn-Region: BISMARCK SEA
+-------------------------------------
+Event No: 259
+Event-ID: 20120616_0000080
+Date Time: 2012-06-16T22:18:48.000000Z
+Magnitude: 5.8
+Depth: -30.0
+Latitude: 15.687
+Longitude: 119.645
+Flynn-Region: LUZON, PHILIPPINES
+-------------------------------------
+Event No: 260
+Event-ID: 20120617_0000018
+Date Time: 2012-06-17T03:43:09.000000Z
+Magnitude: 5.6
+Depth: -40.0
+Latitude: -8.437
+Longitude: 160.409
+Flynn-Region: SOLOMON ISLANDS
+-------------------------------------
+Event No: 261
+Event-ID: 20120617_0000070
+Date Time: 2012-06-17T16:09:50.000000Z
+Magnitude: 4.0
+Depth: -80.0
+Latitude: 35.579
+Longitude: 22.041
+Flynn-Region: CENTRAL MEDITERRANEAN SEA
+-------------------------------------
+Event No: 262
+Event-ID: 20120617_0000089
+Date Time: 2012-06-17T20:32:23.000000Z
+Magnitude: 6.4
+Depth: -60.0
+Latitude: 38.968
+Longitude: 141.831
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 263
+Event-ID: 20120619_0000081
+Date Time: 2012-06-19T15:56:31.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 53.346
+Longitude: 171.631
+Flynn-Region: NEAR ISLANDS, ALEUTIAN ISLANDS
+-------------------------------------
+Event No: 264
+Event-ID: 20120619_0000098
+Date Time: 2012-06-19T18:39:00.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: -40.691
+Longitude: 44.681
+Flynn-Region: SOUTHWEST INDIAN RIDGE
+-------------------------------------
+Event No: 265
+Event-ID: 20120619_0000101
+Date Time: 2012-06-19T20:14:03.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 23.664
+Longitude: 70.284
+Flynn-Region: GUJARAT, INDIA
+-------------------------------------
+Event No: 266
+Event-ID: 20120619_0000104
+Date Time: 2012-06-19T20:56:41.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 53.404
+Longitude: 171.706
+Flynn-Region: NEAR ISLANDS, ALEUTIAN ISLANDS
+-------------------------------------
+Event No: 267
+Event-ID: 20120622_0000009
+Date Time: 2012-06-22T02:20:05.000000Z
+Magnitude: 5.6
+Depth: -2.0
+Latitude: -32.89
+Longitude: -178.522
+Flynn-Region: SOUTH OF KERMADEC ISLANDS
+-------------------------------------
+Event No: 268
+Event-ID: 20120622_0000019
+Date Time: 2012-06-22T04:31:16.000000Z
+Magnitude: 5.9
+Depth: -2.0
+Latitude: -54.306
+Longitude: 158.734
+Flynn-Region: MACQUARIE ISLAND REGION
+-------------------------------------
+Event No: 269
+Event-ID: 20120623_0000026
+Date Time: 2012-06-23T04:34:53.000000Z
+Magnitude: 6.1
+Depth: -93.4
+Latitude: 2.977
+Longitude: 97.896
+Flynn-Region: NORTHERN SUMATRA, INDONESIA
+-------------------------------------
+Event No: 270
+Event-ID: 20120623_0000078
+Date Time: 2012-06-23T21:27:27.000000Z
+Magnitude: 5.4
+Depth: -1.6
+Latitude: 2.646
+Longitude: 90.472
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 271
+Event-ID: 20120624_0000011
+Date Time: 2012-06-24T03:15:01.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: 57.621
+Longitude: 163.216
+Flynn-Region: NEAR EAST COAST OF KAMCHATKA
+-------------------------------------
+Event No: 272
+Event-ID: 20120624_0000035
+Date Time: 2012-06-24T07:59:35.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 27.841
+Longitude: 100.806
+Flynn-Region: SICHUAN-YUNNAN BORDER REG, CHINA
+-------------------------------------
+Event No: 273
+Event-ID: 20120625_0000101
+Date Time: 2012-06-25T13:05:30.000000Z
+Magnitude: 5.0
+Depth: -49.3
+Latitude: 36.392
+Longitude: 29.006
+Flynn-Region: WESTERN TURKEY
+-------------------------------------
+Event No: 274
+Event-ID: 20120627_0000048
+Date Time: 2012-06-27T06:31:02.000000Z
+Magnitude: 5.6
+Depth: -160.0
+Latitude: 13.897
+Longitude: -89.926
+Flynn-Region: EL SALVADOR
+-------------------------------------
+Event No: 275
+Event-ID: 20120627_0000149
+Date Time: 2012-06-27T20:39:14.000000Z
+Magnitude: 5.3
+Depth: -2.0
+Latitude: -15.174
+Longitude: -173.287
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 276
+Event-ID: 20120628_0000088
+Date Time: 2012-06-28T15:52:02.000000Z
+Magnitude: 5.3
+Depth: -30.0
+Latitude: -13.44
+Longitude: 166.743
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 277
+Event-ID: 20120629_0000087
+Date Time: 2012-06-29T15:31:46.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -24.681
+Longitude: -9.669
+Flynn-Region: SOUTH ATLANTIC OCEAN
+-------------------------------------
+Event No: 278
+Event-ID: 20120629_0000108
+Date Time: 2012-06-29T21:07:31.000000Z
+Magnitude: 6.3
+Depth: -2.5
+Latitude: 43.495
+Longitude: 84.771
+Flynn-Region: NORTHERN XINJIANG, CHINA
+-------------------------------------
+Event No: 279
+Event-ID: 20120630_0000075
+Date Time: 2012-06-30T16:24:37.000000Z
+Magnitude: 5.5
+Depth: -91.7
+Latitude: -22.12
+Longitude: 171.014
+Flynn-Region: SOUTHEAST OF LOYALTY ISLANDS
+-------------------------------------
+Event No: 280
+Event-ID: 20120701_0000043
+Date Time: 2012-07-01T06:36:06.000000Z
+Magnitude: 4.7
+Depth: -0.4
+Latitude: 32.183
+Longitude: -115.274
+Flynn-Region: BAJA CALIFORNIA, MEXICO
+-------------------------------------
+Event No: 281
+Event-ID: 20120701_0000051
+Date Time: 2012-07-01T07:54:20.000000Z
+Magnitude: 4.1
+Depth: -0.2
+Latitude: 32.143
+Longitude: -115.258
+Flynn-Region: BAJA CALIFORNIA, MEXICO
+-------------------------------------
+Event No: 282
+Event-ID: 20120701_0000107
+Date Time: 2012-07-01T22:01:27.000000Z
+Magnitude: 5.1
+Depth: -20.0
+Latitude: 34.564
+Longitude: 60.005
+Flynn-Region: NORTHEASTERN IRAN
+-------------------------------------
+Event No: 283
+Event-ID: 20120701_0000117
+Date Time: 2012-07-01T23:39:09.000000Z
+Magnitude: 5.3
+Depth: -41.3
+Latitude: -28.538
+Longitude: -70.929
+Flynn-Region: ATACAMA, CHILE
+-------------------------------------
+Event No: 284
+Event-ID: 20120702_0000093
+Date Time: 2012-07-02T23:31:36.000000Z
+Magnitude: 5.7
+Depth: -30.0
+Latitude: -14.492
+Longitude: -75.805
+Flynn-Region: NEAR COAST OF CENTRAL PERU
+-------------------------------------
+Event No: 285
+Event-ID: 20120703_0000018
+Date Time: 2012-07-03T03:49:34.000000Z
+Magnitude: 5.6
+Depth: -95.3
+Latitude: -10.77
+Longitude: 163.4
+Flynn-Region: SOLOMON ISLANDS
+-------------------------------------
+Event No: 286
+Event-ID: 20120703_0000053
+Date Time: 2012-07-03T10:36:15.000000Z
+Magnitude: 6.2
+Depth: -220.1
+Latitude: -40.04
+Longitude: 173.784
+Flynn-Region: COOK STRAIT, NEW ZEALAND
+-------------------------------------
+Event No: 287
+Event-ID: 20120704_0000096
+Date Time: 2012-07-04T23:46:35.000000Z
+Magnitude: 4.7
+Depth: -60.0
+Latitude: 34.897
+Longitude: 26.73
+Flynn-Region: CRETE, GREECE
+-------------------------------------
+Event No: 288
+Event-ID: 20120706_0000006
+Date Time: 2012-07-06T02:28:23.000000Z
+Magnitude: 6.3
+Depth: -156.6
+Latitude: -14.64
+Longitude: 167.267
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 289
+Event-ID: 20120707_0000014
+Date Time: 2012-07-07T03:35:28.000000Z
+Magnitude: 5.7
+Depth: -31.5
+Latitude: -4.665
+Longitude: 153.322
+Flynn-Region: NEW IRELAND REGION, P.N.G.
+-------------------------------------
+Event No: 290
+Event-ID: 20120708_0000045
+Date Time: 2012-07-08T11:33:01.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: 45.49
+Longitude: 151.315
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 291
+Event-ID: 20120709_0000017
+Date Time: 2012-07-09T07:20:52.000000Z
+Magnitude: 5.3
+Depth: -529.4
+Latitude: 49.277
+Longitude: 147.178
+Flynn-Region: SEA OF OKHOTSK
+-------------------------------------
+Event No: 292
+Event-ID: 20120709_0000050
+Date Time: 2012-07-09T13:54:59.000000Z
+Magnitude: 5.7
+Depth: -50.0
+Latitude: 35.516
+Longitude: 28.88
+Flynn-Region: EASTERN MEDITERRANEAN SEA
+-------------------------------------
+Event No: 293
+Event-ID: 20120709_0000082
+Date Time: 2012-07-09T19:25:08.000000Z
+Magnitude: 5.5
+Depth: -41.6
+Latitude: 29.509
+Longitude: 130.177
+Flynn-Region: RYUKYU ISLANDS, JAPAN
+-------------------------------------
+Event No: 294
+Event-ID: 20120710_0000044
+Date Time: 2012-07-10T10:26:59.000000Z
+Magnitude: 5.2
+Depth: -30.0
+Latitude: -1.681
+Longitude: 134.288
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 295
+Event-ID: 20120711_0000009
+Date Time: 2012-07-11T02:31:16.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 45.366
+Longitude: 151.518
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 296
+Event-ID: 20120711_0000044
+Date Time: 2012-07-11T03:57:11.000000Z
+Magnitude: 5.4
+Depth: -1.0
+Latitude: -16.11
+Longitude: -174.625
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 297
+Event-ID: 20120711_0000066
+Date Time: 2012-07-11T20:52:36.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -15.276
+Longitude: -75.358
+Flynn-Region: NEAR COAST OF CENTRAL PERU
+-------------------------------------
+Event No: 298
+Event-ID: 20120712_0000045
+Date Time: 2012-07-12T10:39:07.000000Z
+Magnitude: 4.0
+Depth: -27.1
+Latitude: 40.75
+Longitude: -123.692
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 299
+Event-ID: 20120712_0000057
+Date Time: 2012-07-12T12:52:02.000000Z
+Magnitude: 5.7
+Depth: -37.8
+Latitude: 45.469
+Longitude: 151.742
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 300
+Event-ID: 20120712_0000061
+Date Time: 2012-07-12T14:00:34.000000Z
+Magnitude: 5.7
+Depth: -190.0
+Latitude: 36.593
+Longitude: 70.915
+Flynn-Region: HINDU KUSH REGION, AFGHANISTAN
+-------------------------------------
+Event No: 301
+Event-ID: 20120712_0000066
+Date Time: 2012-07-12T15:40:12.000000Z
+Magnitude: 5.5
+Depth: -4.6
+Latitude: -2.81
+Longitude: 129.366
+Flynn-Region: SERAM, INDONESIA
+-------------------------------------
+Event No: 302
+Event-ID: 20120714_0000050
+Date Time: 2012-07-14T14:22:29.000000Z
+Magnitude: 5.5
+Depth: -60.0
+Latitude: -49.198
+Longitude: 124.803
+Flynn-Region: WESTERN INDIAN-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 303
+Event-ID: 20120716_0000056
+Date Time: 2012-07-16T16:33:09.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -1.291
+Longitude: 137.097
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 304
+Event-ID: 20120718_0000025
+Date Time: 2012-07-18T08:09:46.000000Z
+Magnitude: 5.9
+Depth: -542.5
+Latitude: -20.85
+Longitude: -178.487
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 305
+Event-ID: 20120718_0000066
+Date Time: 2012-07-18T18:24:09.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: -20.679
+Longitude: -70.439
+Flynn-Region: OFFSHORE TARAPACA, CHILE
+-------------------------------------
+Event No: 306
+Event-ID: 20120719_0000030
+Date Time: 2012-07-19T07:36:36.000000Z
+Magnitude: 5.5
+Depth: -100.0
+Latitude: 37.324
+Longitude: 71.447
+Flynn-Region: HINDU KUSH REGION, AFGHANISTAN
+-------------------------------------
+Event No: 307
+Event-ID: 20120720_0000027
+Date Time: 2012-07-20T06:32:59.000000Z
+Magnitude: 5.9
+Depth: -30.0
+Latitude: 49.336
+Longitude: 156.199
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 308
+Event-ID: 20120720_0000052
+Date Time: 2012-07-20T12:11:51.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: 32.969
+Longitude: 119.64
+Flynn-Region: JIANGSU, CHINA
+-------------------------------------
+Event No: 309
+Event-ID: 20120720_0000064
+Date Time: 2012-07-20T14:03:12.000000Z
+Magnitude: 5.6
+Depth: -612.3
+Latitude: -21.187
+Longitude: -179.168
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 310
+Event-ID: 20120721_0000008
+Date Time: 2012-07-21T01:52:01.000000Z
+Magnitude: 5.1
+Depth: -2.0
+Latitude: 40.373
+Longitude: -125.331
+Flynn-Region: OFFSHORE NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 311
+Event-ID: 20120721_0000020
+Date Time: 2012-07-21T06:04:23.000000Z
+Magnitude: 5.3
+Depth: -2.0
+Latitude: 40.504
+Longitude: -125.325
+Flynn-Region: OFFSHORE NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 312
+Event-ID: 20120721_0000021
+Date Time: 2012-07-21T06:12:02.000000Z
+Magnitude: 5.9
+Depth: -40.0
+Latitude: -19.231
+Longitude: 173.824
+Flynn-Region: VANUATU REGION
+-------------------------------------
+Event No: 313
+Event-ID: 20120722_0000013
+Date Time: 2012-07-22T06:17:48.000000Z
+Magnitude: 4.0
+Depth: -2.0
+Latitude: 34.965
+Longitude: 25.881
+Flynn-Region: CRETE, GREECE
+-------------------------------------
+Event No: 314
+Event-ID: 20120722_0000017
+Date Time: 2012-07-22T07:02:14.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -4.887
+Longitude: 149.509
+Flynn-Region: BISMARCK SEA
+-------------------------------------
+Event No: 315
+Event-ID: 20120722_0000030
+Date Time: 2012-07-22T09:26:04.000000Z
+Magnitude: 4.6
+Depth: -7.0
+Latitude: 37.55
+Longitude: 36.38
+Flynn-Region: CENTRAL TURKEY
+-------------------------------------
+Event No: 316
+Event-ID: 20120725_0000003
+Date Time: 2012-07-25T00:27:42.000000Z
+Magnitude: 6.4
+Depth: -2.0
+Latitude: 2.722
+Longitude: 96.13
+Flynn-Region: SIMEULUE, INDONESIA
+-------------------------------------
+Event No: 317
+Event-ID: 20120725_0000044
+Date Time: 2012-07-25T11:20:28.000000Z
+Magnitude: 6.3
+Depth: -20.0
+Latitude: -9.707
+Longitude: 159.825
+Flynn-Region: SOLOMON ISLANDS
+-------------------------------------
+Event No: 318
+Event-ID: 20120726_0000010
+Date Time: 2012-07-26T05:33:33.000000Z
+Magnitude: 6.7
+Depth: -10.0
+Latitude: -17.761
+Longitude: 66.437
+Flynn-Region: MAURITIUS - REUNION REGION
+-------------------------------------
+Event No: 319
+Event-ID: 20120726_0000025
+Date Time: 2012-07-26T10:48:23.000000Z
+Magnitude: 5.6
+Depth: -36.6
+Latitude: -21.126
+Longitude: 169.529
+Flynn-Region: SOUTHEAST OF LOYALTY ISLANDS
+-------------------------------------
+Event No: 320
+Event-ID: 20120727_0000052
+Date Time: 2012-07-27T23:12:22.000000Z
+Magnitude: 4.5
+Depth: -2.0
+Latitude: 44.189
+Longitude: 17.919
+Flynn-Region: BOSNIA AND HERZEGOVINA
+-------------------------------------
+Event No: 321
+Event-ID: 20120728_0000038
+Date Time: 2012-07-28T16:01:12.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 4.488
+Longitude: -32.727
+Flynn-Region: CENTRAL MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 322
+Event-ID: 20120728_0000054
+Date Time: 2012-07-28T20:03:58.000000Z
+Magnitude: 6.5
+Depth: -50.0
+Latitude: -4.605
+Longitude: 153.171
+Flynn-Region: NEW IRELAND REGION, P.N.G.
+-------------------------------------
+Event No: 323
+Event-ID: 20120729_0000024
+Date Time: 2012-07-29T09:20:55.000000Z
+Magnitude: 5.7
+Depth: -505.8
+Latitude: 47.422
+Longitude: 139.086
+Flynn-Region: PRIMOR'YE, RUSSIA
+-------------------------------------
+Event No: 324
+Event-ID: 20120729_0000035
+Date Time: 2012-07-29T12:22:14.000000Z
+Magnitude: 5.9
+Depth: -30.0
+Latitude: 14.355
+Longitude: -92.276
+Flynn-Region: OFFSHORE GUATEMALA
+-------------------------------------
+Event No: 325
+Event-ID: 20120801_0000064
+Date Time: 2012-08-01T20:43:40.000000Z
+Magnitude: 5.4
+Depth: -40.0
+Latitude: -4.387
+Longitude: 144.562
+Flynn-Region: NEAR N COAST OF NEW GUINEA, PNG.
+-------------------------------------
+Event No: 326
+Event-ID: 20120802_0000008
+Date Time: 2012-08-02T03:15:29.000000Z
+Magnitude: 5.2
+Depth: -47.9
+Latitude: -6.286
+Longitude: 154.827
+Flynn-Region: BOUGAINVILLE REGION, P.N.G.
+-------------------------------------
+Event No: 327
+Event-ID: 20120802_0000016
+Date Time: 2012-08-02T04:28:06.000000Z
+Magnitude: 4.9
+Depth: -10.0
+Latitude: 9.936
+Longitude: 57.112
+Flynn-Region: CARLSBERG RIDGE
+-------------------------------------
+Event No: 328
+Event-ID: 20120802_0000023
+Date Time: 2012-08-02T07:37:42.000000Z
+Magnitude: 5.4
+Depth: -46.4
+Latitude: -7.05
+Longitude: 131.22
+Flynn-Region: KEP. TANIMBAR REGION, INDONESIA
+-------------------------------------
+Event No: 329
+Event-ID: 20120802_0000033
+Date Time: 2012-08-02T09:38:32.000000Z
+Magnitude: 6.0
+Depth: -153.4
+Latitude: -8.449
+Longitude: -74.34
+Flynn-Region: CENTRAL PERU
+-------------------------------------
+Event No: 330
+Event-ID: 20120802_0000038
+Date Time: 2012-08-02T09:56:44.000000Z
+Magnitude: 6.0
+Depth: -66.8
+Latitude: -4.67
+Longitude: 153.271
+Flynn-Region: NEW IRELAND REGION, P.N.G.
+-------------------------------------
+Event No: 331
+Event-ID: 20120803_0000012
+Date Time: 2012-08-03T04:08:58.000000Z
+Magnitude: 5.5
+Depth: -40.0
+Latitude: -7.024
+Longitude: 155.755
+Flynn-Region: SOLOMON ISLANDS
+-------------------------------------
+Event No: 332
+Event-ID: 20120803_0000062
+Date Time: 2012-08-03T07:22:33.000000Z
+Magnitude: 5.5
+Depth: -35.1
+Latitude: -16.787
+Longitude: -177.013
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 333
+Event-ID: 20120805_0000030
+Date Time: 2012-08-05T13:55:11.000000Z
+Magnitude: 5.9
+Depth: -486.6
+Latitude: -21.095
+Longitude: -178.288
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 334
+Event-ID: 20120805_0000048
+Date Time: 2012-08-05T20:37:23.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 37.442
+Longitude: 42.928
+Flynn-Region: TURKEY-SYRIA-IRAQ BORDER REGION
+-------------------------------------
+Event No: 335
+Event-ID: 20120806_0000026
+Date Time: 2012-08-06T07:35:49.000000Z
+Magnitude: 4.4
+Depth: -11.6
+Latitude: 35.949
+Longitude: -120.503
+Flynn-Region: CENTRAL CALIFORNIA
+-------------------------------------
+Event No: 336
+Event-ID: 20120808_0000029
+Date Time: 2012-08-08T10:57:44.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -15.999
+Longitude: 178.074
+Flynn-Region: FIJI
+-------------------------------------
+Event No: 337
+Event-ID: 20120809_0000006
+Date Time: 2012-08-09T02:34:41.000000Z
+Magnitude: 5.6
+Depth: -8.7
+Latitude: 19.955
+Longitude: -109.148
+Flynn-Region: REVILLA GIGEDO ISLANDS REGION
+-------------------------------------
+Event No: 338
+Event-ID: 20120810_0000036
+Date Time: 2012-08-10T18:37:43.000000Z
+Magnitude: 6.2
+Depth: -10.0
+Latitude: 52.692
+Longitude: -167.43
+Flynn-Region: FOX ISLANDS, ALEUTIAN ISLANDS
+-------------------------------------
+Event No: 339
+Event-ID: 20120811_0000023
+Date Time: 2012-08-11T09:34:25.000000Z
+Magnitude: 5.3
+Depth: -40.0
+Latitude: 40.058
+Longitude: 78.176
+Flynn-Region: SOUTHERN XINJIANG, CHINA
+-------------------------------------
+Event No: 340
+Event-ID: 20120811_0000034
+Date Time: 2012-08-11T12:23:18.000000Z
+Magnitude: 6.4
+Depth: -10.0
+Latitude: 38.41
+Longitude: 46.811
+Flynn-Region: NORTHWESTERN IRAN
+-------------------------------------
+Event No: 341
+Event-ID: 20120811_0000036
+Date Time: 2012-08-11T12:34:36.000000Z
+Magnitude: 6.3
+Depth: -10.0
+Latitude: 38.481
+Longitude: 46.747
+Flynn-Region: NORTHWESTERN IRAN
+-------------------------------------
+Event No: 342
+Event-ID: 20120812_0000044
+Date Time: 2012-08-12T10:47:05.000000Z
+Magnitude: 6.2
+Depth: -2.0
+Latitude: 35.759
+Longitude: 82.684
+Flynn-Region: XINJIANG-XIZANG BORDER REGION
+-------------------------------------
+Event No: 343
+Event-ID: 20120812_0000076
+Date Time: 2012-08-12T18:31:26.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -63.168
+Longitude: -157.364
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 344
+Event-ID: 20120815_0000024
+Date Time: 2012-08-15T10:04:29.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 57.869
+Longitude: -32.792
+Flynn-Region: REYKJANES RIDGE
+-------------------------------------
+Event No: 345
+Event-ID: 20120815_0000042
+Date Time: 2012-08-15T17:49:06.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 38.519
+Longitude: 46.768
+Flynn-Region: NORTHWESTERN IRAN
+-------------------------------------
+Event No: 346
+Event-ID: 20120815_0000055
+Date Time: 2012-08-15T23:45:54.000000Z
+Magnitude: 5.5
+Depth: -73.6
+Latitude: 13.285
+Longitude: -89.185
+Flynn-Region: OFFSHORE EL SALVADOR
+-------------------------------------
+Event No: 347
+Event-ID: 20120816_0000038
+Date Time: 2012-08-16T13:24:45.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -36.306
+Longitude: -98.933
+Flynn-Region: SOUTHEAST OF EASTER ISLAND
+-------------------------------------
+Event No: 348
+Event-ID: 20120816_0000040
+Date Time: 2012-08-16T14:14:31.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: -0.302
+Longitude: -18.792
+Flynn-Region: CENTRAL MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 349
+Event-ID: 20120817_0000070
+Date Time: 2012-08-17T21:27:54.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 8.459
+Longitude: -103.088
+Flynn-Region: NORTHERN EAST PACIFIC RISE
+-------------------------------------
+Event No: 350
+Event-ID: 20120818_0000027
+Date Time: 2012-08-18T09:41:52.000000Z
+Magnitude: 6.3
+Depth: -10.0
+Latitude: -1.277
+Longitude: 120.146
+Flynn-Region: SULAWESI, INDONESIA
+-------------------------------------
+Event No: 351
+Event-ID: 20120818_0000031
+Date Time: 2012-08-18T10:23:32.000000Z
+Magnitude: 5.7
+Depth: -30.0
+Latitude: -13.507
+Longitude: 172.417
+Flynn-Region: VANUATU REGION
+-------------------------------------
+Event No: 352
+Event-ID: 20120818_0000049
+Date Time: 2012-08-18T15:31:45.000000Z
+Magnitude: 5.7
+Depth: -48.1
+Latitude: 2.676
+Longitude: 128.812
+Flynn-Region: HALMAHERA, INDONESIA
+-------------------------------------
+Event No: 353
+Event-ID: 20120818_0000052
+Date Time: 2012-08-18T17:45:02.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -15.533
+Longitude: -173.079
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 354
+Event-ID: 20120819_0000021
+Date Time: 2012-08-19T08:07:35.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 47.793
+Longitude: -128.609
+Flynn-Region: OFF COAST OF WASHINGTON
+-------------------------------------
+Event No: 355
+Event-ID: 20120819_0000072
+Date Time: 2012-08-19T22:41:51.000000Z
+Magnitude: 6.2
+Depth: -80.0
+Latitude: -4.814
+Longitude: 144.583
+Flynn-Region: NEAR N COAST OF NEW GUINEA, PNG.
+-------------------------------------
+Event No: 356
+Event-ID: 20120821_0000038
+Date Time: 2012-08-21T17:39:37.000000Z
+Magnitude: 5.6
+Depth: -2.0
+Latitude: -0.077
+Longitude: 92.033
+Flynn-Region: SOUTHWEST OF SUMATRA, INDONESIA
+-------------------------------------
+Event No: 357
+Event-ID: 20120824_0000010
+Date Time: 2012-08-24T04:43:49.000000Z
+Magnitude: 5.7
+Depth: -20.0
+Latitude: -27.212
+Longitude: -176.775
+Flynn-Region: KERMADEC ISLANDS REGION
+-------------------------------------
+Event No: 358
+Event-ID: 20120824_0000034
+Date Time: 2012-08-24T07:03:05.000000Z
+Magnitude: 5.5
+Depth: -2.0
+Latitude: -63.09
+Longitude: 170.755
+Flynn-Region: BALLENY ISLANDS REGION
+-------------------------------------
+Event No: 359
+Event-ID: 20120824_0000033
+Date Time: 2012-08-24T10:01:54.000000Z
+Magnitude: 5.7
+Depth: -40.0
+Latitude: -33.39
+Longitude: -179.465
+Flynn-Region: SOUTH OF KERMADEC ISLANDS
+-------------------------------------
+Event No: 360
+Event-ID: 20120826_0000034
+Date Time: 2012-08-26T11:22:21.000000Z
+Magnitude: 5.6
+Depth: -2.0
+Latitude: -65.467
+Longitude: -179.938
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 361
+Event-ID: 20120826_0000051
+Date Time: 2012-08-26T15:05:37.000000Z
+Magnitude: 6.6
+Depth: -80.0
+Latitude: 2.236
+Longitude: 126.874
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 362
+Event-ID: 20120826_0000072
+Date Time: 2012-08-26T19:20:04.000000Z
+Magnitude: 4.6
+Depth: -13.1
+Latitude: 33.019
+Longitude: -115.545
+Flynn-Region: SOUTHERN CALIFORNIA
+-------------------------------------
+Event No: 363
+Event-ID: 20120826_0000059
+Date Time: 2012-08-26T19:31:26.000000Z
+Magnitude: 5.4
+Depth: -12.0
+Latitude: 33.019
+Longitude: -115.546
+Flynn-Region: SOUTHERN CALIFORNIA
+-------------------------------------
+Event No: 364
+Event-ID: 20120826_0000074
+Date Time: 2012-08-26T19:40:12.000000Z
+Magnitude: 4.3
+Depth: -13.8
+Latitude: 32.99
+Longitude: -115.598
+Flynn-Region: SOUTHERN CALIFORNIA
+-------------------------------------
+Event No: 365
+Event-ID: 20120826_0000064
+Date Time: 2012-08-26T20:58:01.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 33.146
+Longitude: -115.759
+Flynn-Region: SOUTHERN CALIFORNIA
+-------------------------------------
+Event No: 366
+Event-ID: 20120827_0000019
+Date Time: 2012-08-27T04:37:21.000000Z
+Magnitude: 7.4
+Depth: -24.9
+Latitude: 12.317
+Longitude: -88.561
+Flynn-Region: OFFSHORE EL SALVADOR
+-------------------------------------
+Event No: 367
+Event-ID: 20120827_0000069
+Date Time: 2012-08-27T17:54:26.000000Z
+Magnitude: 5.1
+Depth: -40.0
+Latitude: 3.65
+Longitude: 126.79
+Flynn-Region: KEPULAUAN TALAUD, INDONESIA
+-------------------------------------
+Event No: 368
+Event-ID: 20120827_0000086
+Date Time: 2012-08-27T23:16:01.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 30.61
+Longitude: -113.856
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 369
+Event-ID: 20120828_0000018
+Date Time: 2012-08-28T06:08:16.000000Z
+Magnitude: 5.4
+Depth: -35.0
+Latitude: 12.508
+Longitude: -88.67
+Flynn-Region: OFFSHORE EL SALVADOR
+-------------------------------------
+Event No: 370
+Event-ID: 20120828_0000030
+Date Time: 2012-08-28T08:53:38.000000Z
+Magnitude: 5.2
+Depth: -46.1
+Latitude: 12.022
+Longitude: -88.679
+Flynn-Region: OFF THE COAST OF EL SALVADOR
+-------------------------------------
+Event No: 371
+Event-ID: 20120828_0000058
+Date Time: 2012-08-28T15:34:57.000000Z
+Magnitude: 4.1
+Depth: -10.0
+Latitude: 63.578
+Longitude: -147.782
+Flynn-Region: CENTRAL ALASKA
+-------------------------------------
+Event No: 372
+Event-ID: 20120828_0000052
+Date Time: 2012-08-28T15:51:05.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 4.462
+Longitude: 92.974
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 373
+Event-ID: 20120829_0000020
+Date Time: 2012-08-29T09:49:13.000000Z
+Magnitude: 5.0
+Depth: -545.9
+Latitude: 3.501
+Longitude: 122.724
+Flynn-Region: CELEBES SEA
+-------------------------------------
+Event No: 374
+Event-ID: 20120829_0000040
+Date Time: 2012-08-29T13:34:30.000000Z
+Magnitude: 5.4
+Depth: -103.6
+Latitude: -17.634
+Longitude: 168.407
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 375
+Event-ID: 20120829_0000053
+Date Time: 2012-08-29T19:05:11.000000Z
+Magnitude: 5.5
+Depth: -47.9
+Latitude: 38.489
+Longitude: 141.784
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 376
+Event-ID: 20120830_0000038
+Date Time: 2012-08-30T10:53:58.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -50.327
+Longitude: 114.101
+Flynn-Region: WESTERN INDIAN-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 377
+Event-ID: 20120830_0000046
+Date Time: 2012-08-30T12:18:42.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -50.243
+Longitude: 114.045
+Flynn-Region: WESTERN INDIAN-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 378
+Event-ID: 20120830_0000050
+Date Time: 2012-08-30T13:43:23.000000Z
+Magnitude: 6.7
+Depth: -2.0
+Latitude: 71.52
+Longitude: -10.614
+Flynn-Region: JAN MAYEN ISLAND REGION
+-------------------------------------
+Event No: 379
+Event-ID: 20120831_0000001
+Date Time: 2012-08-31T00:35:36.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 3.783
+Longitude: -32.175
+Flynn-Region: CENTRAL MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 380
+Event-ID: 20120831_0000031
+Date Time: 2012-08-31T12:47:32.000000Z
+Magnitude: 7.6
+Depth: -20.0
+Latitude: 10.861
+Longitude: 126.678
+Flynn-Region: PHILIPPINE ISLANDS REGION
+-------------------------------------
+Event No: 381
+Event-ID: 20120831_0000076
+Date Time: 2012-08-31T23:37:58.000000Z
+Magnitude: 5.7
+Depth: -40.0
+Latitude: 10.425
+Longitude: 126.755
+Flynn-Region: PHILIPPINE ISLANDS REGION
+-------------------------------------
+Event No: 382
+Event-ID: 20120901_0000075
+Date Time: 2012-09-01T18:01:51.000000Z
+Magnitude: 5.4
+Depth: -270.0
+Latitude: 16.486
+Longitude: -92.392
+Flynn-Region: CHIAPAS, MEXICO
+-------------------------------------
+Event No: 383
+Event-ID: 20120902_0000033
+Date Time: 2012-09-02T12:44:02.000000Z
+Magnitude: 5.4
+Depth: -2.0
+Latitude: 78.464
+Longitude: 6.831
+Flynn-Region: SVALBARD REGION
+-------------------------------------
+Event No: 384
+Event-ID: 20120903_0000016
+Date Time: 2012-09-03T06:49:54.000000Z
+Magnitude: 5.8
+Depth: -40.0
+Latitude: 6.568
+Longitude: 123.868
+Flynn-Region: MORO GULF, MINDANAO, PHILIPPINES
+-------------------------------------
+Event No: 385
+Event-ID: 20120903_0000058
+Date Time: 2012-09-03T18:23:04.000000Z
+Magnitude: 6.3
+Depth: -10.0
+Latitude: -10.849
+Longitude: 113.912
+Flynn-Region: SOUTH OF JAVA, INDONESIA
+-------------------------------------
+Event No: 386
+Event-ID: 20120904_0000002
+Date Time: 2012-09-04T00:11:30.000000Z
+Magnitude: 4.6
+Depth: -66.9
+Latitude: 58.604
+Longitude: -153.939
+Flynn-Region: KODIAK ISLAND REGION, ALASKA
+-------------------------------------
+Event No: 387
+Event-ID: 20120904_0000050
+Date Time: 2012-09-04T15:11:10.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 10.689
+Longitude: 126.814
+Flynn-Region: PHILIPPINE ISLANDS REGION
+-------------------------------------
+Event No: 388
+Event-ID: 20120905_0000001
+Date Time: 2012-09-05T00:24:52.000000Z
+Magnitude: 5.0
+Depth: -33.5
+Latitude: 19.323
+Longitude: -64.453
+Flynn-Region: VIRGIN ISLANDS REGION
+-------------------------------------
+Event No: 389
+Event-ID: 20120905_0000045
+Date Time: 2012-09-05T13:09:10.000000Z
+Magnitude: 6.0
+Depth: -20.0
+Latitude: -12.467
+Longitude: 166.498
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 390
+Event-ID: 20120905_0000051
+Date Time: 2012-09-05T14:42:10.000000Z
+Magnitude: 7.6
+Depth: -40.0
+Latitude: 10.165
+Longitude: -85.387
+Flynn-Region: COSTA RICA
+-------------------------------------
+Event No: 391
+Event-ID: 20120906_0000025
+Date Time: 2012-09-06T06:46:32.000000Z
+Magnitude: 5.5
+Depth: -30.0
+Latitude: -3.678
+Longitude: 140.38
+Flynn-Region: PAPUA, INDONESIA
+-------------------------------------
+Event No: 392
+Event-ID: 20120906_0000036
+Date Time: 2012-09-06T09:07:43.000000Z
+Magnitude: 5.1
+Depth: -226.6
+Latitude: 11.733
+Longitude: -85.803
+Flynn-Region: NICARAGUA
+-------------------------------------
+Event No: 393
+Event-ID: 20120906_0000072
+Date Time: 2012-09-06T23:33:06.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -4.579
+Longitude: -105.907
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 394
+Event-ID: 20120907_0000007
+Date Time: 2012-09-07T02:37:00.000000Z
+Magnitude: 5.0
+Depth: -100.0
+Latitude: -22.421
+Longitude: -68.286
+Flynn-Region: ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 395
+Event-ID: 20120907_0000009
+Date Time: 2012-09-07T03:19:42.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 27.594
+Longitude: 104.024
+Flynn-Region: SICHUAN-YUNNAN-GUIZHOU RG, CHINA
+-------------------------------------
+Event No: 396
+Event-ID: 20120908_0000036
+Date Time: 2012-09-08T10:51:43.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -3.132
+Longitude: 135.148
+Flynn-Region: PAPUA, INDONESIA
+-------------------------------------
+Event No: 397
+Event-ID: 20120908_0000067
+Date Time: 2012-09-08T20:29:31.000000Z
+Magnitude: 5.8
+Depth: -32.7
+Latitude: 10.103
+Longitude: -85.275
+Flynn-Region: COSTA RICA
+-------------------------------------
+Event No: 398
+Event-ID: 20120909_0000015
+Date Time: 2012-09-09T05:39:20.000000Z
+Magnitude: 5.9
+Depth: -57.2
+Latitude: 49.512
+Longitude: 155.504
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 399
+Event-ID: 20120909_0000025
+Date Time: 2012-09-09T09:36:38.000000Z
+Magnitude: 5.4
+Depth: -15.2
+Latitude: 45.309
+Longitude: 151.389
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 400
+Event-ID: 20120909_0000049
+Date Time: 2012-09-09T19:23:51.000000Z
+Magnitude: 5.5
+Depth: -119.5
+Latitude: 52.842
+Longitude: 175.017
+Flynn-Region: RAT ISLANDS, ALEUTIAN ISLANDS
+-------------------------------------
+Event No: 401
+Event-ID: 20120911_0000002
+Date Time: 2012-09-11T01:28:18.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 45.469
+Longitude: 151.04
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 402
+Event-ID: 20120911_0000050
+Date Time: 2012-09-11T16:36:51.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: 11.926
+Longitude: 143.362
+Flynn-Region: SOUTH OF MARIANA ISLANDS
+-------------------------------------
+Event No: 403
+Event-ID: 20120911_0000059
+Date Time: 2012-09-11T19:25:00.000000Z
+Magnitude: 5.0
+Depth: -20.0
+Latitude: 6.106
+Longitude: -82.475
+Flynn-Region: SOUTH OF PANAMA
+-------------------------------------
+Event No: 404
+Event-ID: 20120912_0000014
+Date Time: 2012-09-12T03:27:45.000000Z
+Magnitude: 5.4
+Depth: -30.0
+Latitude: 34.744
+Longitude: 24.031
+Flynn-Region: CRETE, GREECE
+-------------------------------------
+Event No: 405
+Event-ID: 20120913_0000003
+Date Time: 2012-09-13T01:55:02.000000Z
+Magnitude: 5.5
+Depth: -80.0
+Latitude: -18.764
+Longitude: 175.919
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 406
+Event-ID: 20120913_0000045
+Date Time: 2012-09-13T17:23:47.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 82.752
+Longitude: 117.687
+Flynn-Region: NORTH OF SEVERNAYA ZEMLYA
+-------------------------------------
+Event No: 407
+Event-ID: 20120914_0000014
+Date Time: 2012-09-14T04:51:50.000000Z
+Magnitude: 6.2
+Depth: -30.0
+Latitude: -3.247
+Longitude: 100.63
+Flynn-Region: KEP. MENTAWAI REGION, INDONESIA
+-------------------------------------
+Event No: 408
+Event-ID: 20120914_0000021
+Date Time: 2012-09-14T07:18:38.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -39.746
+Longitude: -15.964
+Flynn-Region: TRISTAN DA CUNHA REGION
+-------------------------------------
+Event No: 409
+Event-ID: 20120914_0000037
+Date Time: 2012-09-14T11:53:17.000000Z
+Magnitude: 4.5
+Depth: -23.7
+Latitude: 40.445
+Longitude: -124.168
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 410
+Event-ID: 20120914_0000048
+Date Time: 2012-09-14T18:19:51.000000Z
+Magnitude: 4.0
+Depth: -24.3
+Latitude: 40.434
+Longitude: -124.154
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
+Event No: 411
+Event-ID: 20120915_0000068
+Date Time: 2012-09-15T16:32:21.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -10.866
+Longitude: 113.809
+Flynn-Region: SOUTH OF JAVA, INDONESIA
+-------------------------------------
+Event No: 412
+Event-ID: 20120917_0000056
+Date Time: 2012-09-17T19:09:30.000000Z
+Magnitude: 5.1
+Depth: -29.6
+Latitude: 39.837
+Longitude: 142.071
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 413
+Event-ID: 20120917_0000063
+Date Time: 2012-09-17T20:07:55.000000Z
+Magnitude: 5.4
+Depth: -92.9
+Latitude: -5.725
+Longitude: 150.151
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 414
+Event-ID: 20120920_0000092
+Date Time: 2012-09-20T21:03:40.000000Z
+Magnitude: 5.7
+Depth: -530.2
+Latitude: -20.736
+Longitude: -178.409
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 415
+Event-ID: 20120921_0000058
+Date Time: 2012-09-21T15:39:16.000000Z
+Magnitude: 4.7
+Depth: -43.9
+Latitude: 35.419
+Longitude: 22.623
+Flynn-Region: CENTRAL MEDITERRANEAN SEA
+-------------------------------------
+Event No: 416
+Event-ID: 20120924_0000028
+Date Time: 2012-09-24T10:31:23.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -21.196
+Longitude: -174.319
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 417
+Event-ID: 20120925_0000009
+Date Time: 2012-09-25T03:06:52.000000Z
+Magnitude: 5.7
+Depth: -108.8
+Latitude: -15.479
+Longitude: -173.831
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 418
+Event-ID: 20120925_0000069
+Date Time: 2012-09-25T23:45:25.000000Z
+Magnitude: 6.3
+Depth: -10.0
+Latitude: 24.669
+Longitude: -110.177
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 419
+Event-ID: 20120926_0000078
+Date Time: 2012-09-26T23:39:54.000000Z
+Magnitude: 6.4
+Depth: -10.0
+Latitude: 51.57
+Longitude: -178.241
+Flynn-Region: ANDREANOF ISLANDS, ALEUTIAN IS.
+-------------------------------------
+Event No: 420
+Event-ID: 20120927_0000072
+Date Time: 2012-09-27T23:53:49.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -8.821
+Longitude: 157.493
+Flynn-Region: SOLOMON ISLANDS
+-------------------------------------
+Event No: 421
+Event-ID: 20120929_0000021
+Date Time: 2012-09-29T07:11:17.000000Z
+Magnitude: 5.5
+Depth: -40.0
+Latitude: 16.432
+Longitude: -98.357
+Flynn-Region: GUERRERO, MEXICO
+-------------------------------------
+Event No: 422
+Event-ID: 20120930_0000039
+Date Time: 2012-09-30T16:31:34.000000Z
+Magnitude: 7.2
+Depth: -148.6
+Latitude: 2.036
+Longitude: -76.423
+Flynn-Region: COLOMBIA
+-------------------------------------
+Event No: 423
+Event-ID: 20121001_0000046
+Date Time: 2012-10-01T17:32:31.000000Z
+Magnitude: 5.5
+Depth: -20.0
+Latitude: 18.672
+Longitude: -107.152
+Flynn-Region: OFF COAST OF JALISCO, MEXICO
+-------------------------------------
+Event No: 424
+Event-ID: 20121001_0000050
+Date Time: 2012-10-01T18:40:52.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 36.96
+Longitude: 141.219
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 425
+Event-ID: 20121001_0000064
+Date Time: 2012-10-01T22:21:46.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: 39.897
+Longitude: 143.104
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 426
+Event-ID: 20121002_0000013
+Date Time: 2012-10-02T03:33:28.000000Z
+Magnitude: 5.3
+Depth: -80.0
+Latitude: -18.802
+Longitude: -174.794
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 427
+Event-ID: 20121002_0000031
+Date Time: 2012-10-02T08:28:15.000000Z
+Magnitude: 4.1
+Depth: -7.2
+Latitude: 32.805
+Longitude: -116.156
+Flynn-Region: SOUTHERN CALIFORNIA
+-------------------------------------
+Event No: 428
+Event-ID: 20121002_0000066
+Date Time: 2012-10-02T19:41:27.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -65.011
+Longitude: 177.964
+Flynn-Region: BALLENY ISLANDS REGION
+-------------------------------------
+Event No: 429
+Event-ID: 20121003_0000048
+Date Time: 2012-10-03T13:32:37.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -0.343
+Longitude: 97.749
+Flynn-Region: KEPULAUAN BATU, INDONESIA
+-------------------------------------
+Event No: 430
+Event-ID: 20121003_0000054
+Date Time: 2012-10-03T14:41:30.000000Z
+Magnitude: 4.6
+Depth: -30.0
+Latitude: 44.851
+Longitude: 9.77
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 431
+Event-ID: 20121004_0000057
+Date Time: 2012-10-04T23:14:56.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 17.48
+Longitude: -46.501
+Flynn-Region: NORTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 432
+Event-ID: 20121005_0000001
+Date Time: 2012-10-05T00:15:42.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 17.633
+Longitude: -46.51
+Flynn-Region: NORTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 433
+Event-ID: 20121005_0000003
+Date Time: 2012-10-05T00:19:58.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 17.805
+Longitude: -46.511
+Flynn-Region: NORTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 434
+Event-ID: 20121005_0000073
+Date Time: 2012-10-05T18:22:53.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 13.043
+Longitude: -91.528
+Flynn-Region: OFF THE COAST OF GUATEMALA
+-------------------------------------
+Event No: 435
+Event-ID: 20121005_0000081
+Date Time: 2012-10-05T20:02:10.000000Z
+Magnitude: 5.5
+Depth: -2.0
+Latitude: 23.608
+Longitude: -108.575
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 436
+Event-ID: 20121006_0000067
+Date Time: 2012-10-06T22:49:36.000000Z
+Magnitude: 4.1
+Depth: -15.2
+Latitude: -32.097
+Longitude: -72.29
+Flynn-Region: OFFSHORE COQUIMBO, CHILE
+-------------------------------------
+Event No: 437
+Event-ID: 20121007_0000035
+Date Time: 2012-10-07T11:42:51.000000Z
+Magnitude: 5.1
+Depth: -40.0
+Latitude: 40.7
+Longitude: 48.35
+Flynn-Region: AZERBAIJAN
+-------------------------------------
+Event No: 438
+Event-ID: 20121008_0000002
+Date Time: 2012-10-08T01:50:25.000000Z
+Magnitude: 5.8
+Depth: -110.3
+Latitude: -21.848
+Longitude: -68.289
+Flynn-Region: ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 439
+Event-ID: 20121008_0000013
+Date Time: 2012-10-08T11:43:33.000000Z
+Magnitude: 6.3
+Depth: -10.0
+Latitude: -4.537
+Longitude: 129.329
+Flynn-Region: BANDA SEA
+-------------------------------------
+Event No: 440
+Event-ID: 20121009_0000027
+Date Time: 2012-10-09T07:49:55.000000Z
+Magnitude: 5.6
+Depth: -47.5
+Latitude: -2.735
+Longitude: 139.229
+Flynn-Region: NEAR N COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 441
+Event-ID: 20121009_0000043
+Date Time: 2012-10-09T12:32:02.000000Z
+Magnitude: 6.4
+Depth: -2.0
+Latitude: -61.111
+Longitude: 154.154
+Flynn-Region: BALLENY ISLANDS REGION
+-------------------------------------
+Event No: 442
+Event-ID: 20121010_0000040
+Date Time: 2012-10-10T12:19:46.000000Z
+Magnitude: 5.3
+Depth: -28.2
+Latitude: 10.253
+Longitude: -85.409
+Flynn-Region: COSTA RICA
+-------------------------------------
+Event No: 443
+Event-ID: 20121010_0000053
+Date Time: 2012-10-10T16:56:35.000000Z
+Magnitude: 4.8
+Depth: -20.0
+Latitude: 29.321
+Longitude: 52.564
+Flynn-Region: SOUTHERN IRAN
+-------------------------------------
+Event No: 444
+Event-ID: 20121011_0000056
+Date Time: 2012-10-11T17:07:53.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 1.574
+Longitude: 92.609
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 445
+Event-ID: 20121011_0000057
+Date Time: 2012-10-11T17:22:10.000000Z
+Magnitude: 5.6
+Depth: -80.0
+Latitude: -32.845
+Longitude: -70.39
+Flynn-Region: VALPARAISO, CHILE
+-------------------------------------
+Event No: 446
+Event-ID: 20121012_0000002
+Date Time: 2012-10-12T00:31:28.000000Z
+Magnitude: 6.6
+Depth: -10.0
+Latitude: -4.91
+Longitude: 134.047
+Flynn-Region: NEAR S COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 447
+Event-ID: 20121012_0000067
+Date Time: 2012-10-12T21:26:33.000000Z
+Magnitude: 4.6
+Depth: -109.5
+Latitude: -23.676
+Longitude: -67.854
+Flynn-Region: ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 448
+Event-ID: 20121013_0000054
+Date Time: 2012-10-13T18:44:11.000000Z
+Magnitude: 4.6
+Depth: -10.0
+Latitude: 41.829
+Longitude: 46.329
+Flynn-Region: GEORGIA (SAK'ART'VELO)
+-------------------------------------
+Event No: 449
+Event-ID: 20121014_0000022
+Date Time: 2012-10-14T09:41:58.000000Z
+Magnitude: 5.8
+Depth: -30.0
+Latitude: 48.379
+Longitude: 154.439
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 450
+Event-ID: 20121014_0000024
+Date Time: 2012-10-14T10:13:39.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 41.875
+Longitude: 46.438
+Flynn-Region: AZERBAIJAN
+-------------------------------------
+Event No: 451
+Event-ID: 20121014_0000026
+Date Time: 2012-10-14T10:41:28.000000Z
+Magnitude: 5.4
+Depth: -117.4
+Latitude: 14.837
+Longitude: -92.165
+Flynn-Region: GUATEMALA
+-------------------------------------
+Event No: 452
+Event-ID: 20121015_0000063
+Date Time: 2012-10-15T01:19:01.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 51.889
+Longitude: 159.419
+Flynn-Region: OFF EAST COAST OF KAMCHATKA
+-------------------------------------
+Event No: 453
+Event-ID: 20121015_0000039
+Date Time: 2012-10-15T17:52:21.000000Z
+Magnitude: 5.5
+Depth: -80.0
+Latitude: 14.179
+Longitude: -91.01
+Flynn-Region: GUATEMALA
+-------------------------------------
+Event No: 454
+Event-ID: 20121016_0000091
+Date Time: 2012-10-16T12:41:25.000000Z
+Magnitude: 5.6
+Depth: -80.0
+Latitude: 49.582
+Longitude: 156.514
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 455
+Event-ID: 20121016_0000049
+Date Time: 2012-10-16T12:41:25.000000Z
+Magnitude: 5.6
+Depth: -80.0
+Latitude: 49.588
+Longitude: 156.561
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 456
+Event-ID: 20121016_0000066
+Date Time: 2012-10-16T15:10:59.000000Z
+Magnitude: 4.8
+Depth: -269.5
+Latitude: 39.744
+Longitude: 15.591
+Flynn-Region: SOUTHERN ITALY
+-------------------------------------
+Event No: 457
+Event-ID: 20121016_0000085
+Date Time: 2012-10-16T23:12:22.000000Z
+Magnitude: 4.0
+Depth: -2.0
+Latitude: 43.579
+Longitude: -70.68
+Flynn-Region: MAINE
+-------------------------------------
+Event No: 458
+Event-ID: 20121016_0000087
+Date Time: 2012-10-16T23:42:56.000000Z
+Magnitude: 5.7
+Depth: -110.0
+Latitude: -38.759
+Longitude: 176.323
+Flynn-Region: NORTH ISLAND OF NEW ZEALAND
+-------------------------------------
+Event No: 459
+Event-ID: 20121017_0000013
+Date Time: 2012-10-17T04:42:31.000000Z
+Magnitude: 6.1
+Depth: -341.9
+Latitude: 4.134
+Longitude: 124.639
+Flynn-Region: CELEBES SEA
+-------------------------------------
+Event No: 460
+Event-ID: 20121018_0000003
+Date Time: 2012-10-18T01:27:15.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -54.321
+Longitude: 143.994
+Flynn-Region: WEST OF MACQUARIE ISLAND
+-------------------------------------
+Event No: 461
+Event-ID: 20121019_0000027
+Date Time: 2012-10-19T10:13:55.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -9.391
+Longitude: 66.952
+Flynn-Region: MID-INDIAN RIDGE
+-------------------------------------
+Event No: 462
+Event-ID: 20121019_0000050
+Date Time: 2012-10-19T15:34:05.000000Z
+Magnitude: 5.3
+Depth: -2.0
+Latitude: -30.706
+Longitude: -176.806
+Flynn-Region: KERMADEC ISLANDS REGION
+-------------------------------------
+Event No: 463
+Event-ID: 20121020_0000002
+Date Time: 2012-10-20T00:25:51.000000Z
+Magnitude: 4.3
+Depth: -21.4
+Latitude: -32.208
+Longitude: -71.931
+Flynn-Region: OFFSHORE VALPARAISO, CHILE
+-------------------------------------
+Event No: 464
+Event-ID: 20121020_0000072
+Date Time: 2012-10-20T23:00:33.000000Z
+Magnitude: 6.2
+Depth: -40.0
+Latitude: -13.499
+Longitude: 166.632
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 465
+Event-ID: 20121021_0000001
+Date Time: 2012-10-21T00:10:34.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 66.322
+Longitude: -18.822
+Flynn-Region: ICELAND REGION
+-------------------------------------
+Event No: 466
+Event-ID: 20121021_0000010
+Date Time: 2012-10-21T01:25:22.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 66.284
+Longitude: -18.878
+Flynn-Region: ICELAND REGION
+-------------------------------------
+Event No: 467
+Event-ID: 20121021_0000077
+Date Time: 2012-10-21T20:28:21.000000Z
+Magnitude: 5.4
+Depth: -75.2
+Latitude: 12.722
+Longitude: -88.085
+Flynn-Region: OFFSHORE EL SALVADOR
+-------------------------------------
+Event No: 468
+Event-ID: 20121023_0000020
+Date Time: 2012-10-23T08:53:39.000000Z
+Magnitude: 6.0
+Depth: -446.2
+Latitude: 29.113
+Longitude: 139.2
+Flynn-Region: IZU ISLANDS, JAPAN REGION
+-------------------------------------
+Event No: 469
+Event-ID: 20121023_0000022
+Date Time: 2012-10-23T09:33:20.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -57.703
+Longitude: 147.685
+Flynn-Region: WEST OF MACQUARIE ISLAND
+-------------------------------------
+Event No: 470
+Event-ID: 20121023_0000023
+Date Time: 2012-10-23T09:39:30.000000Z
+Magnitude: 5.9
+Depth: -119.7
+Latitude: -22.314
+Longitude: 171.74
+Flynn-Region: SOUTHEAST OF LOYALTY ISLANDS
+-------------------------------------
+Event No: 471
+Event-ID: 20121023_0000038
+Date Time: 2012-10-23T15:20:44.000000Z
+Magnitude: 4.8
+Depth: -15.0
+Latitude: 38.97
+Longitude: 20.62
+Flynn-Region: GREECE
+-------------------------------------
+Event No: 472
+Event-ID: 20121024_0000002
+Date Time: 2012-10-24T00:45:34.000000Z
+Magnitude: 6.4
+Depth: -20.0
+Latitude: 10.187
+Longitude: -85.252
+Flynn-Region: COSTA RICA
+-------------------------------------
+Event No: 473
+Event-ID: 20121024_0000048
+Date Time: 2012-10-24T17:56:01.000000Z
+Magnitude: 5.2
+Depth: -30.0
+Latitude: 17.901
+Longitude: -81.72
+Flynn-Region: CAYMAN ISLANDS REGION
+-------------------------------------
+Event No: 474
+Event-ID: 20121025_0000031
+Date Time: 2012-10-25T10:32:27.000000Z
+Magnitude: 5.6
+Depth: -50.4
+Latitude: 38.335
+Longitude: 141.835
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 475
+Event-ID: 20121025_0000066
+Date Time: 2012-10-25T20:49:35.000000Z
+Magnitude: 5.2
+Depth: -20.0
+Latitude: -5.873
+Longitude: -76.129
+Flynn-Region: NORTHERN PERU
+-------------------------------------
+Event No: 476
+Event-ID: 20121025_0000077
+Date Time: 2012-10-25T23:05:26.000000Z
+Magnitude: 5.3
+Depth: -5.0
+Latitude: 39.881
+Longitude: 16.03
+Flynn-Region: SOUTHERN ITALY
+-------------------------------------
+Event No: 477
+Event-ID: 20121028_0000013
+Date Time: 2012-10-28T02:43:10.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 10.583
+Longitude: 126.84
+Flynn-Region: PHILIPPINE ISLANDS REGION
+-------------------------------------
+Event No: 478
+Event-ID: 20121028_0000017
+Date Time: 2012-10-28T03:04:08.000000Z
+Magnitude: 7.7
+Depth: -10.0
+Latitude: 52.624
+Longitude: -132.175
+Flynn-Region: QUEEN CHARLOTTE ISLANDS REGION
+-------------------------------------
+Event No: 479
+Event-ID: 20121028_0000114
+Date Time: 2012-10-28T18:54:21.000000Z
+Magnitude: 6.4
+Depth: -10.0
+Latitude: 52.549
+Longitude: -132.728
+Flynn-Region: QUEEN CHARLOTTE ISLANDS REGION
+-------------------------------------
+Event No: 480
+Event-ID: 20121029_0000006
+Date Time: 2012-10-29T01:49:01.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 52.461
+Longitude: -132.086
+Flynn-Region: QUEEN CHARLOTTE ISLANDS REGION
+-------------------------------------
+Event No: 481
+Event-ID: 20121029_0000018
+Date Time: 2012-10-29T06:28:33.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -8.203
+Longitude: 123.485
+Flynn-Region: FLORES REGION, INDONESIA
+-------------------------------------
+Event No: 482
+Event-ID: 20121029_0000048
+Date Time: 2012-10-29T15:29:52.000000Z
+Magnitude: 5.7
+Depth: -53.5
+Latitude: -0.137
+Longitude: 125.292
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 483
+Event-ID: 20121030_0000015
+Date Time: 2012-10-30T02:49:02.000000Z
+Magnitude: 6.2
+Depth: -10.0
+Latitude: 52.258
+Longitude: -132.081
+Flynn-Region: QUEEN CHARLOTTE ISLANDS REGION
+-------------------------------------
+Event No: 484
+Event-ID: 20121030_0000071
+Date Time: 2012-10-30T14:10:58.000000Z
+Magnitude: 5.1
+Depth: -10.0
+Latitude: 52.293
+Longitude: -131.952
+Flynn-Region: QUEEN CHARLOTTE ISLANDS REGION
+-------------------------------------
+Event No: 485
+Event-ID: 20121101_0000053
+Date Time: 2012-11-01T14:12:02.000000Z
+Magnitude: 5.7
+Depth: -146.3
+Latitude: -6.848
+Longitude: 107.488
+Flynn-Region: JAVA, INDONESIA
+-------------------------------------
+Event No: 486
+Event-ID: 20121101_0000079
+Date Time: 2012-11-01T23:37:19.000000Z
+Magnitude: 5.4
+Depth: -38.8
+Latitude: 1.35
+Longitude: 122.17
+Flynn-Region: MINAHASA, SULAWESI, INDONESIA
+-------------------------------------
+Event No: 487
+Event-ID: 20121102_0000005
+Date Time: 2012-11-02T01:52:03.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 55.873
+Longitude: 162.851
+Flynn-Region: NEAR EAST COAST OF KAMCHATKA
+-------------------------------------
+Event No: 488
+Event-ID: 20121102_0000066
+Date Time: 2012-11-02T18:17:36.000000Z
+Magnitude: 6.0
+Depth: -60.0
+Latitude: 9.33
+Longitude: 126.286
+Flynn-Region: MINDANAO, PHILIPPINES
+-------------------------------------
+Event No: 489
+Event-ID: 20121103_0000048
+Date Time: 2012-11-03T12:58:12.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 7.082
+Longitude: -34.014
+Flynn-Region: CENTRAL MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 490
+Event-ID: 20121105_0000021
+Date Time: 2012-11-05T04:30:25.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 37.835
+Longitude: 143.635
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 491
+Event-ID: 20121106_0000007
+Date Time: 2012-11-06T01:36:21.000000Z
+Magnitude: 5.6
+Depth: -15.0
+Latitude: 1.497
+Longitude: 122.214
+Flynn-Region: MINAHASA, SULAWESI, INDONESIA
+-------------------------------------
+Event No: 492
+Event-ID: 20121106_0000047
+Date Time: 2012-11-06T11:09:34.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -35.48
+Longitude: -104.533
+Flynn-Region: SOUTHEAST OF EASTER ISLAND
+-------------------------------------
+Event No: 493
+Event-ID: 20121107_0000017
+Date Time: 2012-11-07T06:26:32.000000Z
+Magnitude: 5.5
+Depth: -5.0
+Latitude: 38.477
+Longitude: 46.619
+Flynn-Region: NORTHWESTERN IRAN
+-------------------------------------
+Event No: 494
+Event-ID: 20121107_0000031
+Date Time: 2012-11-07T10:25:57.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: -9.17
+Longitude: -108.965
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 495
+Event-ID: 20121107_0000052
+Date Time: 2012-11-07T16:35:48.000000Z
+Magnitude: 7.3
+Depth: -30.0
+Latitude: 14.065
+Longitude: -91.792
+Flynn-Region: OFFSHORE GUATEMALA
+-------------------------------------
+Event No: 496
+Event-ID: 20121107_0000068
+Date Time: 2012-11-07T22:42:51.000000Z
+Magnitude: 5.6
+Depth: -60.0
+Latitude: 13.924
+Longitude: -92.171
+Flynn-Region: OFFSHORE GUATEMALA
+-------------------------------------
+Event No: 497
+Event-ID: 20121108_0000005
+Date Time: 2012-11-08T02:01:50.000000Z
+Magnitude: 6.2
+Depth: -10.0
+Latitude: 49.228
+Longitude: -128.456
+Flynn-Region: VANCOUVER ISLAND, CANADA REGION
+-------------------------------------
+Event No: 498
+Event-ID: 20121109_0000004
+Date Time: 2012-11-09T03:51:57.000000Z
+Magnitude: 5.1
+Depth: -30.0
+Latitude: 36.852
+Longitude: 141.393
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 499
+Event-ID: 20121109_0000048
+Date Time: 2012-11-09T09:54:39.000000Z
+Magnitude: 5.2
+Depth: -110.1
+Latitude: -56.504
+Longitude: -27.406
+Flynn-Region: SOUTH SANDWICH ISLANDS REGION
+-------------------------------------
+Event No: 500
+Event-ID: 20121110_0000067
+Date Time: 2012-11-10T14:57:47.000000Z
+Magnitude: 6.0
+Depth: -100.0
+Latitude: -8.886
+Longitude: -75.153
+Flynn-Region: CENTRAL PERU
+-------------------------------------
+Event No: 501
+Event-ID: 20121111_0000005
+Date Time: 2012-11-11T01:12:38.000000Z
+Magnitude: 6.8
+Depth: -10.0
+Latitude: 23.071
+Longitude: 96.046
+Flynn-Region: MYANMAR
+-------------------------------------
+Event No: 502
+Event-ID: 20121111_0000062
+Date Time: 2012-11-11T10:54:42.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: 22.769
+Longitude: 95.901
+Flynn-Region: MYANMAR
+-------------------------------------
+Event No: 503
+Event-ID: 20121111_0000094
+Date Time: 2012-11-11T18:19:42.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 23.228
+Longitude: 95.894
+Flynn-Region: MYANMAR
+-------------------------------------
+Event No: 504
+Event-ID: 20121111_0000117
+Date Time: 2012-11-11T22:15:01.000000Z
+Magnitude: 6.4
+Depth: -30.0
+Latitude: 14.23
+Longitude: -92.129
+Flynn-Region: OFFSHORE GUATEMALA
+-------------------------------------
+Event No: 505
+Event-ID: 20121112_0000020
+Date Time: 2012-11-12T05:07:13.000000Z
+Magnitude: 5.2
+Depth: -2.0
+Latitude: -45.665
+Longitude: -76.708
+Flynn-Region: OFF COAST OF AISEN, CHILE
+-------------------------------------
+Event No: 506
+Event-ID: 20121112_0000046
+Date Time: 2012-11-12T10:55:13.000000Z
+Magnitude: 5.1
+Depth: -2.0
+Latitude: -45.648
+Longitude: -76.965
+Flynn-Region: OFF COAST OF AISEN, CHILE
+-------------------------------------
+Event No: 507
+Event-ID: 20121112_0000049
+Date Time: 2012-11-12T11:15:10.000000Z
+Magnitude: 5.6
+Depth: -508.9
+Latitude: 29.778
+Longitude: 137.942
+Flynn-Region: IZU ISLANDS, JAPAN REGION
+-------------------------------------
+Event No: 508
+Event-ID: 20121112_0000060
+Date Time: 2012-11-12T14:47:42.000000Z
+Magnitude: 5.7
+Depth: -563.5
+Latitude: -24.243
+Longitude: 178.844
+Flynn-Region: SOUTH OF FIJI ISLANDS
+-------------------------------------
+Event No: 509
+Event-ID: 20121112_0000081
+Date Time: 2012-11-12T20:42:13.000000Z
+Magnitude: 6.3
+Depth: -2.0
+Latitude: 57.785
+Longitude: -142.776
+Flynn-Region: GULF OF ALASKA
+-------------------------------------
+Event No: 510
+Event-ID: 20121113_0000008
+Date Time: 2012-11-13T01:56:46.000000Z
+Magnitude: 5.1
+Depth: -35.0
+Latitude: -1.692
+Longitude: -81.615
+Flynn-Region: OFF COAST OF ECUADOR
+-------------------------------------
+Event No: 511
+Event-ID: 20121113_0000017
+Date Time: 2012-11-13T04:31:27.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -45.685
+Longitude: -77.069
+Flynn-Region: OFF COAST OF AISEN, CHILE
+-------------------------------------
+Event No: 512
+Event-ID: 20121113_0000028
+Date Time: 2012-11-13T06:21:33.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 29.858
+Longitude: -42.848
+Flynn-Region: NORTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 513
+Event-ID: 20121114_0000050
+Date Time: 2012-11-14T05:21:43.000000Z
+Magnitude: 5.6
+Depth: -40.0
+Latitude: 10.014
+Longitude: 122.495
+Flynn-Region: PANAY, PHILIPPINES
+-------------------------------------
+Event No: 514
+Event-ID: 20121114_0000154
+Date Time: 2012-11-14T19:02:05.000000Z
+Magnitude: 6.1
+Depth: -59.9
+Latitude: -29.105
+Longitude: -71.226
+Flynn-Region: ATACAMA, CHILE
+-------------------------------------
+Event No: 515
+Event-ID: 20121114_0000167
+Date Time: 2012-11-14T23:41:53.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -5.888
+Longitude: 151.525
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 516
+Event-ID: 20121115_0000039
+Date Time: 2012-11-15T08:21:48.000000Z
+Magnitude: 5.9
+Depth: -3.1
+Latitude: -3.18
+Longitude: 148.286
+Flynn-Region: BISMARCK SEA
+-------------------------------------
+Event No: 517
+Event-ID: 20121115_0000043
+Date Time: 2012-11-15T09:20:23.000000Z
+Magnitude: 6.0
+Depth: -60.0
+Latitude: 18.483
+Longitude: -100.294
+Flynn-Region: ESTADO DE MEXICO, MEXICO
+-------------------------------------
+Event No: 518
+Event-ID: 20121116_0000031
+Date Time: 2012-11-16T06:24:42.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -53.82
+Longitude: -134.827
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 519
+Event-ID: 20121116_0000034
+Date Time: 2012-11-16T08:25:53.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: 35.347
+Longitude: 141.173
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 520
+Event-ID: 20121116_0000085
+Date Time: 2012-11-16T18:12:36.000000Z
+Magnitude: 6.5
+Depth: -5.0
+Latitude: 49.36
+Longitude: 155.392
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 521
+Event-ID: 20121117_0000007
+Date Time: 2012-11-17T02:51:24.000000Z
+Magnitude: 5.7
+Depth: -119.4
+Latitude: -15.017
+Longitude: 167.361
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 522
+Event-ID: 20121117_0000018
+Date Time: 2012-11-17T05:12:55.000000Z
+Magnitude: 5.9
+Depth: -0.3
+Latitude: -18.277
+Longitude: -172.357
+Flynn-Region: TONGA REGION
+-------------------------------------
+Event No: 523
+Event-ID: 20121117_0000076
+Date Time: 2012-11-17T18:43:51.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: -37.085
+Longitude: -95.198
+Flynn-Region: SOUTHEAST OF EASTER ISLAND
+-------------------------------------
+Event No: 524
+Event-ID: 20121119_0000012
+Date Time: 2012-11-19T04:09:26.000000Z
+Magnitude: 5.4
+Depth: -1.3
+Latitude: -59.483
+Longitude: -18.309
+Flynn-Region: EAST OF SOUTH SANDWICH ISLANDS
+-------------------------------------
+Event No: 525
+Event-ID: 20121119_0000031
+Date Time: 2012-11-19T09:44:34.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -5.72
+Longitude: 151.661
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 526
+Event-ID: 20121119_0000086
+Date Time: 2012-11-19T16:45:50.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: -33.933
+Longitude: -72.277
+Flynn-Region: OFFSHORE O'HIGGINS, CHILE
+-------------------------------------
+Event No: 527
+Event-ID: 20121120_0000008
+Date Time: 2012-11-20T01:09:48.000000Z
+Magnitude: 4.3
+Depth: -60.0
+Latitude: -21.867
+Longitude: -70.225
+Flynn-Region: OFFSHORE ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 528
+Event-ID: 20121120_0000043
+Date Time: 2012-11-20T10:15:04.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: 33.208
+Longitude: 141.781
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 529
+Event-ID: 20121120_0000078
+Date Time: 2012-11-20T16:23:26.000000Z
+Magnitude: 5.4
+Depth: -25.6
+Latitude: -33.883
+Longitude: -72.217
+Flynn-Region: OFFSHORE O'HIGGINS, CHILE
+-------------------------------------
+Event No: 530
+Event-ID: 20121121_0000070
+Date Time: 2012-11-21T16:46:38.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -11.491
+Longitude: 117.923
+Flynn-Region: SOUTH OF SUMBAWA, INDONESIA
+-------------------------------------
+Event No: 531
+Event-ID: 20121121_0000087
+Date Time: 2012-11-21T21:36:21.000000Z
+Magnitude: 5.9
+Depth: -8.0
+Latitude: -33.939
+Longitude: -72.037
+Flynn-Region: OFFSHORE O'HIGGINS, CHILE
+-------------------------------------
+Event No: 532
+Event-ID: 20121122_0000040
+Date Time: 2012-11-22T09:09:33.000000Z
+Magnitude: 4.6
+Depth: -92.1
+Latitude: -9.003
+Longitude: 115.105
+Flynn-Region: SOUTH OF BALI, INDONESIA
+-------------------------------------
+Event No: 533
+Event-ID: 20121122_0000039
+Date Time: 2012-11-22T09:10:41.000000Z
+Magnitude: 4.1
+Depth: -10.0
+Latitude: 37.8
+Longitude: 14.958
+Flynn-Region: SICILY, ITALY
+-------------------------------------
+Event No: 534
+Event-ID: 20121122_0000065
+Date Time: 2012-11-22T11:25:52.000000Z
+Magnitude: 4.1
+Depth: -20.0
+Latitude: 37.773
+Longitude: 14.987
+Flynn-Region: SICILY, ITALY
+-------------------------------------
+Event No: 535
+Event-ID: 20121122_0000074
+Date Time: 2012-11-22T13:07:10.000000Z
+Magnitude: 5.8
+Depth: -524.4
+Latitude: -22.799
+Longitude: -63.688
+Flynn-Region: SALTA, ARGENTINA
+-------------------------------------
+Event No: 536
+Event-ID: 20121123_0000074
+Date Time: 2012-11-23T20:21:28.000000Z
+Magnitude: 5.0
+Depth: -47.6
+Latitude: 38.255
+Longitude: 141.787
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 537
+Event-ID: 20121126_0000002
+Date Time: 2012-11-26T00:17:15.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -9.021
+Longitude: -108.394
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 538
+Event-ID: 20121126_0000110
+Date Time: 2012-11-26T17:35:42.000000Z
+Magnitude: 4.7
+Depth: -2.0
+Latitude: 36.576
+Longitude: 27.948
+Flynn-Region: DODECANESE ISLANDS, GREECE
+-------------------------------------
+Event No: 539
+Event-ID: 20121127_0000029
+Date Time: 2012-11-27T02:59:10.000000Z
+Magnitude: 5.5
+Depth: -43.8
+Latitude: -2.876
+Longitude: 129.349
+Flynn-Region: SERAM, INDONESIA
+-------------------------------------
+Event No: 540
+Event-ID: 20121127_0000141
+Date Time: 2012-11-27T14:42:14.000000Z
+Magnitude: 5.2
+Depth: -30.0
+Latitude: 48.146
+Longitude: 155.045
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 541
+Event-ID: 20121128_0000035
+Date Time: 2012-11-28T03:09:49.000000Z
+Magnitude: 5.6
+Depth: -117.4
+Latitude: -4.501
+Longitude: -76.118
+Flynn-Region: NORTHERN PERU
+-------------------------------------
+Event No: 542
+Event-ID: 20121129_0000007
+Date Time: 2012-11-29T00:30:30.000000Z
+Magnitude: 5.5
+Depth: -511.5
+Latitude: -20.972
+Longitude: -178.749
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 543
+Event-ID: 20121129_0000044
+Date Time: 2012-11-29T07:09:14.000000Z
+Magnitude: 5.5
+Depth: -15.0
+Latitude: -6.588
+Longitude: -80.975
+Flynn-Region: NEAR COAST OF NORTHERN PERU
+-------------------------------------
+Event No: 544
+Event-ID: 20121129_0000067
+Date Time: 2012-11-29T11:10:28.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -3.88
+Longitude: 145.471
+Flynn-Region: NEAR N COAST OF NEW GUINEA, PNG.
+-------------------------------------
+Event No: 545
+Event-ID: 20121129_0000107
+Date Time: 2012-11-29T19:32:34.000000Z
+Magnitude: 5.5
+Depth: -30.0
+Latitude: 13.874
+Longitude: -92.133
+Flynn-Region: OFFSHORE GUATEMALA
+-------------------------------------
+Event No: 546
+Event-ID: 20121130_0000067
+Date Time: 2012-11-30T11:20:38.000000Z
+Magnitude: 5.5
+Depth: -200.0
+Latitude: -18.798
+Longitude: -175.554
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 547
+Event-ID: 20121130_0000099
+Date Time: 2012-11-30T14:27:05.000000Z
+Magnitude: 4.1
+Depth: -76.6
+Latitude: 61.354
+Longitude: -151.491
+Flynn-Region: SOUTHERN ALASKA
+-------------------------------------
+Event No: 548
+Event-ID: 20121202_0000006
+Date Time: 2012-12-02T00:54:22.000000Z
+Magnitude: 6.4
+Depth: -29.4
+Latitude: -16.957
+Longitude: 167.665
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 549
+Event-ID: 20121203_0000083
+Date Time: 2012-12-03T23:58:36.000000Z
+Magnitude: 5.5
+Depth: -40.0
+Latitude: 14.228
+Longitude: -92.348
+Flynn-Region: OFFSHORE GUATEMALA
+-------------------------------------
+Event No: 550
+Event-ID: 20121204_0000003
+Date Time: 2012-12-04T01:42:48.000000Z
+Magnitude: 5.7
+Depth: -67.0
+Latitude: 61.353
+Longitude: -150.847
+Flynn-Region: SOUTHERN ALASKA
+-------------------------------------
+Event No: 551
+Event-ID: 20121205_0000090
+Date Time: 2012-12-05T17:08:13.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 33.507
+Longitude: 59.599
+Flynn-Region: EASTERN IRAN
+-------------------------------------
+Event No: 552
+Event-ID: 20121206_0000002
+Date Time: 2012-12-06T00:43:22.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 11.057
+Longitude: 126.743
+Flynn-Region: PHILIPPINE ISLANDS REGION
+-------------------------------------
+Event No: 553
+Event-ID: 20121206_0000007
+Date Time: 2012-12-06T02:24:25.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: 2.475
+Longitude: 90.347
+Flynn-Region: OFF W COAST OF NORTHERN SUMATRA
+-------------------------------------
+Event No: 554
+Event-ID: 20121207_0000039
+Date Time: 2012-12-07T08:18:23.000000Z
+Magnitude: 7.3
+Depth: -30.0
+Latitude: 37.921
+Longitude: 144.023
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 555
+Event-ID: 20121207_0000042
+Date Time: 2012-12-07T08:31:14.000000Z
+Magnitude: 6.2
+Depth: -30.0
+Latitude: 37.952
+Longitude: 143.751
+Flynn-Region: OFF EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 556
+Event-ID: 20121207_0000076
+Date Time: 2012-12-07T18:19:09.000000Z
+Magnitude: 6.3
+Depth: -188.7
+Latitude: -38.654
+Longitude: 175.944
+Flynn-Region: NORTH ISLAND OF NEW ZEALAND
+-------------------------------------
+Event No: 557
+Event-ID: 20121208_0000067
+Date Time: 2012-12-08T16:35:17.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -7.157
+Longitude: 143.931
+Flynn-Region: NEAR S COAST OF NEW GUINEA, PNG.
+-------------------------------------
+Event No: 558
+Event-ID: 20121209_0000056
+Date Time: 2012-12-09T18:30:08.000000Z
+Magnitude: 5.0
+Depth: -70.4
+Latitude: -3.619
+Longitude: 141.097
+Flynn-Region: NEW GUINEA, PAPUA NEW GUINEA
+-------------------------------------
+Event No: 559
+Event-ID: 20121209_0000069
+Date Time: 2012-12-09T21:45:34.000000Z
+Magnitude: 5.6
+Depth: -60.0
+Latitude: 6.737
+Longitude: 126.243
+Flynn-Region: MINDANAO, PHILIPPINES
+-------------------------------------
+Event No: 560
+Event-ID: 20121210_0000048
+Date Time: 2012-12-10T16:53:10.000000Z
+Magnitude: 7.1
+Depth: -161.6
+Latitude: -6.584
+Longitude: 129.847
+Flynn-Region: BANDA SEA
+-------------------------------------
+Event No: 561
+Event-ID: 20121212_0000008
+Date Time: 2012-12-12T01:44:21.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -19.68
+Longitude: -176.118
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 562
+Event-ID: 20121213_0000003
+Date Time: 2012-12-13T00:53:31.000000Z
+Magnitude: 5.5
+Depth: -59.3
+Latitude: -31.028
+Longitude: -178.334
+Flynn-Region: KERMADEC ISLANDS REGION
+-------------------------------------
+Event No: 563
+Event-ID: 20121213_0000051
+Date Time: 2012-12-13T17:16:20.000000Z
+Magnitude: 4.9
+Depth: -26.4
+Latitude: 9.151
+Longitude: -83.995
+Flynn-Region: COSTA RICA
+-------------------------------------
+Event No: 564
+Event-ID: 20121213_0000064
+Date Time: 2012-12-13T21:26:40.000000Z
+Magnitude: 5.3
+Depth: -16.5
+Latitude: 13.172
+Longitude: -89.917
+Flynn-Region: OFFSHORE EL SALVADOR
+-------------------------------------
+Event No: 565
+Event-ID: 20121214_0000041
+Date Time: 2012-12-14T10:36:01.000000Z
+Magnitude: 6.4
+Depth: -10.0
+Latitude: 31.188
+Longitude: -119.598
+Flynn-Region: OFF W. COAST OF BAJA CALIFORNIA
+-------------------------------------
+Event No: 566
+Event-ID: 20121214_0000066
+Date Time: 2012-12-14T16:52:38.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -15.304
+Longitude: -178.039
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 567
+Event-ID: 20121215_0000010
+Date Time: 2012-12-15T04:49:29.000000Z
+Magnitude: 6.0
+Depth: -23.8
+Latitude: 52.273
+Longitude: 174.062
+Flynn-Region: NEAR ISLANDS, ALEUTIAN ISLANDS
+-------------------------------------
+Event No: 568
+Event-ID: 20121216_0000067
+Date Time: 2012-12-16T15:51:59.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 14.241
+Longitude: 146.832
+Flynn-Region: ROTA REGION, N. MARIANA ISLANDS
+-------------------------------------
+Event No: 569
+Event-ID: 20121216_0000088
+Date Time: 2012-12-16T22:46:11.000000Z
+Magnitude: 4.6
+Depth: -54.0
+Latitude: -33.76
+Longitude: -71.43
+Flynn-Region: VALPARAISO, CHILE
+-------------------------------------
+Event No: 570
+Event-ID: 20121217_0000002
+Date Time: 2012-12-17T00:28:56.000000Z
+Magnitude: 5.6
+Depth: -43.8
+Latitude: 49.79
+Longitude: 155.908
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 571
+Event-ID: 20121217_0000027
+Date Time: 2012-12-17T09:16:28.000000Z
+Magnitude: 6.1
+Depth: -20.0
+Latitude: -0.637
+Longitude: 123.926
+Flynn-Region: SULAWESI, INDONESIA
+-------------------------------------
+Event No: 572
+Event-ID: 20121217_0000059
+Date Time: 2012-12-17T17:41:32.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -4.145
+Longitude: -104.565
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 573
+Event-ID: 20121217_0000060
+Date Time: 2012-12-17T17:46:47.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -4.009
+Longitude: -104.144
+Flynn-Region: CENTRAL EAST PACIFIC RISE
+-------------------------------------
+Event No: 574
+Event-ID: 20121219_0000029
+Date Time: 2012-12-19T10:25:57.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: -28.906
+Longitude: 61.955
+Flynn-Region: SOUTHWEST INDIAN RIDGE
+-------------------------------------
+Event No: 575
+Event-ID: 20121221_0000068
+Date Time: 2012-12-21T22:28:09.000000Z
+Magnitude: 6.7
+Depth: -207.5
+Latitude: -14.361
+Longitude: 167.291
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 576
+Event-ID: 20121222_0000055
+Date Time: 2012-12-22T16:41:45.000000Z
+Magnitude: 5.5
+Depth: -133.2
+Latitude: 22.469
+Longitude: 94.814
+Flynn-Region: MYANMAR
+-------------------------------------
+Event No: 577
+Event-ID: 20121223_0000024
+Date Time: 2012-12-23T06:38:57.000000Z
+Magnitude: 4.9
+Depth: -5.0
+Latitude: 38.534
+Longitude: 44.871
+Flynn-Region: TURKEY-IRAN BORDER REGION
+-------------------------------------
+Event No: 578
+Event-ID: 20121223_0000042
+Date Time: 2012-12-23T13:31:40.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 42.581
+Longitude: 40.98
+Flynn-Region: BLACK SEA, OFFSHORE GEORGIA
+-------------------------------------
+Event No: 579
+Event-ID: 20121224_0000022
+Date Time: 2012-12-24T07:54:08.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 54.996
+Longitude: 161.945
+Flynn-Region: NEAR EAST COAST OF KAMCHATKA
+-------------------------------------
+Event No: 580
+Event-ID: 20121225_0000014
+Date Time: 2012-12-25T07:34:43.000000Z
+Magnitude: 5.2
+Depth: -69.0
+Latitude: 1.186
+Longitude: 125.589
+Flynn-Region: MOLUCCA SEA
+-------------------------------------
+Event No: 581
+Event-ID: 20121225_0000017
+Date Time: 2012-12-25T08:46:30.000000Z
+Magnitude: 5.2
+Depth: -2.0
+Latitude: -7.88
+Longitude: 101.238
+Flynn-Region: SOUTHWEST OF SUMATRA, INDONESIA
+-------------------------------------
+Event No: 582
+Event-ID: 20121225_0000078
+Date Time: 2012-12-25T22:44:32.000000Z
+Magnitude: 5.4
+Depth: -2.0
+Latitude: 42.541
+Longitude: 40.941
+Flynn-Region: BLACK SEA, OFFSHORE GEORGIA
+-------------------------------------
+Event No: 583
+Event-ID: 20121226_0000011
+Date Time: 2012-12-26T02:58:24.000000Z
+Magnitude: 5.1
+Depth: -600.7
+Latitude: -20.743
+Longitude: -178.587
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 584
+Event-ID: 20121226_0000047
+Date Time: 2012-12-26T13:17:57.000000Z
+Magnitude: 5.3
+Depth: -30.0
+Latitude: -37.229
+Longitude: -73.339
+Flynn-Region: BIO-BIO, CHILE
+-------------------------------------
+Event No: 585
+Event-ID: 20121226_0000083
+Date Time: 2012-12-26T23:01:56.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -56.161
+Longitude: -144.516
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 586
+Event-ID: 20121227_0000004
+Date Time: 2012-12-27T00:37:08.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -35.797
+Longitude: -73.375
+Flynn-Region: OFFSHORE MAULE, CHILE
+-------------------------------------
+Event No: 587
+Event-ID: 20121228_0000061
+Date Time: 2012-12-28T13:50:33.000000Z
+Magnitude: 4.5
+Depth: -30.0
+Latitude: -29.508
+Longitude: -71.346
+Flynn-Region: OFFSHORE COQUIMBO, CHILE
+-------------------------------------
+Event No: 588
+Event-ID: 20121228_0000072
+Date Time: 2012-12-28T17:32:18.000000Z
+Magnitude: 5.5
+Depth: -108.1
+Latitude: -0.167
+Longitude: 122.988
+Flynn-Region: SULAWESI, INDONESIA
+-------------------------------------
+Event No: 589
+Event-ID: 20121229_0000035
+Date Time: 2012-12-29T07:59:16.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -3.28
+Longitude: 148.777
+Flynn-Region: BISMARCK SEA
+-------------------------------------
+Event No: 590
+Event-ID: 20121229_0000063
+Date Time: 2012-12-29T14:59:37.000000Z
+Magnitude: 5.4
+Depth: -40.0
+Latitude: 38.79
+Longitude: 142.119
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 591
+Event-ID: 20121229_0000072
+Date Time: 2012-12-29T17:50:52.000000Z
+Magnitude: 5.6
+Depth: -116.7
+Latitude: 35.721
+Longitude: 70.626
+Flynn-Region: HINDU KUSH REGION, AFGHANISTAN
+-------------------------------------
+Event No: 592
+Event-ID: 20121231_0000089
+Date Time: 2012-12-31T11:38:28.000000Z
+Magnitude: 4.0
+Depth: -10.0
+Latitude: 61.61
+Longitude: -140.995
+Flynn-Region: SOUTHERN ALASKA
+-------------------------------------
+Event No: 593
+Event-ID: 20130103_0000001
+Date Time: 2013-01-03T00:02:18.000000Z
+Magnitude: 5.6
+Depth: -30.0
+Latitude: -1.434
+Longitude: 127.493
+Flynn-Region: KEPULAUAN OBI, INDONESIA
+-------------------------------------
+Event No: 594
+Event-ID: 20130104_0000027
+Date Time: 2013-01-04T07:50:06.000000Z
+Magnitude: 4.3
+Depth: -2.0
+Latitude: 37.814
+Longitude: 14.796
+Flynn-Region: SICILY, ITALY
+-------------------------------------
+Event No: 595
+Event-ID: 20130105_0000033
+Date Time: 2013-01-05T08:58:19.000000Z
+Magnitude: 7.5
+Depth: -10.0
+Latitude: 55.278
+Longitude: -134.67
+Flynn-Region: SOUTHEASTERN ALASKA
+-------------------------------------
+Event No: 596
+Event-ID: 20130105_0000072
+Date Time: 2013-01-05T17:42:22.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -20.083
+Longitude: 66.51
+Flynn-Region: MAURITIUS - REUNION REGION
+-------------------------------------
+Event No: 597
+Event-ID: 20130108_0000023
+Date Time: 2013-01-08T07:51:31.000000Z
+Magnitude: 5.5
+Depth: -35.7
+Latitude: 40.288
+Longitude: 142.223
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 598
+Event-ID: 20130108_0000127
+Date Time: 2013-01-08T18:45:03.000000Z
+Magnitude: 4.6
+Depth: -10.0
+Latitude: 55.472
+Longitude: -134.932
+Flynn-Region: SOUTHEASTERN ALASKA
+-------------------------------------
+Event No: 599
+Event-ID: 20130108_0000107
+Date Time: 2013-01-08T21:26:55.000000Z
+Magnitude: 5.6
+Depth: -2.0
+Latitude: -34.459
+Longitude: 179.218
+Flynn-Region: SOUTH OF KERMADEC ISLANDS
+-------------------------------------
+Event No: 600
+Event-ID: 20130109_0000010
+Date Time: 2013-01-09T01:41:54.000000Z
+Magnitude: 6.0
+Depth: -98.7
+Latitude: 25.366
+Longitude: 95.085
+Flynn-Region: MYANMAR
+-------------------------------------
+Event No: 601
+Event-ID: 20130109_0000073
+Date Time: 2013-01-09T11:21:19.000000Z
+Magnitude: 4.9
+Depth: -110.0
+Latitude: -24.378
+Longitude: -69.463
+Flynn-Region: ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 602
+Event-ID: 20130110_0000065
+Date Time: 2013-01-10T12:48:21.000000Z
+Magnitude: 4.9
+Depth: -51.3
+Latitude: 37.576
+Longitude: 141.266
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 603
+Event-ID: 20130110_0000071
+Date Time: 2013-01-10T13:47:04.000000Z
+Magnitude: 5.7
+Depth: -40.0
+Latitude: 4.717
+Longitude: 95.028
+Flynn-Region: NORTHERN SUMATRA, INDONESIA
+-------------------------------------
+Event No: 604
+Event-ID: 20130110_0000076
+Date Time: 2013-01-10T16:33:36.000000Z
+Magnitude: 5.0
+Depth: -10.0
+Latitude: 19.45
+Longitude: -64.466
+Flynn-Region: VIRGIN ISLANDS REGION
+-------------------------------------
+Event No: 605
+Event-ID: 20130111_0000074
+Date Time: 2013-01-11T16:30:43.000000Z
+Magnitude: 5.3
+Depth: -87.0
+Latitude: 14.869
+Longitude: -92.585
+Flynn-Region: OFFSHORE CHIAPAS, MEXICO
+-------------------------------------
+Event No: 606
+Event-ID: 20130113_0000117
+Date Time: 2013-01-13T17:50:16.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: 26.044
+Longitude: -110.056
+Flynn-Region: GULF OF CALIFORNIA
+-------------------------------------
+Event No: 607
+Event-ID: 20130114_0000073
+Date Time: 2013-01-14T14:55:53.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 55.115
+Longitude: -134.549
+Flynn-Region: SOUTHEASTERN ALASKA
+-------------------------------------
+Event No: 608
+Event-ID: 20130115_0000058
+Date Time: 2013-01-15T16:09:36.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: -62.491
+Longitude: -161.291
+Flynn-Region: PACIFIC-ANTARCTIC RIDGE
+-------------------------------------
+Event No: 609
+Event-ID: 20130116_0000004
+Date Time: 2013-01-16T02:38:23.000000Z
+Magnitude: 5.3
+Depth: -113.8
+Latitude: 17.476
+Longitude: 145.973
+Flynn-Region: ALAMAGAN REG, N. MARIANA ISLANDS
+-------------------------------------
+Event No: 610
+Event-ID: 20130116_0000051
+Date Time: 2013-01-16T16:24:43.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: -35.994
+Longitude: -103.018
+Flynn-Region: SOUTHEAST OF EASTER ISLAND
+-------------------------------------
+Event No: 611
+Event-ID: 20130117_0000021
+Date Time: 2013-01-17T04:54:57.000000Z
+Magnitude: 4.5
+Depth: -80.0
+Latitude: -28.604
+Longitude: -69.338
+Flynn-Region: SAN JUAN, ARGENTINA
+-------------------------------------
+Event No: 612
+Event-ID: 20130118_0000005
+Date Time: 2013-01-18T04:08:02.000000Z
+Magnitude: 5.0
+Depth: -2.0
+Latitude: 0.732
+Longitude: -25.399
+Flynn-Region: CENTRAL MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 613
+Event-ID: 20130118_0000034
+Date Time: 2013-01-18T12:42:51.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 31.095
+Longitude: 99.628
+Flynn-Region: WESTERN SICHUAN, CHINA
+-------------------------------------
+Event No: 614
+Event-ID: 20130119_0000037
+Date Time: 2013-01-19T13:48:06.000000Z
+Magnitude: 5.3
+Depth: -80.0
+Latitude: 11.366
+Longitude: 125.436
+Flynn-Region: SAMAR, PHILIPPINES
+-------------------------------------
+Event No: 615
+Event-ID: 20130120_0000040
+Date Time: 2013-01-20T10:48:46.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 64.86
+Longitude: 146.482
+Flynn-Region: SOUTHEASTERN SAKHA, RUSSIA
+-------------------------------------
+Event No: 616
+Event-ID: 20130120_0000075
+Date Time: 2013-01-20T21:25:06.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 54.052
+Longitude: -35.114
+Flynn-Region: REYKJANES RIDGE
+-------------------------------------
+Event No: 617
+Event-ID: 20130120_0000076
+Date Time: 2013-01-20T21:26:27.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 54.04
+Longitude: -35.098
+Flynn-Region: REYKJANES RIDGE
+-------------------------------------
+Event No: 618
+Event-ID: 20130120_0000077
+Date Time: 2013-01-20T21:40:31.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 54.121
+Longitude: -35.146
+Flynn-Region: REYKJANES RIDGE
+-------------------------------------
+Event No: 619
+Event-ID: 20130120_0000085
+Date Time: 2013-01-20T23:32:22.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: 53.938
+Longitude: -35.231
+Flynn-Region: REYKJANES RIDGE
+-------------------------------------
+Event No: 620
+Event-ID: 20130121_0000050
+Date Time: 2013-01-21T18:32:25.000000Z
+Magnitude: 5.3
+Depth: -20.0
+Latitude: -4.454
+Longitude: 134.859
+Flynn-Region: NEAR S COAST OF PAPUA, INDONESIA
+-------------------------------------
+Event No: 621
+Event-ID: 20130121_0000054
+Date Time: 2013-01-21T19:49:03.000000Z
+Magnitude: 5.4
+Depth: -37.1
+Latitude: 30.391
+Longitude: 57.518
+Flynn-Region: EASTERN IRAN
+-------------------------------------
+Event No: 622
+Event-ID: 20130121_0000060
+Date Time: 2013-01-21T22:22:51.000000Z
+Magnitude: 6.0
+Depth: -2.0
+Latitude: 4.982
+Longitude: 95.972
+Flynn-Region: NORTHERN SUMATRA, INDONESIA
+-------------------------------------
+Event No: 623
+Event-ID: 20130122_0000031
+Date Time: 2013-01-22T13:29:22.000000Z
+Magnitude: 5.3
+Depth: -225.7
+Latitude: 44.541
+Longitude: 140.939
+Flynn-Region: EASTERN SEA OF JAPAN
+-------------------------------------
+Event No: 624
+Event-ID: 20130123_0000037
+Date Time: 2013-01-23T07:43:02.000000Z
+Magnitude: 5.4
+Depth: -29.0
+Latitude: -44.52
+Longitude: -79.081
+Flynn-Region: OFF COAST OF AISEN, CHILE
+-------------------------------------
+Event No: 625
+Event-ID: 20130125_0000039
+Date Time: 2013-01-25T14:48:18.000000Z
+Magnitude: 4.9
+Depth: -15.0
+Latitude: 44.17
+Longitude: 10.45
+Flynn-Region: NORTHERN ITALY
+-------------------------------------
+Event No: 626
+Event-ID: 20130127_0000028
+Date Time: 2013-01-27T09:59:27.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -16.134
+Longitude: -173.16
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 627
+Event-ID: 20130128_0000074
+Date Time: 2013-01-28T16:38:53.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: 42.634
+Longitude: 79.812
+Flynn-Region: EASTERN KAZAKHSTAN
+-------------------------------------
+Event No: 628
+Event-ID: 20130129_0000088
+Date Time: 2013-01-29T21:40:22.000000Z
+Magnitude: 5.3
+Depth: -2.0
+Latitude: -8.754
+Longitude: 67.471
+Flynn-Region: MID-INDIAN RIDGE
+-------------------------------------
+Event No: 629
+Event-ID: 20130130_0000073
+Date Time: 2013-01-30T20:15:44.000000Z
+Magnitude: 6.8
+Depth: -46.1
+Latitude: -28.061
+Longitude: -70.842
+Flynn-Region: ATACAMA, CHILE
+-------------------------------------
+Event No: 630
+Event-ID: 20130130_0000089
+Date Time: 2013-01-30T23:03:43.000000Z
+Magnitude: 6.1
+Depth: -2.0
+Latitude: -10.545
+Longitude: 166.398
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 631
+Event-ID: 20130131_0000017
+Date Time: 2013-01-31T03:33:44.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: -10.611
+Longitude: 166.37
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 632
+Event-ID: 20130201_0000007
+Date Time: 2013-02-01T02:17:29.000000Z
+Magnitude: 5.7
+Depth: -52.9
+Latitude: -6.94
+Longitude: 147.692
+Flynn-Region: EASTERN NEW GUINEA REG., P.N.G.
+-------------------------------------
+Event No: 633
+Event-ID: 20130201_0000030
+Date Time: 2013-02-01T05:36:41.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -11.089
+Longitude: 165.59
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 634
+Event-ID: 20130201_0000094
+Date Time: 2013-02-01T22:16:34.000000Z
+Magnitude: 6.3
+Depth: -10.0
+Latitude: -10.841
+Longitude: 165.442
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 635
+Event-ID: 20130202_0000010
+Date Time: 2013-02-02T04:16:20.000000Z
+Magnitude: 5.9
+Depth: -35.3
+Latitude: -11.006
+Longitude: 165.237
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 636
+Event-ID: 20130202_0000050
+Date Time: 2013-02-02T14:17:34.000000Z
+Magnitude: 6.9
+Depth: -100.0
+Latitude: 42.79
+Longitude: 143.173
+Flynn-Region: HOKKAIDO, JAPAN REGION
+-------------------------------------
+Event No: 637
+Event-ID: 20130202_0000068
+Date Time: 2013-02-02T18:58:07.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -10.836
+Longitude: 165.313
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 638
+Event-ID: 20130203_0000043
+Date Time: 2013-02-03T11:14:56.000000Z
+Magnitude: 5.5
+Depth: -20.0
+Latitude: -5.052
+Longitude: 153.07
+Flynn-Region: NEW IRELAND REGION, P.N.G.
+-------------------------------------
+Event No: 639
+Event-ID: 20130204_0000026
+Date Time: 2013-02-04T07:56:55.000000Z
+Magnitude: 4.4
+Depth: -30.0
+Latitude: 34.719
+Longitude: 24.156
+Flynn-Region: CRETE, GREECE
+-------------------------------------
+Event No: 640
+Event-ID: 20130205_0000072
+Date Time: 2013-02-05T19:09:36.000000Z
+Magnitude: 5.5
+Depth: -30.0
+Latitude: -62.338
+Longitude: 155.079
+Flynn-Region: BALLENY ISLANDS REGION
+-------------------------------------
+Event No: 641
+Event-ID: 20130206_0000002
+Date Time: 2013-02-06T00:07:22.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -10.818
+Longitude: 165.248
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 642
+Event-ID: 20130206_0000008
+Date Time: 2013-02-06T01:12:25.000000Z
+Magnitude: 7.9
+Depth: -20.0
+Latitude: -10.784
+Longitude: 165.089
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 643
+Event-ID: 20130206_0000009
+Date Time: 2013-02-06T01:23:20.000000Z
+Magnitude: 7.1
+Depth: -10.0
+Latitude: -11.158
+Longitude: 165.052
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 644
+Event-ID: 20130206_0000015
+Date Time: 2013-02-06T01:54:15.000000Z
+Magnitude: 7.0
+Depth: -10.0
+Latitude: -10.462
+Longitude: 165.731
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 645
+Event-ID: 20130206_0000087
+Date Time: 2013-02-06T10:20:34.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -10.838
+Longitude: 165.31
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 646
+Event-ID: 20130206_0000088
+Date Time: 2013-02-06T10:33:17.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -10.632
+Longitude: 164.82
+Flynn-Region: SANTA CRUZ ISLANDS REGION
+-------------------------------------
+Event No: 647
+Event-ID: 20130206_0000091
+Date Time: 2013-02-06T11:03:44.000000Z
+Magnitude: 5.8
+Depth: -3.0
+Latitude: -10.703
+Longitude: 165.196
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 648
+Event-ID: 20130206_0000098
+Date Time: 2013-02-06T11:53:54.000000Z
+Magnitude: 6.0
+Depth: -10.0
+Latitude: -11.248
+Longitude: 165.813
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 649
+Event-ID: 20130206_0000103
+Date Time: 2013-02-06T12:44:30.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -11.544
+Longitude: 165.597
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 650
+Event-ID: 20130206_0000110
+Date Time: 2013-02-06T13:54:57.000000Z
+Magnitude: 5.9
+Depth: -30.0
+Latitude: -10.771
+Longitude: 166.463
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 651
+Event-ID: 20130207_0000002
+Date Time: 2013-02-07T00:30:11.000000Z
+Magnitude: 6.1
+Depth: -10.0
+Latitude: -11.655
+Longitude: 164.977
+Flynn-Region: SANTA CRUZ ISLANDS REGION
+-------------------------------------
+Event No: 652
+Event-ID: 20130207_0000031
+Date Time: 2013-02-07T07:19:51.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -15.532
+Longitude: -173.154
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 653
+Event-ID: 20130207_0000035
+Date Time: 2013-02-07T08:03:41.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -11.021
+Longitude: 164.796
+Flynn-Region: SANTA CRUZ ISLANDS REGION
+-------------------------------------
+Event No: 654
+Event-ID: 20130207_0000089
+Date Time: 2013-02-07T18:59:16.000000Z
+Magnitude: 6.7
+Depth: -10.0
+Latitude: -10.952
+Longitude: 165.674
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 655
+Event-ID: 20130207_0000094
+Date Time: 2013-02-07T19:48:19.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -10.83
+Longitude: 165.704
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 656
+Event-ID: 20130208_0000012
+Date Time: 2013-02-08T04:26:16.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -11.022
+Longitude: 165.811
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 657
+Event-ID: 20130208_0000030
+Date Time: 2013-02-08T09:09:01.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -10.892
+Longitude: 164.762
+Flynn-Region: SANTA CRUZ ISLANDS REGION
+-------------------------------------
+Event No: 658
+Event-ID: 20130208_0000040
+Date Time: 2013-02-08T11:12:12.000000Z
+Magnitude: 6.9
+Depth: -10.0
+Latitude: -10.9
+Longitude: 165.922
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 659
+Event-ID: 20130208_0000066
+Date Time: 2013-02-08T15:26:37.000000Z
+Magnitude: 7.0
+Depth: -10.0
+Latitude: -10.826
+Longitude: 166.052
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 660
+Event-ID: 20130208_0000075
+Date Time: 2013-02-08T18:07:52.000000Z
+Magnitude: 5.7
+Depth: -43.5
+Latitude: -10.905
+Longitude: 166.56
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 661
+Event-ID: 20130209_0000018
+Date Time: 2013-02-09T05:32:08.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: -10.856
+Longitude: 165.991
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 662
+Event-ID: 20130209_0000047
+Date Time: 2013-02-09T14:16:07.000000Z
+Magnitude: 7.0
+Depth: -134.2
+Latitude: 1.166
+Longitude: -77.406
+Flynn-Region: COLOMBIA
+-------------------------------------
+Event No: 663
+Event-ID: 20130209_0000072
+Date Time: 2013-02-09T21:02:22.000000Z
+Magnitude: 6.6
+Depth: -10.0
+Latitude: -10.939
+Longitude: 165.774
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 664
+Event-ID: 20130210_0000002
+Date Time: 2013-02-10T01:30:49.000000Z
+Magnitude: 5.6
+Depth: -20.0
+Latitude: -11.031
+Longitude: 166.801
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 665
+Event-ID: 20130210_0000071
+Date Time: 2013-02-10T18:39:35.000000Z
+Magnitude: 6.1
+Depth: -30.0
+Latitude: -10.955
+Longitude: 165.469
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 666
+Event-ID: 20130210_0000078
+Date Time: 2013-02-10T19:54:29.000000Z
+Magnitude: 5.3
+Depth: -10.0
+Latitude: -33.417
+Longitude: -72.019
+Flynn-Region: OFFSHORE VALPARAISO, CHILE
+-------------------------------------
+Event No: 667
+Event-ID: 20130210_0000092
+Date Time: 2013-02-10T23:25:09.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -10.608
+Longitude: 164.769
+Flynn-Region: SANTA CRUZ ISLANDS REGION
+-------------------------------------
+Event No: 668
+Event-ID: 20130211_0000027
+Date Time: 2013-02-11T09:40:21.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -10.807
+Longitude: 166.905
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 669
+Event-ID: 20130211_0000058
+Date Time: 2013-02-11T20:09:56.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -10.946
+Longitude: 165.49
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 670
+Event-ID: 20130213_0000023
+Date Time: 2013-02-13T10:08:50.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -10.606
+Longitude: 164.299
+Flynn-Region: SANTA CRUZ ISLANDS REGION
+-------------------------------------
+Event No: 671
+Event-ID: 20130214_0000052
+Date Time: 2013-02-14T13:13:53.000000Z
+Magnitude: 6.6
+Depth: -10.0
+Latitude: 67.617
+Longitude: 142.662
+Flynn-Region: NORTHEASTERN SAKHA, RUSSIA
+-------------------------------------
+Event No: 672
+Event-ID: 20130215_0000004
+Date Time: 2013-02-15T03:02:24.000000Z
+Magnitude: 5.8
+Depth: -80.0
+Latitude: -19.711
+Longitude: -174.454
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 673
+Event-ID: 20130215_0000076
+Date Time: 2013-02-15T21:20:52.000000Z
+Magnitude: 5.2
+Depth: -21.8
+Latitude: -19.235
+Longitude: -176.203
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 674
+Event-ID: 20130216_0000018
+Date Time: 2013-02-16T04:37:35.000000Z
+Magnitude: 6.2
+Depth: -93.8
+Latitude: 5.958
+Longitude: 125.846
+Flynn-Region: MINDANAO, PHILIPPINES
+-------------------------------------
+Event No: 675
+Event-ID: 20130216_0000020
+Date Time: 2013-02-16T05:16:18.000000Z
+Magnitude: 6.0
+Depth: -205.7
+Latitude: -36.266
+Longitude: 178.023
+Flynn-Region: OFF E. COAST OF N. ISLAND, N.Z.
+-------------------------------------
+Event No: 676
+Event-ID: 20130216_0000083
+Date Time: 2013-02-16T22:17:31.000000Z
+Magnitude: 5.3
+Depth: -40.0
+Latitude: 43.541
+Longitude: 146.794
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 677
+Event-ID: 20130216_0000086
+Date Time: 2013-02-16T22:43:40.000000Z
+Magnitude: 5.3
+Depth: -2.0
+Latitude: -15.66
+Longitude: -13.154
+Flynn-Region: SOUTHERN MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 678
+Event-ID: 20130217_0000009
+Date Time: 2013-02-17T01:16:46.000000Z
+Magnitude: 4.8
+Depth: -10.0
+Latitude: -38.042
+Longitude: -94.346
+Flynn-Region: WEST CHILE RISE
+-------------------------------------
+Event No: 679
+Event-ID: 20130217_0000074
+Date Time: 2013-02-17T19:18:52.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -10.798
+Longitude: 165.725
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 680
+Event-ID: 20130217_0000075
+Date Time: 2013-02-17T19:23:45.000000Z
+Magnitude: 5.5
+Depth: -10.0
+Latitude: -10.798
+Longitude: 165.545
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 681
+Event-ID: 20130218_0000011
+Date Time: 2013-02-18T03:40:49.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 5.521
+Longitude: -33.094
+Flynn-Region: CENTRAL MID-ATLANTIC RIDGE
+-------------------------------------
+Event No: 682
+Event-ID: 20130218_0000025
+Date Time: 2013-02-18T10:00:11.000000Z
+Magnitude: 5.4
+Depth: -24.9
+Latitude: -33.931
+Longitude: -72.087
+Flynn-Region: OFFSHORE O'HIGGINS, CHILE
+-------------------------------------
+Event No: 683
+Event-ID: 20130218_0000045
+Date Time: 2013-02-18T12:19:15.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -30.684
+Longitude: -178.067
+Flynn-Region: KERMADEC ISLANDS, NEW ZEALAND
+-------------------------------------
+Event No: 684
+Event-ID: 20130219_0000026
+Date Time: 2013-02-19T12:27:39.000000Z
+Magnitude: 5.4
+Depth: -43.6
+Latitude: 35.285
+Longitude: 140.924
+Flynn-Region: NEAR EAST COAST OF HONSHU, JAPAN
+-------------------------------------
+Event No: 685
+Event-ID: 20130219_0000045
+Date Time: 2013-02-19T16:57:07.000000Z
+Magnitude: 4.5
+Depth: -10.0
+Latitude: 61.429
+Longitude: -42.636
+Flynn-Region: WESTERN GREENLAND
+-------------------------------------
+Event No: 686
+Event-ID: 20130219_0000060
+Date Time: 2013-02-19T22:29:02.000000Z
+Magnitude: 5.8
+Depth: -48.7
+Latitude: -17.388
+Longitude: -173.465
+Flynn-Region: TONGA
+-------------------------------------
+Event No: 687
+Event-ID: 20130220_0000001
+Date Time: 2013-02-20T00:09:20.000000Z
+Magnitude: 5.6
+Depth: -11.9
+Latitude: -10.702
+Longitude: 166.887
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 688
+Event-ID: 20130220_0000076
+Date Time: 2013-02-20T21:23:09.000000Z
+Magnitude: 5.7
+Depth: -15.0
+Latitude: 18.659
+Longitude: -103.756
+Flynn-Region: OFFSHORE MICHOACAN, MEXICO
+-------------------------------------
+Event No: 689
+Event-ID: 20130221_0000080
+Date Time: 2013-02-21T19:50:03.000000Z
+Magnitude: 5.4
+Depth: -49.1
+Latitude: -6.314
+Longitude: 154.937
+Flynn-Region: BOUGAINVILLE REGION, P.N.G.
+-------------------------------------
+Event No: 690
+Event-ID: 20130222_0000053
+Date Time: 2013-02-22T12:01:59.000000Z
+Magnitude: 6.1
+Depth: -588.5
+Latitude: -27.892
+Longitude: -63.181
+Flynn-Region: SANTIAGO DEL ESTERO, ARGENTINA
+-------------------------------------
+Event No: 691
+Event-ID: 20130223_0000027
+Date Time: 2013-02-23T08:59:09.000000Z
+Magnitude: 5.9
+Depth: -10.0
+Latitude: -10.614
+Longitude: 165.332
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 692
+Event-ID: 20130223_0000034
+Date Time: 2013-02-23T11:09:20.000000Z
+Magnitude: 5.8
+Depth: -24.9
+Latitude: -8.471
+Longitude: 127.707
+Flynn-Region: EAST TIMOR REGION
+-------------------------------------
+Event No: 693
+Event-ID: 20130223_0000043
+Date Time: 2013-02-23T14:31:03.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: -11.682
+Longitude: 165.074
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 694
+Event-ID: 20130225_0000009
+Date Time: 2013-02-25T02:59:43.000000Z
+Magnitude: 5.5
+Depth: -60.0
+Latitude: -15.227
+Longitude: -176.529
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 695
+Event-ID: 20130225_0000017
+Date Time: 2013-02-25T05:11:10.000000Z
+Magnitude: 5.5
+Depth: -15.0
+Latitude: 34.471
+Longitude: 85.871
+Flynn-Region: WESTERN XIZANG
+-------------------------------------
+Event No: 696
+Event-ID: 20130225_0000028
+Date Time: 2013-02-25T07:23:56.000000Z
+Magnitude: 5.7
+Depth: -10.0
+Latitude: 36.896
+Longitude: 139.236
+Flynn-Region: EASTERN HONSHU, JAPAN
+-------------------------------------
+Event No: 697
+Event-ID: 20130225_0000058
+Date Time: 2013-02-25T13:41:27.000000Z
+Magnitude: 4.6
+Depth: -10.0
+Latitude: 52.781
+Longitude: -132.374
+Flynn-Region: QUEEN CHARLOTTE ISLANDS REGION
+-------------------------------------
+Event No: 698
+Event-ID: 20130225_0000065
+Date Time: 2013-02-25T15:14:35.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -11.098
+Longitude: 165.961
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 699
+Event-ID: 20130225_0000066
+Date Time: 2013-02-25T16:00:18.000000Z
+Magnitude: 5.4
+Depth: -27.7
+Latitude: 29.115
+Longitude: 131.507
+Flynn-Region: SOUTHEAST OF RYUKYU ISLANDS
+-------------------------------------
+Event No: 700
+Event-ID: 20130226_0000079
+Date Time: 2013-02-26T17:07:33.000000Z
+Magnitude: 4.9
+Depth: -10.0
+Latitude: 19.062
+Longitude: -67.974
+Flynn-Region: DOMINICAN REPUBLIC REGION
+-------------------------------------
+Event No: 701
+Event-ID: 20130226_0000090
+Date Time: 2013-02-26T19:57:57.000000Z
+Magnitude: 5.7
+Depth: -643.2
+Latitude: -21.527
+Longitude: -179.388
+Flynn-Region: FIJI REGION
+-------------------------------------
+Event No: 702
+Event-ID: 20130226_0000099
+Date Time: 2013-02-26T21:43:48.000000Z
+Magnitude: 5.3
+Depth: -132.3
+Latitude: 53.064
+Longitude: 158.014
+Flynn-Region: NEAR EAST COAST OF KAMCHATKA
+-------------------------------------
+Event No: 703
+Event-ID: 20130227_0000096
+Date Time: 2013-02-27T22:25:44.000000Z
+Magnitude: 5.2
+Depth: -10.0
+Latitude: 43.257
+Longitude: -126.504
+Flynn-Region: OFF COAST OF OREGON
+-------------------------------------
+Event No: 704
+Event-ID: 20130228_0000007
+Date Time: 2013-02-28T03:09:44.000000Z
+Magnitude: 5.9
+Depth: -15.0
+Latitude: -17.664
+Longitude: 167.354
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 705
+Event-ID: 20130228_0000048
+Date Time: 2013-02-28T18:07:46.000000Z
+Magnitude: 5.8
+Depth: -24.4
+Latitude: -10.869
+Longitude: 165.987
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 706
+Event-ID: 20130301_0000004
+Date Time: 2013-03-01T03:29:49.000000Z
+Magnitude: 5.4
+Depth: -175.0
+Latitude: 21.818
+Longitude: 144.086
+Flynn-Region: MARIANA ISLANDS REGION
+-------------------------------------
+Event No: 707
+Event-ID: 20130301_0000044
+Date Time: 2013-03-01T12:53:54.000000Z
+Magnitude: 6.3
+Depth: -56.4
+Latitude: 50.966
+Longitude: 157.558
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 708
+Event-ID: 20130301_0000047
+Date Time: 2013-03-01T13:20:52.000000Z
+Magnitude: 6.5
+Depth: -50.0
+Latitude: 50.92
+Longitude: 157.531
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 709
+Event-ID: 20130302_0000085
+Date Time: 2013-03-02T01:30:39.000000Z
+Magnitude: 5.2
+Depth: -41.1
+Latitude: 24.729
+Longitude: 92.25
+Flynn-Region: INDIA-BANGLADESH BORDER REGION
+-------------------------------------
+Event No: 710
+Event-ID: 20130302_0000047
+Date Time: 2013-03-02T11:42:03.000000Z
+Magnitude: 4.9
+Depth: -48.2
+Latitude: -22.882
+Longitude: -70.242
+Flynn-Region: ANTOFAGASTA, CHILE
+-------------------------------------
+Event No: 711
+Event-ID: 20130302_0000086
+Date Time: 2013-03-02T21:47:18.000000Z
+Magnitude: 5.4
+Depth: -2.0
+Latitude: -3.433
+Longitude: 145.189
+Flynn-Region: NEAR N COAST OF NEW GUINEA, PNG.
+-------------------------------------
+Event No: 712
+Event-ID: 20130303_0000017
+Date Time: 2013-03-03T03:25:22.000000Z
+Magnitude: 5.6
+Depth: -195.2
+Latitude: -7.181
+Longitude: 145.913
+Flynn-Region: NEAR S COAST OF NEW GUINEA, PNG.
+-------------------------------------
+Event No: 713
+Event-ID: 20130303_0000032
+Date Time: 2013-03-03T05:41:21.000000Z
+Magnitude: 5.4
+Depth: -40.0
+Latitude: 26.006
+Longitude: 99.78
+Flynn-Region: YUNNAN, CHINA
+-------------------------------------
+Event No: 714
+Event-ID: 20130304_0000059
+Date Time: 2013-03-04T20:56:36.000000Z
+Magnitude: 5.2
+Depth: -60.0
+Latitude: 50.791
+Longitude: 157.28
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 715
+Event-ID: 20130305_0000014
+Date Time: 2013-03-05T06:06:36.000000Z
+Magnitude: 5.8
+Depth: -39.1
+Latitude: -5.233
+Longitude: 152.603
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 716
+Event-ID: 20130306_0000039
+Date Time: 2013-03-06T09:16:01.000000Z
+Magnitude: 5.6
+Depth: -20.0
+Latitude: -22.467
+Longitude: 171.11
+Flynn-Region: SOUTHEAST OF LOYALTY ISLANDS
+-------------------------------------
+Event No: 717
+Event-ID: 20130306_0000047
+Date Time: 2013-03-06T10:30:54.000000Z
+Magnitude: 5.4
+Depth: -10.0
+Latitude: -43.486
+Longitude: 40.115
+Flynn-Region: PRINCE EDWARD ISLANDS REGION
+-------------------------------------
+Event No: 718
+Event-ID: 20130306_0000067
+Date Time: 2013-03-06T14:46:37.000000Z
+Magnitude: 4.0
+Depth: -2.0
+Latitude: 34.891
+Longitude: 26.022
+Flynn-Region: CRETE, GREECE
+-------------------------------------
+Event No: 719
+Event-ID: 20130307_0000061
+Date Time: 2013-03-07T20:55:54.000000Z
+Magnitude: 5.6
+Depth: -249.6
+Latitude: -18.935
+Longitude: 169.353
+Flynn-Region: VANUATU
+-------------------------------------
+Event No: 720
+Event-ID: 20130308_0000071
+Date Time: 2013-03-08T23:43:43.000000Z
+Magnitude: 4.0
+Depth: -10.0
+Latitude: 11.037
+Longitude: -65.456
+Flynn-Region: OFFSHORE MIRANDA, VENEZUELA
+-------------------------------------
+Event No: 721
+Event-ID: 20130309_0000055
+Date Time: 2013-03-09T14:56:29.000000Z
+Magnitude: 5.8
+Depth: -47.6
+Latitude: 50.891
+Longitude: 157.285
+Flynn-Region: KURIL ISLANDS
+-------------------------------------
+Event No: 722
+Event-ID: 20130310_0000045
+Date Time: 2013-03-10T10:18:16.000000Z
+Magnitude: 5.6
+Depth: -10.0
+Latitude: 12.863
+Longitude: -90.603
+Flynn-Region: OFF THE COAST OF GUATEMALA
+-------------------------------------
+Event No: 723
+Event-ID: 20130310_0000075
+Date Time: 2013-03-10T16:49:20.000000Z
+Magnitude: 5.7
+Depth: -54.7
+Latitude: -5.248
+Longitude: 151.639
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 724
+Event-ID: 20130310_0000076
+Date Time: 2013-03-10T17:11:05.000000Z
+Magnitude: 5.0
+Depth: -2.0
+Latitude: 59.136
+Longitude: -154.187
+Flynn-Region: SOUTHERN ALASKA
+-------------------------------------
+Event No: 725
+Event-ID: 20130310_0000091
+Date Time: 2013-03-10T21:17:12.000000Z
+Magnitude: 4.3
+Depth: -90.4
+Latitude: 59.097
+Longitude: -154.108
+Flynn-Region: SOUTHERN ALASKA
+-------------------------------------
+Event No: 726
+Event-ID: 20130310_0000097
+Date Time: 2013-03-10T22:51:50.000000Z
+Magnitude: 6.5
+Depth: -21.7
+Latitude: -6.59
+Longitude: 148.301
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 727
+Event-ID: 20130311_0000004
+Date Time: 2013-03-11T01:43:27.000000Z
+Magnitude: 5.5
+Depth: -30.0
+Latitude: -6.719
+Longitude: 148.566
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 728
+Event-ID: 20130311_0000008
+Date Time: 2013-03-11T02:15:49.000000Z
+Magnitude: 5.4
+Depth: -30.0
+Latitude: -6.736
+Longitude: 148.354
+Flynn-Region: NEW BRITAIN REGION, P.N.G.
+-------------------------------------
+Event No: 729
+Event-ID: 20130311_0000075
+Date Time: 2013-03-11T17:12:14.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: -11.543
+Longitude: 165.151
+Flynn-Region: SANTA CRUZ ISLANDS
+-------------------------------------
+Event No: 730
+Event-ID: 20130313_0000009
+Date Time: 2013-03-13T03:12:53.000000Z
+Magnitude: 5.8
+Depth: -10.0
+Latitude: 60.307
+Longitude: 163.42
+Flynn-Region: KAMCHATKA PENINSULA, RUSSIA
+-------------------------------------
+Event No: 731
+Event-ID: 20130314_0000029
+Date Time: 2013-03-14T09:09:24.000000Z
+Magnitude: 4.6
+Depth: -10.0
+Latitude: 38.672
+Longitude: -123.076
+Flynn-Region: NORTHERN CALIFORNIA
+-------------------------------------
