@@ -1,10 +1,14 @@
-import sys
-from obspy.core import read
 import matplotlib.pyplot as plt
 import numpy as np
+from obspy.core import read
+import sys
 from obspy.signal.util import prevpow2
 
-tr = read(sys.argv[1])[0]
+st = read(sys.argv[1])
+print 'Stream read from the following address\n%s\ncontains:\n%s' %(sys.argv[1], st)
+st = st.merge()
+tr = st[0]
+print 'Trace is:\n\n%s' % tr
 #tr.resample(20.0)
 #tr.filter('lowpass', freq = 2.0)
 #tr.filter('highpass', freq = 0.001)
@@ -23,5 +27,5 @@ freq = np.linspace(0, samp_rate, num)
 
 #plt.plot(np.log10(freq[0:(len(freq)/2)]), np.log10(fft_amp[0:(len(freq)/2)]))
 #plt.plot(np.log10(freq[0:(len(freq)/2)]), abs(fft_amp_new[0:(len(freq)/2)]))
-plt.plot(np.log10(freq[0:(len(freq)/2)]), np.log10(abs(fft_amp_new[0:(len(freq)/2)])))
+plt.plot(np.log10(freq[1:(len(freq)/2)]), np.log10(abs(fft_amp_new[1:(len(freq)/2)])))
 plt.show()
