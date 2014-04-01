@@ -6,10 +6,48 @@ import pickle
 
 max_date = UTCDateTime(2013, 1, 1)
 
-aa = open('event_list')
-events = pickle.load(aa)
+event_fio = open('event_list')
+events = pickle.load(event_fio)
 counter = {}
 
+counting = 0
+for i in range(len(events)):
+    if events[i]['datetime'] > max_date: 
+        print '%s > %s' %(events[i]['datetime'], max_date)
+        continue
+    if not str(-int(events[i]['depth'])) in counter.keys():
+        counter[str(-int(events[i]['depth']))] = 1
+    else:
+        counter[str(-int(events[i]['depth']))] += 1
+    counting += 1
+
+print 'Number of all used events: %s' % counting
+for i in counter.keys():
+    #if 100 <= counter[i]:
+        #plt.bar(int(i)-0.5, counter[i], 1, log=True)
+        plt.bar(int(i)-0.5, counter[i], 1)
+
+counter_list = []
+for i in counter.keys():
+    counter_list.append([int(i), counter[i]])
+counter_list.sort()
+
+import py2mat_mod
+py2mat_mod.py2mat(counter_list, 'counter_list', 'counter_list')
+
+plt.ion()
+plt.xlim(xmin=-2, xmax=100)
+plt.ylim(ymax=1100)
+plt.xlabel('Depth (km)', size=36, weight='bold')
+plt.ylabel('Number of events', size=36, weight='bold')
+plt.xticks(size=32, weight='bold')
+plt.yticks(size=32, weight='bold')
+plt.title('Depth=10km (1002 events)    Depth=33km (254 events)\n', size=36, weight='bold')
+plt.show()
+
+
+
+# --------------------- TRASH --------------------------
 #for i in range(len(events)):
 #    if not str(-int(events[i]['depth']*10)) in counter.keys():
 #        counter[str(-int(events[i]['depth']*10))] = 1
@@ -41,30 +79,3 @@ counter = {}
 #for i in counter.keys():
 #        plt.bar(int(i)-0.5, counter[i], 1)
 #
-counting = 0
-for i in range(len(events)):
-    if events[i]['datetime'] > max_date: 
-        print '%s > %s' %(events[i]['datetime'], max_date)
-        continue
-    if not str(-int(events[i]['depth'])) in counter.keys():
-        counter[str(-int(events[i]['depth']))] = 1
-    else:
-        counter[str(-int(events[i]['depth']))] += 1
-    counting += 1
-
-print 'Number of all used events: %s' % counting
-for i in counter.keys():
-    #if 100 <= counter[i]:
-        #plt.bar(int(i)-0.5, counter[i], 1, log=True)
-        plt.bar(int(i)-0.5, counter[i], 1)
-
-plt.ion()
-plt.xlim(xmin=-2, xmax=100)
-plt.ylim(ymax=1100)
-plt.xlabel('Depth (km)', size=36, weight='bold')
-plt.ylabel('Number of events', size=36, weight='bold')
-plt.xticks(size=32, weight='bold')
-plt.yticks(size=32, weight='bold')
-plt.title('Depth=10km (1002 events)    Depth=33km (254 events)\n', size=36, weight='bold')
-plt.show()
-
