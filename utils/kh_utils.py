@@ -15,13 +15,35 @@
 
 # Required Python modules will be imported in this part.
 
+from matplotlib.colors import LinearSegmentedColormap
 import multiprocessing
 import numpy as np
 from obspy.core.util import locations2degrees
 from obspy.taup import getTravelTimes
 import scipy.io as sio
+from scipy.spatial import cKDTree
 import sys
 import time
+
+# ---------------------- geocen_array ---------------------------
+
+
+def _get_colormap(colors, colormap_name):
+    """
+    A simple helper function facilitating linear colormap creation.
+    """
+    # Sort and normalize from 0 to 1.
+    indices = np.array(sorted(colors.iterkeys()))
+    normalized_indices = (indices - indices.min()) / indices.ptp()
+
+    # Create the colormap dictionary and return the colormap.
+    cmap_dict = {"red": [], "green": [], "blue": []}
+    for _i, index in enumerate(indices):
+        color = colors[index]
+        cmap_dict["red"].append((normalized_indices[_i], color[0], color[0]))
+        cmap_dict["green"].append((normalized_indices[_i], color[1], color[1]))
+        cmap_dict["blue"].append((normalized_indices[_i], color[2], color[2]))
+    return LinearSegmentedColormap(colormap_name, cmap_dict)
 
 # ---------------------- geocen_array ---------------------------
 
@@ -154,6 +176,44 @@ def travel_time_calc(evla, evlo, stla, stlo, evdp, bg_model):
     except Exception, e:
         tt = False
     return tt
+
+# ------------------ SphericalNearestNeighbour ---------------------------
+
+
+class SphericalNearestNeighbour():
+    """
+    Spherical nearest neighbour queries using scipy's fast kd-tree
+    implementation.
+    """
+    def __init__(self, lat, lon, el_dp, eradius=6371009):
+        cart_data = self.spherical2cartesian(lat, lon, el_dp, eradius)
+        self.kd_tree = cKDTree(data=cart_data, leafsize=10)
+        self.eradius = eradius
+
+    def query(self, lat, lon, el_dp, k=1):
+        points = self.spherical2cartesian(lat, lon, el_dp, self.eradius)
+        d, i = self.kd_tree.query(points, k=k)
+        return d, i
+
+    def query_pairs(self, maximum_distance):
+        return self.kd_tree.query_pairs(maximum_distance)
+
+    def spherical2cartesian(self, lat, lon, el_dp, eradius):
+        """
+        Converts a list of :class:`~obspy.fdsn.download_status.Station`
+        objects to an array of shape(len(list), 3) containing x/y/z in meters.
+        """
+        shape = len(lat)
+        r = eradius + el_dp
+        # Convert data from lat/lng to x/y/z.
+        colat = 90.0 - lat
+        cart_data = np.empty((shape, 3), dtype=np.float64)
+        cart_data[:, 0] = r * np.sin(np.deg2rad(colat)) * \
+        np.cos(np.deg2rad(lon))
+        cart_data[:, 1] = r * np.sin(np.deg2rad(colat)) * \
+        np.sin(np.deg2rad(lon))
+        cart_data[:, 2] = r * np.cos(np.deg2rad(colat))
+        return cart_data
 
 # ---------------------- check_par_jobs ---------------------------
 
