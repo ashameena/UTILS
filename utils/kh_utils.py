@@ -18,7 +18,10 @@
 from matplotlib.colors import LinearSegmentedColormap
 import multiprocessing
 import numpy as np
-from obspy.core.util import locations2degrees
+try:
+    from obspy.geodetics import locations2degrees
+except Exception, e:
+    from obspy.core.util import locations2degrees
 from obspy.taup import getTravelTimes
 import scipy.io as sio
 from scipy.spatial import cKDTree
